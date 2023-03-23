@@ -20,4 +20,11 @@ limit to downloadfiles < 5 MB
 - create list of all Gemeinden
 - parse the files to find all Gemeinden (i.e. "Zollikofen")
 
+## resources
+
+- opendata.swiss mit ihrer API. Informationen zur Nutzung der API finden sich im Handbook sowie auf der offiziellen Dokumentation von CKAN
+- Link auf den Metadaten-Standard DCAT AP-CH und die Implementation auf opendata.swiss
+- github repositories: professional; hobby
+
+
 documentation

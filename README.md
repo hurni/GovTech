@@ -30,7 +30,7 @@ Gewählter Ansatz: Parse the datasets and add tag, if a Gemeinde is mentioned.
 - Metadaten-Standard DCAT AP-CH (https://dcat-ap.ch/) und die Implementation auf opendata.swiss (https://handbook.opendata.swiss/de/content/glossar/bibliothek/dcat-ap-ch.html)
 - github repository of handbook: https://github.com/opendata-swiss/
 
-To do (future):
+## To do (future):
 implement on productive environment
 add kantons
 add for geodata. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/

@@ -19,10 +19,10 @@ Gewählter Ansatz: Parse the datasets and add tag, if a Gemeinde is mentioned.
 
 ## todo
 
-- Liste der download-Links mit den entsprechenden Package- und Ressourcen-IDs. > 
+- Liste der download-Links mit den entsprechenden Package- und Ressourcen-IDs. > ./harvester
 - Harvesten der Datasets. 
-- Liste aller Gemeindenamen.
-- parse the files to find all Gemeinden (i.e. "Zollikofen")
+- Liste aller Gemeindenamen > ./data
+- Parsen der Downloadfile nach den Gemeindenamen > ./parser
 - POST found Gemeindanamen to apropriate datasets
 - documentation!
 

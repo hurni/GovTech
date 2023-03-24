@@ -39,5 +39,6 @@ Gewählter Ansatz: Brute Force. Parse the datasets and add tag, if a Gemeinde is
 - Ausweiten auf weitere Parameter
 - Für die Einbindung von Geodaten. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/
 - Produktivsetzung: 
-  - Automatisierung nach dem Harvesting (vorausgesetzt: Einwilligung der Datapublisher)
-  - Service für Datapublisher, damti sie selber die Metadaten ergänzen.  
+  a) Automatisierung nach dem Harvesting (vorausgesetzt: Einwilligung der Datapublisher)
+  b) Service für Datapublisher, damti sie selber die Metadaten ergänzen.  
+  c) ???

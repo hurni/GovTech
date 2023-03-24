@@ -18,7 +18,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Add proxy settings for computers on the BV-Netz
 hostname = socket.gethostname()
 
-if ipaddress.ip_address(socket.gethostbyname(hostname)) in ipaddress.ip_network('130.125.70.0/24'):
+if ipaddress.ip_address(socket.gethostbyname(hostname)) in ipaddress.ip_network('10.228.0.0/16'):
     proxies = {
         "http":'http://proxy-bvcol.admin.ch:8080',
         "https":'http://proxy-bvcol.admin.ch:8080'
@@ -66,7 +66,7 @@ def augment_json(filename, id, url):
     data['download_url'] = url
     f = open(jsonfile, 'w')
     f.write(json.dumps(data))
-    f.close().
+    f.close()
 
 # TODO: really, really rewrite this
 def download_files(domain = 'territory',

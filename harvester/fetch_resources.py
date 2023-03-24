@@ -32,8 +32,12 @@ for file in glob.glob("*.json"):
         os.makedirs(f"{output_dir}/{domain}")
 
     # Download each url into a file named xxxxxxxx.csv
-    # TODO: exclude the non-cvs files here, e.g. zip archives
     for i in range(len(urls)):
+        if 'zip' in urls[i].lower():
+            # exclude zip files based on the name
+            print(f'{urls[i]},ZIP')
+            continue
+        
         filename = f'{output_dir}/{domain}/{str(i).zfill(8)}'
         try:
             harvester.download_file(urls[i], filename)

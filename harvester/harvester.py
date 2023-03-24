@@ -1,8 +1,17 @@
+"""Harvester functions to download csv or json resources from opendata.swiss API
+
+NOTE: most of this crap can be avoided if you have bash, curl and fq,
+see fetch_urls.sh. The only things you need are the proxy settings as
+well as function download_file()
+
+"""
+
 import requests
 import urllib3
 import os
 import socket
 import ipaddress
+import json
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -19,6 +28,7 @@ else:
     
 s = requests.Session()
 
+# base url for downloading
 base_URL = "https://ckan.opendata.swiss/api/3/action/package_show?id="
 
 def get_packages(query):
@@ -47,8 +57,23 @@ def download_file(url, name = 'test.csv'):
     fout.write(fcontent)
     fout.close()
 
-def download_files(domain = 'territory', format = 'CSV', output_dir = 'output', max_rows=1000):
-    # It's always nice to create missing directories automatically
+def augment_json(filename, id, url):
+    """Add two fields for meilisearch: id and download_url"""
+    f = open(jsonfile)
+    data = json.load(f)
+    f.close()
+    data['meilisearch_id'] = id
+    data['download_url'] = url
+    f = open(jsonfile, 'w')
+    f.write(json.dumps(data))
+    f.close().
+
+# TODO: really, really rewrite this
+def download_files(domain = 'territory',
+                   format = 'CSV',
+                   output_dir = 'output',
+                   max_rows=1000):
+    # Create missing directories
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     if not os.path.exists(f"{output_dir}/{domain}"):
@@ -71,9 +96,15 @@ def download_files(domain = 'territory', format = 'CSV', output_dir = 'output', 
             return
         print(f"{urls[i]},{filename}")
         download_file(urls[i], filename)
+        if format == 'JSON':
+            augment_json(filename, id=i, url=urls[i])
+            
 
+        
 if __name__ == "__main__":
+    format = 'JSON'
+    max_rows = 50
     # max_rows limits the number of files retrieved, remove it to
     # download everything
-    download_files('territory', format = 'CSV', max_rows=50)
-    download_files('geography', format = 'CSV', max_rows=50)
+    download_files('territory', format = format, max_rows = max_rows)
+    download_files('geography', format = format, max_rows = max_rows)

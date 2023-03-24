@@ -2,25 +2,28 @@
 
 # opendata.swiss: Automatisiertes Anreichern von Metadaten
 
-## challenge
-find the challenge here: https://hack.opendata.ch/project/947
+## Challenge
+challenge ist zu finden: https://hack.opendata.ch/project/947
 
 ## Goal
 Die Metadaten auf opendata.swiss sollen automatisiert angereichert werden, damit geographische Untereinheiten (z.B. Gemeinden, Kantone) bei der Suche 
 nach Datasets gefunden werden, obschon sie nicht in den Metadaten aufgeführt sind.
 Gewählter Ansatz: Parse the datasets and add tag, if a Gemeinde is mentioned.
 
-## scope
-- limit to csv-files on opendata.swiss.
-- limit to downloadfiles < 5 MB
+
+## Scope PoC
+- Auswahl von 300 Datasets
+- Beschränkung auf Datasets mit csv-Ressourcen.
+- Beschränkung auf downloadfiles < 5 MB
+
 
 ## todo
 
-- get the download links from opendata.swiss
-- harvest files from download links
+- get the download links from opendata.swiss & harvest files from download links. 
 - create list of all Gemeinden
 - parse the files to find all Gemeinden (i.e. "Zollikofen")
-- documentation
+- POST found Gemeindanamen to apropriate datasets
+- documentation!
 
 
 ## resources

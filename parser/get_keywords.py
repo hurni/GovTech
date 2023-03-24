@@ -16,6 +16,7 @@ def get_delimiter(file_path, bytes = 4096):
 
 # if not utf-8....
 # look at the first ten thousand bytes to guess the character encoding
+#https://yunkgao.wordpress.com/2020/09/11/how-to-detect-delimiter-and-encoding-of-csv-file-in-python-pandas/
 def get_encoding(filename):
     with open(filename, 'rb') as rawdata:
         result = chardet.detect(rawdata.read(10000))

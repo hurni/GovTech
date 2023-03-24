@@ -36,7 +36,7 @@ for file in glob.glob("*.json"):
     
     # Download each url into a file named xxxxxxxx.csv
     #for i in range(len(data)):
-    for i in range(200):
+    for i in range(160):
         url = data[i]["url"]
         package_id = data[i]["package_id"]
         ressource_id = data[i]["resource"]
@@ -52,6 +52,6 @@ for file in glob.glob("*.json"):
             print(buf)
             mapfile.write(buf+'\n')
         except:
-            print(f'{urls[i]},ERROR')
+            print(f'{url},ERROR')
 
     mapfile.close()

@@ -39,9 +39,10 @@ def getCommunityNames(fileName):
     for community in communityList:
         for col in df.columns:
             if (df[col].eq(community)).any():
-                namesPresent = namesPresent + ', ' + community
+                namesPresent = namesPresent + community + ', '
                 break
-    
+    if namesPresent!='':
+        namesPresent=namesPresent[:-2]
     return namesPresent
 
 data_path = os.path.join(os.path.dirname(__file__), '..', 'data/')

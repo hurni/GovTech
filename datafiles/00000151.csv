@@ -1,0 +1,250 @@
+politische_gemeinde;bfs_nr_gemeinde;bezirk_name;bezirk_nr;ortschaft;einwohner_total;einwohner_maenner;einwohner_frauen;einwohner_0_19;einwohner_20_39;einwohner_40_64;einwohner_65plus;einwohner_schweizer;einwohner_auslaender_total;einwohner_auslaender_deutsche;einwohner_evang;einwohner_kath;einwohner_uebrige
+Aadorf;4551;Münchwilen;2014;Aawangen;50;22;28;14;12;17;7;x;x;x;29;9;12
+Aadorf;4551;Münchwilen;2014;Wittenwil;452;228;224;101;106;173;72;x;x;x;222;103;127
+Aadorf;4551;Münchwilen;2014;Guntershausen b. Aadorf;1489;761;728;297;339;583;270;1326;163;64;499;540;450
+Aadorf;4551;Münchwilen;2014;Aadorf;5171;2586;2585;1058;1337;1715;1061;4124;1047;173;1629;1561;1981
+Aadorf;4551;Münchwilen;2014;Ettenhausen;1371;692;679;280;340;508;243;1260;111;44;460;497;414
+Aadorf;4551;Münchwilen;2014;Häuslenen;495;249;246;88;127;193;87;443;52;26;193;110;192
+Affeltrangen;4711;Weinfelden;2015;Affeltrangen;1007;539;468;227;274;342;164;793;214;42;366;342;299
+Affeltrangen;4711;Weinfelden;2015;Buch b. Märwil;121;64;57;29;22;43;27;115;6;x;x;x;x
+Affeltrangen;4711;Weinfelden;2015;Märwil;1118;584;534;278;297;394;149;947;171;28;446;358;314
+Affeltrangen;4711;Weinfelden;2015;Zezikon;215;105;110;32;45;94;44;200;15;8;98;61;56
+Affeltrangen;4711;Weinfelden;2015;Amlikon-Bissegg;103;51;52;20;34;37;12;x;x;x;53;26;24
+Affeltrangen;4711;Weinfelden;2015;Tobel;39;19;20;12;6;11;10;x;x;x;x;x;x
+Altnau;4641;Kreuzlingen;2013;Altnau;2280;1106;1174;499;530;863;388;1796;484;293;897;673;710
+Amlikon-Bissegg;4881;Weinfelden;2015;Amlikon-Bissegg;1333;683;650;245;318;544;226;1196;137;69;569;323;441
+Amlikon-Bissegg;4881;Weinfelden;2015;Bonau;x;x;x;x;x;x;x;x;x;x;x;x;x
+Amriswil;4461;Arbon;2011;Amriswil;12119;6024;6095;2461;3571;3973;2114;8006;4113;535;3012;3684;5423
+Amriswil;4461;Arbon;2011;Hagenwil b. Amriswil;127;63;64;28;35;48;16;117;10;x;12;99;16
+Amriswil;4461;Arbon;2011;Oberaach;964;502;462;252;267;338;107;713;251;44;336;235;393
+Amriswil;4461;Arbon;2011;Schocherswil;386;192;194;65;95;146;80;361;25;x;164;95;127
+Amriswil;4461;Arbon;2011;Biessenhofen;149;78;71;31;37;63;18;132;17;13;66;46;37
+Arbon;4401;Arbon;2011;Frasnacht;1257;642;615;275;267;517;198;997;260;83;335;454;468
+Arbon;4401;Arbon;2011;Stachen;866;446;420;168;215;314;169;687;179;52;263;296;307
+Arbon;4401;Arbon;2011;Arbon;12595;6291;6304;2345;3258;4352;2640;8224;4371;850;2792;3926;5877
+Basadingen-Schlattingen;4536;Frauenfeld;2012;Schlattingen;759;395;364;163;162;296;138;637;122;32;351;143;265
+Basadingen-Schlattingen;4536;Frauenfeld;2012;Unterstammheim;x;x;x;x;x;x;x;x;x;x;x;x;x
+Basadingen-Schlattingen;4536;Frauenfeld;2012;Basadingen;1069;540;529;221;226;420;202;921;148;52;412;287;370
+Berg;4891;Weinfelden;2015;Mauren;479;267;212;103;109;207;60;411;68;18;274;90;115
+Berg;4891;Weinfelden;2015;Graltshausen;88;49;39;17;18;35;18;82;6;x;46;20;22
+Berg;4891;Weinfelden;2015;Opfershofen;18;11;7;x;x;x;x;x;x;x;x;x;x
+Berg;4891;Weinfelden;2015;Andhausen;201;105;96;51;58;74;18;171;30;19;112;51;38
+Berg;4891;Weinfelden;2015;Berg;2483;1221;1262;605;589;882;407;2117;366;158;1107;697;679
+Berg;4891;Weinfelden;2015;Guntershausen b. Berg;154;73;81;29;36;52;37;143;11;x;70;21;63
+Berg;4891;Weinfelden;2015;Weinfelden;21;9;12;x;x;x;x;x;x;x;x;x;x
+Berlingen;4801;Frauenfeld;2012;Berlingen;894;446;448;130;164;334;266;670;224;152;394;202;298
+Bettwiesen;4716;Münchwilen;2014;Bettwiesen;1223;641;582;234;351;466;172;945;278;50;272;552;399
+Bichelsee-Balterswil;4721;Münchwilen;2014;Bichelsee;963;495;468;200;205;363;195;885;78;31;337;327;299
+Bichelsee-Balterswil;4721;Münchwilen;2014;Balterswil;1910;997;913;442;494;686;288;1671;239;79;543;725;642
+Birwinken;4901;Weinfelden;2015;Andwil;489;239;250;110;126;183;70;434;55;28;235;86;168
+Birwinken;4901;Weinfelden;2015;Birwinken;171;83;88;25;44;74;28;158;13;x;93;32;46
+Birwinken;4901;Weinfelden;2015;Mattwil;362;180;182;73;100;123;66;285;77;38;124;89;149
+Birwinken;4901;Weinfelden;2015;Buch b. Kümmertshausen;62;28;34;14;15;24;9;x;x;x;35;8;19
+Birwinken;4901;Weinfelden;2015;Happerswil;173;88;85;41;40;56;36;162;11;7;111;15;47
+Birwinken;4901;Weinfelden;2015;Klarsreuti;83;31;52;31;11;27;14;x;x;x;34;12;37
+Bischofszell;4471;Weinfelden;2015;Bischofszell;5429;2734;2695;1112;1476;1841;1000;3917;1512;235;1481;1953;1995
+Bischofszell;4471;Weinfelden;2015;Halden;244;122;122;41;58;91;54;215;29;x;87;101;56
+Bischofszell;4471;Weinfelden;2015;Schweizersholz;290;160;130;66;66;107;51;267;23;x;120;89;81
+Bottighofen;4643;Kreuzlingen;2013;Bottighofen;2295;1153;1142;435;422;895;543;1524;771;589;812;647;836
+Braunau;4723;Münchwilen;2014;Braunau;814;413;401;177;243;281;113;739;75;31;295;297;222
+Bürglen;4911;Weinfelden;2015;Bürglen;2981;1513;1468;588;977;925;491;1964;1017;187;816;812;1353
+Bürglen;4911;Weinfelden;2015;Istighofen;562;291;271;93;164;231;74;436;126;24;175;187;200
+Bürglen;4911;Weinfelden;2015;Opfershofen;105;59;46;20;26;36;23;92;13;7;61;13;31
+Bürglen;4911;Weinfelden;2015;Leimbach;301;148;153;61;81;104;55;272;29;20;119;65;117
+Bussnang;4921;Weinfelden;2015;Bussnang;551;288;263;106;188;174;83;409;142;71;226;137;188
+Bussnang;4921;Weinfelden;2015;Friltschen;323;160;163;93;97;89;44;295;28;14;155;68;100
+Bussnang;4921;Weinfelden;2015;Mettlen;531;278;253;134;151;166;80;440;91;37;185;183;163
+Bussnang;4921;Weinfelden;2015;Oberbussnang;106;53;53;19;21;48;18;98;8;x;52;24;30
+Bussnang;4921;Weinfelden;2015;Oppikon;130;75;55;29;24;47;30;x;x;x;60;44;26
+Bussnang;4921;Weinfelden;2015;Rothenhausen;528;271;257;109;155;192;72;454;74;27;232;99;197
+Bussnang;4921;Weinfelden;2015;Stehrenberg;98;51;47;31;29;30;8;x;x;x;46;44;8
+Bussnang;4921;Weinfelden;2015;Lanterswil;102;50;52;14;27;46;15;95;7;x;34;24;44
+Bussnang;4921;Weinfelden;2015;Märwil;x;x;x;x;x;x;x;x;x;x;x;x;x
+Bussnang;4921;Weinfelden;2015;Schmidshof;45;25;20;x;11;18;x;x;x;x;x;x;x
+Bussnang;4921;Weinfelden;2015;Istighofen;38;23;15;x;10;18;x;x;x;x;x;x;x
+Diessenhofen;4545;Frauenfeld;2012;Schlatt;x;x;x;x;x;x;x;x;x;x;x;x;x
+Diessenhofen;4545;Frauenfeld;2012;Diessenhofen;3892;1985;1907;723;1038;1351;780;2472;1420;252;1143;1267;1482
+Diessenhofen;4545;Frauenfeld;2012;Willisdorf;137;69;68;28;24;49;36;116;21;11;64;27;46
+Dozwil;4406;Arbon;2011;Dozwil;684;348;336;153;153;246;132;578;106;41;200;156;328
+Egnach;4411;Arbon;2011;Egnach;2056;1047;1009;460;485;773;338;1713;343;93;781;617;658
+Egnach;4411;Arbon;2011;Neukirch (Egnach);1655;839;816;348;408;609;290;1479;176;55;685;501;469
+Egnach;4411;Arbon;2011;Winden;325;157;168;73;73;119;60;317;8;x;171;84;70
+Egnach;4411;Arbon;2011;Steinebrunn;651;353;298;152;154;253;92;554;97;x;237;234;180
+Erlen;4476;Weinfelden;2015;Ennetaach;282;146;136;58;90;84;50;221;61;16;97;80;105
+Erlen;4476;Weinfelden;2015;Riedt b. Erlen;964;498;466;247;284;335;98;702;262;72;317;260;387
+Erlen;4476;Weinfelden;2015;Buchackern;190;100;90;47;54;67;22;170;20;15;67;52;71
+Erlen;4476;Weinfelden;2015;Engishofen;181;89;92;38;56;62;25;165;16;7;111;31;39
+Erlen;4476;Weinfelden;2015;Erlen;1884;965;919;458;490;657;279;1266;618;123;563;563;758
+Erlen;4476;Weinfelden;2015;Heldswil;x;x;x;x;x;x;x;x;x;x;x;x;x
+Erlen;4476;Weinfelden;2015;Kümmertshausen;263;129;134;56;52;110;45;235;28;14;129;38;96
+Ermatingen;4646;Kreuzlingen;2013;Triboltingen;447;222;225;76;114;177;80;323;124;96;181;111;155
+Ermatingen;4646;Kreuzlingen;2013;Ermatingen;3074;1533;1541;561;648;1184;681;2078;996;705;1168;818;1088
+Eschenz;4806;Frauenfeld;2012;Eschenz;1833;934;899;357;390;710;376;1472;361;155;600;569;664
+Eschlikon;4724;Münchwilen;2014;Sirnach;x;x;x;x;x;x;x;x;x;x;x;x;x
+Eschlikon;4724;Münchwilen;2014;Eschlikon;3210;1614;1596;595;923;1082;610;2717;493;127;1096;1060;1054
+Eschlikon;4724;Münchwilen;2014;Wallenwil;1254;655;599;294;297;475;188;1112;142;56;439;468;347
+Felben-Wellhausen;4561;Frauenfeld;2012;Frauenfeld;x;x;x;x;x;x;x;x;x;x;x;x;x
+Felben-Wellhausen;4561;Frauenfeld;2012;Felben-Wellhausen;2858;1489;1369;604;743;1057;454;2269;589;155;986;880;992
+Fischingen;4726;Münchwilen;2014;Sternenberg (ZH);15;7;8;x;x;8;x;x;x;x;x;x;x
+Fischingen;4726;Münchwilen;2014;Au;132;68;64;41;31;45;15;x;x;x;29;81;22
+Fischingen;4726;Münchwilen;2014;Dussnang;1280;624;656;278;281;482;239;1192;88;39;418;514;348
+Fischingen;4726;Münchwilen;2014;Fischingen;433;226;207;93;130;142;68;383;50;23;79;244;110
+Fischingen;4726;Münchwilen;2014;Oberwangen;797;410;387;185;195;287;130;728;69;32;251;361;185
+Fischingen;4726;Münchwilen;2014;Schmidrüti (ZH);40;20;20;x;x;14;x;34;6;x;x;x;x
+Fischingen;4726;Münchwilen;2014;Wiezikon b. Sirnach;95;47;48;19;20;36;20;89;6;x;36;39;20
+Frauenfeld;4566;Frauenfeld;2012;Felben-Wellhausen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Frauenfeld;4566;Frauenfeld;2012;Matzingen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Frauenfeld;4566;Frauenfeld;2012;Frauenfeld;25093;12300;12793;4708;7363;8322;4700;18990;6103;874;8102;8322;8669
+Frauenfeld;4566;Frauenfeld;2012;Gerlikon;491;253;238;107;96;183;105;470;21;x;266;100;125
+Gachnang;4571;Frauenfeld;2012;Islikon;1436;736;700;296;421;457;262;1119;317;62;582;364;490
+Gachnang;4571;Frauenfeld;2012;Frauenfeld;1015;519;496;222;282;354;157;913;102;24;484;227;304
+Gachnang;4571;Frauenfeld;2012;Gachnang;1505;741;764;377;349;569;210;1353;152;81;710;394;401
+Gachnang;4571;Frauenfeld;2012;Kefikon;487;264;223;102;136;201;48;404;83;22;195;84;208
+Gottlieben;4651;Kreuzlingen;2013;Gottlieben;331;163;168;60;67;129;75;197;134;119;123;87;121
+Güttingen;4656;Kreuzlingen;2013;Güttingen;1656;848;808;338;354;626;338;1312;344;221;618;462;576
+Hauptwil-Gottshaus;4486;Weinfelden;2015;Hauptwil;1212;643;569;256;317;441;198;1089;123;51;381;421;410
+Hauptwil-Gottshaus;4486;Weinfelden;2015;St. Pelagiberg;378;188;190;89;120;123;46;339;39;15;104;168;106
+Hauptwil-Gottshaus;4486;Weinfelden;2015;Bischofszell;103;50;53;30;19;31;23;94;9;x;52;16;35
+Hauptwil-Gottshaus;4486;Weinfelden;2015;Wilen (Gottshaus);294;153;141;77;81;99;37;277;17;x;87;129;78
+Hefenhofen;4416;Arbon;2011;Dozwil;x;x;x;x;x;x;x;x;x;x;x;x;x
+Hefenhofen;4416;Arbon;2011;Hefenhofen;1201;617;584;245;290;502;164;1025;176;56;419;392;390
+Herdern;4811;Frauenfeld;2012;Lanzenneunforn;447;228;219;94;101;182;70;x;x;29;154;155;138
+Herdern;4811;Frauenfeld;2012;Herdern;650;338;312;133;144;271;102;583;67;x;254;173;223
+Herdern;4811;Frauenfeld;2012;Hüttwilen;7;x;x;x;x;x;x;x;x;x;x;x;x
+Herdern;4811;Frauenfeld;2012;Weiningen;7;x;x;x;x;x;x;x;x;x;x;x;x
+Hohentannen;4495;Weinfelden;2015;Heldswil;264;132;132;60;70;108;26;232;32;x;110;72;82
+Hohentannen;4495;Weinfelden;2015;Hohentannen;320;166;154;64;84;133;39;309;11;x;141;89;90
+Homburg;4816;Frauenfeld;2012;Homburg;855;413;442;196;169;323;167;775;80;45;344;297;214
+Homburg;4816;Frauenfeld;2012;Hörhausen;686;340;346;165;154;242;125;639;47;29;304;216;166
+Horn;4421;Arbon;2011;Horn;2898;1431;1467;448;720;1077;653;2370;528;218;756;1125;1017
+Hüttlingen;4590;Frauenfeld;2012;Eschikofen;185;94;91;30;37;92;26;x;x;x;93;27;65
+Hüttlingen;4590;Frauenfeld;2012;Hüttlingen;255;136;119;57;65;95;38;219;36;x;141;34;80
+Hüttlingen;4590;Frauenfeld;2012;Harenwilen;59;31;28;14;11;23;11;x;x;x;34;17;8
+Hüttlingen;4590;Frauenfeld;2012;Mettendorf;341;180;161;72;90;121;58;317;24;12;157;60;124
+Hüttwilen;4821;Frauenfeld;2012;Herdern;x;x;x;x;x;x;x;x;x;x;x;x;x
+Hüttwilen;4821;Frauenfeld;2012;Uerschhausen;116;65;51;30;25;43;18;104;12;x;61;21;34
+Hüttwilen;4821;Frauenfeld;2012;Hüttwilen;1107;548;559;265;249;406;187;974;133;57;463;281;363
+Hüttwilen;4821;Frauenfeld;2012;Nussbaumen;546;278;268;133;100;221;92;499;47;x;281;91;174
+Kemmental;4666;Kreuzlingen;2013;Alterswilen;260;131;129;65;63;101;31;207;53;37;128;46;86
+Kemmental;4666;Kreuzlingen;2013;Altishausen;172;95;77;37;50;52;33;146;26;16;82;41;49
+Kemmental;4666;Kreuzlingen;2013;Dotnacht;304;157;147;55;62;129;58;274;30;13;135;54;115
+Kemmental;4666;Kreuzlingen;2013;Ellighausen;139;71;68;29;32;60;18;108;31;19;62;31;46
+Kemmental;4666;Kreuzlingen;2013;Hugelshofen;425;217;208;96;100;167;62;377;48;29;226;78;121
+Kemmental;4666;Kreuzlingen;2013;Lippoldswilen;173;87;86;44;43;67;19;145;28;23;95;33;45
+Kemmental;4666;Kreuzlingen;2013;Neuwilen;561;291;270;131;135;222;73;425;136;85;225;141;195
+Kemmental;4666;Kreuzlingen;2013;Siegershausen;557;281;276;106;146;183;122;425;132;59;244;150;163
+Kesswil;4426;Arbon;2011;Kesswil;1000;477;523;221;166;385;228;825;175;74;432;265;303
+Kradolf-Schönenberg;4501;Weinfelden;2015;Buhwil;322;156;166;73;68;136;45;302;20;x;132;73;117
+Kradolf-Schönenberg;4501;Weinfelden;2015;Neukirch an der Thur;472;226;246;112;108;182;70;438;34;x;241;110;121
+Kradolf-Schönenberg;4501;Weinfelden;2015;Schönenberg an der Thur;1358;697;661;259;387;481;231;1031;327;77;446;354;558
+Kradolf-Schönenberg;4501;Weinfelden;2015;Kradolf;1453;769;684;258;445;503;247;941;512;96;374;367;712
+Kreuzlingen;4671;Kreuzlingen;2013;Kreuzlingen;22193;11127;11066;3953;6179;7849;4212;10027;12166;6525;4743;6423;11027
+Langrickenbach;4681;Kreuzlingen;2013;Schönenbaumgarten;152;78;74;19;34;72;27;120;32;28;66;28;58
+Langrickenbach;4681;Kreuzlingen;2013;Zuben;331;173;158;75;84;126;46;255;76;57;130;97;104
+Langrickenbach;4681;Kreuzlingen;2013;Herrenhof;210;105;105;59;52;75;24;166;44;37;97;41;72
+Langrickenbach;4681;Kreuzlingen;2013;Kümmertshausen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Langrickenbach;4681;Kreuzlingen;2013;Langrickenbach;581;303;278;115;140;245;81;515;66;46;291;117;173
+Lengwil;4683;Kreuzlingen;2013;Dettighofen (Lengwil);197;98;99;44;40;83;30;141;56;41;94;32;71
+Lengwil;4683;Kreuzlingen;2013;Lengwil;565;278;287;115;177;198;75;335;230;142;167;148;250
+Lengwil;4683;Kreuzlingen;2013;Illighausen;414;200;214;82;83;186;63;333;81;63;158;126;130
+Lengwil;4683;Kreuzlingen;2013;Oberhofen;562;284;278;149;110;218;85;451;111;56;233;140;189
+Lommis;4741;Münchwilen;2014;Weingarten-Kalthäusern;399;195;204;79;70;183;67;378;21;10;159;99;141
+Lommis;4741;Münchwilen;2014;Lommis;809;414;395;183;213;304;109;683;126;26;228;303;278
+Mammern;4826;Frauenfeld;2012;Mammern;658;325;333;136;131;262;129;479;179;68;237;204;217
+Mammern;4826;Frauenfeld;2012;Eschenz;x;x;x;x;x;x;x;x;x;x;x;x;x
+Mammern;4826;Frauenfeld;2012;Hörhausen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Märstetten;4941;Weinfelden;2015;Ottoberg;579;295;284;133;114;254;78;542;37;24;265;138;176
+Märstetten;4941;Weinfelden;2015;Märstetten;2305;1160;1145;481;626;826;372;1914;391;159;921;551;833
+Matzingen;4591;Frauenfeld;2012;Frauenfeld;88;46;42;20;23;26;19;x;x;x;48;18;22
+Matzingen;4591;Frauenfeld;2012;Matzingen;2870;1468;1402;605;858;1001;406;x;x;x;845;959;1066
+Müllheim;4831;Frauenfeld;2012;Müllheim Dorf;2995;1517;1478;613;726;1144;512;2478;517;140;1121;765;1109
+Münchwilen;4746;Münchwilen;2014;Will;x;x;x;x;x;x;x;x;x;x;x;x;x
+Münchwilen;4746;Münchwilen;2014;Eschlikon;85;42;43;26;19;29;11;x;x;x;39;27;19
+Münchwilen;4746;Münchwilen;2014;St. Margarethen;1038;536;502;265;237;434;102;859;179;x;284;424;330
+Münchwilen;4746;Münchwilen;2014;Münchwilen;4544;2246;2298;987;1269;1525;763;3546;998;158;1156;1741;1647
+Münsterlingen;4691;Kreuzlingen;2013;Landschlacht;1455;706;749;x;321;566;x;991;464;283;490;471;494
+Münsterlingen;4691;Kreuzlingen;2013;Münsterlingen;152;80;72;x;65;56;x;52;100;55;38;56;58
+Münsterlingen;4691;Kreuzlingen;2013;Scherzingen;1888;944;944;369;473;717;329;1157;731;401;559;517;812
+Neunforn;4601;Frauenfeld;2012;Oberneunforn;564;284;280;112;131;214;107;526;38;16;334;81;149
+Neunforn;4601;Frauenfeld;2012;Wilen b. Neunforn;x;x;x;x;x;x;x;x;x;x;x;x;x
+Neunforn;4601;Frauenfeld;2012;Niederneunforn;476;255;221;78;130;163;105;448;28;16;269;65;142
+Pfyn;4841;Frauenfeld;2012;Dettighofen;441;214;227;85;112;174;70;390;51;14;174;103;164
+Pfyn;4841;Frauenfeld;2012;Homburg;x;x;x;x;x;x;x;x;x;x;x;x;x
+Pfyn;4841;Frauenfeld;2012;Pfyn;1624;812;812;371;368;631;254;1380;244;56;647;406;571
+Raperswilen;4846;Kreuzlingen;2013;Raperswilen;413;212;201;81;95;158;79;369;44;23;227;72;114
+Rickenbach;4751;Münchwilen;2014;Wilen b. Will;x;x;x;x;x;x;x;x;x;x;x;x;x
+Rickenbach;4751;Münchwilen;2014;Schwarzenbach;x;x;x;x;x;x;x;x;x;x;x;x;x
+Rickenbach;4751;Münchwilen;2014;Rickenbach b. Will;2798;1398;1400;539;843;937;479;1759;1039;110;418;1077;1303
+Roggwil;4431;Arbon;2011;Freidorf;1287;654;633;312;295;495;185;1137;150;76;428;528;331
+Roggwil;4431;Arbon;2011;Frasnacht;170;87;83;39;31;78;22;154;16;6;64;59;47
+Roggwil;4431;Arbon;2011;Lömmenschwil;x;x;x;x;x;x;x;x;x;x;x;x;x
+Roggwil;4431;Arbon;2011;Neukirch (Egnach);34;x;x;x;x;x;x;x;x;x;x;x;x
+Roggwil;4431;Arbon;2011;Roggwil;1580;798;782;357;353;585;285;1426;154;62;636;521;423
+Roggwil;4431;Arbon;2011;Stachen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Romanshorn;4436;Arbon;2011;Romanshorn;11236;5540;5696;2106;3048;3765;2317;7709;3527;784;2735;3303;5198
+Salenstein;4851;Kreuzlingen;2013;Salenstein;508;250;258;95;70;248;95;368;140;120;195;130;183
+Salenstein;4851;Kreuzlingen;2013;Fruthwilen;592;292;300;81;142;247;122;418;174;136;209;168;215
+Salenstein;4851;Kreuzlingen;2013;Mannenbach-Salenstein;264;135;129;37;43;106;78;195;69;49;107;64;93
+Salmsach;4441;Arbon;2011;Amriswil;x;x;x;x;x;x;x;x;x;x;x;x;x
+Salmsach;4441;Arbon;2011;Salmsach;1435;736;699;291;393;515;236;1031;404;62;382;452;601
+Salmsach;4441;Arbon;2011;Egnach;x;x;x;x;x;x;x;x;x;x;x;x;x
+Schlatt;4546;Frauenfeld;2012;Schlatt;1771;870;901;371;399;698;303;1544;227;99;915;300;556
+Schönholzerswilen;4756;Weinfelden;2015;Schönholzerswilen;846;440;406;228;218;295;105;783;63;28;400;276;170
+Sirnach;4761;Münchwilen;2014;Busswil;833;425;408;186;168;366;113;746;87;21;196;419;218
+Sirnach;4761;Münchwilen;2014;Littenheid;80;42;38;x;23;43;x;40;40;13;10;15;55
+Sirnach;4761;Münchwilen;2014;Wiezikon b. Sirnach;617;322;295;x;159;234;x;579;38;10;191;233;193
+Sirnach;4761;Münchwilen;2014;Sirnach;6253;3148;3105;1213;1821;2136;1083;4530;1723;209;1211;2470;2572
+Sommeri;4446;Arbon;2011;Sommeri;608;304;304;129;180;197;102;509;99;40;177;265;166
+Steckborn;4864;Frauenfeld;2012;Steckborn;3736;1912;1824;654;773;1409;900;2733;1003;449;1182;1093;1461
+Stettfurt;4606;Frauenfeld;2012;Matzingen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Stettfurt;4606;Frauenfeld;2012;Stettfurt;1228;607;621;297;254;477;200;1126;102;44;561;308;359
+Sulgen;4506;Weinfelden;2015;Kradolf;x;x;x;x;x;x;x;x;x;x;x;x;x
+Sulgen;4506;Weinfelden;2015;Donzhausen;320;166;154;85;78;113;44;294;26;7;151;99;70
+Sulgen;4506;Weinfelden;2015;Sulgen;3413;1716;1697;652;984;1178;599;2427;986;183;1036;971;1406
+Sulgen;4506;Weinfelden;2015;Götighofen;168;85;83;31;31;72;34;146;22;14;78;45;45
+Tägerwilen;4696;Kreuzlingen;2013;Kreuzlingen;60;29;31;13;12;24;11;35;25;16;12;23;25
+Tägerwilen;4696;Kreuzlingen;2013;Tägerwilen;4705;2345;2360;1005;1153;1794;753;2971;1734;1155;1648;1311;1746
+Thundorf;4611;Frauenfeld;2012;Frauenfeld;51;23;28;20;x;15;x;x;x;x;x;x;x
+Thundorf;4611;Frauenfeld;2012;Lustdorf;202;108;94;43;65;59;35;188;14;9;139;20;43
+Thundorf;4611;Frauenfeld;2012;Thundorf;1121;584;537;266;242;413;200;1028;93;35;572;267;282
+Thundorf;4611;Frauenfeld;2012;Wetzikon;112;61;51;28;x;39;x;x;x;x;x;x;x
+Tobel-Tägerschen;4776;Münchwilen;2014;Tobel;958;495;463;200;262;326;170;799;159;29;276;375;307
+Tobel-Tägerschen;4776;Münchwilen;2014;Tägerschen;643;316;327;159;148;270;66;539;104;25;182;290;171
+Uesslingen-Buch;4616;Frauenfeld;2012;Buch b. Frauenfeld;343;166;177;72;89;127;55;327;16;6;161;100;82
+Uesslingen-Buch;4616;Frauenfeld;2012;Uesslingen;735;374;361;130;167;291;147;654;81;41;372;157;206
+Uttwil;4451;Arbon;2011;Romanshorn;x;x;x;x;x;x;x;x;x;x;x;x;x
+Uttwil;4451;Arbon;2011;Uttwil;1889;946;943;365;371;755;398;1545;344;192;681;531;677
+Wagenhausen;4871;Frauenfeld;2012;Rheinklingen;136;74;62;39;21;44;32;130;6;x;95;9;32
+Wagenhausen;4871;Frauenfeld;2012;Kaltenbach;689;333;356;151;152;271;115;564;125;60;315;119;255
+Wagenhausen;4871;Frauenfeld;2012;Etzwilen;242;123;119;42;53;113;34;173;69;x;85;47;110
+Wagenhausen;4871;Frauenfeld;2012;Wagenhausen;644;317;327;115;145;253;131;473;171;75;258;110;276
+Wäldi;4701;Kreuzlingen;2013;Lipperswil;141;73;68;15;36;63;27;113;28;9;54;36;51
+Wäldi;4701;Kreuzlingen;2013;Hattenhausen;69;35;34;19;11;24;15;x;x;x;53;8;8
+Wäldi;4701;Kreuzlingen;2013;Hefenhausen;94;47;47;11;23;38;22;x;x;x;50;15;29
+Wäldi;4701;Kreuzlingen;2013;Sonterswil;126;65;61;26;38;35;27;100;26;19;58;28;40
+Wäldi;4701;Kreuzlingen;2013;Wäldi;332;177;155;76;71;131;54;270;62;40;130;75;127
+Wäldi;4701;Kreuzlingen;2013;Engwilen;213;105;108;46;38;96;33;153;60;43;70;60;83
+Wäldi;4701;Kreuzlingen;2013;Gunterswilen;74;34;40;18;11;33;12;63;11;8;31;12;31
+Wäldi;4701;Kreuzlingen;2013;Raperswilen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Wängi;4781;Münchwilen;2014;Tuttwil;553;300;253;127;141;200;85;515;38;17;249;167;137
+Wängi;4781;Münchwilen;2014;Wängi;4189;2151;2038;929;1011;1537;712;3537;652;135;1334;1636;1219
+Warth-Weiningen;4621;Frauenfeld;2012;Warth;667;336;331;120;119;286;142;602;65;22;262;231;174
+Warth-Weiningen;4621;Frauenfeld;2012;Weiningen;667;338;329;132;166;255;114;576;91;49;298;130;239
+Weinfelden;4946;Weinfelden;2015;Bürglen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Weinfelden;4946;Weinfelden;2015;Weinfelden;11559;5867;5692;2220;3432;3650;2257;8899;2660;507;4088;3266;4205
+Wigoltingen;4951;Weinfelden;2015;Engwang;124;67;57;31;27;49;17;116;8;6;58;15;51
+Wigoltingen;4951;Weinfelden;2015;Märstetten;49;23;26;x;14;24;x;x;x;x;29;7;13
+Wigoltingen;4951;Weinfelden;2015;Wigoltingen;1476;746;730;369;340;542;225;1217;259;67;631;414;431
+Wigoltingen;4951;Weinfelden;2015;Bonau;281;154;127;64;65;112;40;246;35;10;130;53;98
+Wigoltingen;4951;Weinfelden;2015;Müllheim-Wigoltingen;110;66;44;18;24;56;12;79;31;x;29;44;37
+Wigoltingen;4951;Weinfelden;2015;Wagerswil;142;74;68;26;38;57;21;134;8;x;70;31;41
+Wigoltingen;4951;Weinfelden;2015;Engwilen;x;x;x;x;x;x;x;x;x;x;x;x;x
+Wigoltingen;4951;Weinfelden;2015;Illhart;219;111;108;23;42;96;58;174;45;36;86;52;81
+Wigoltingen;4951;Weinfelden;2015;Lamperswil;55;29;26;x;15;17;x;x;x;x;23;11;21
+Wilen;4786;Münchwilen;2014;Wilen b. Wil;2515;1276;1239;628;608;899;380;2193;322;83;581;1236;698
+Wuppenau;4791;Weinfelden;2015;Hosenruck;431;219;212;94;85;183;69;408;23;11;137;210;84
+Wuppenau;4791;Weinfelden;2015;Wuppenau;687;347;340;197;128;247;115;632;55;17;158;362;167
+Zihlschlacht-Sitterdorf;4511;Weinfelden;2015;Muolen;27;11;16;8;x;11;x;x;x;x;11;10;6
+Zihlschlacht-Sitterdorf;4511;Weinfelden;2015;Sitterdorf;925;472;453;182;261;316;166;762;163;49;290;327;308
+Zihlschlacht-Sitterdorf;4511;Weinfelden;2015;Zihlschlacht;1341;706;635;324;359;464;194;1190;151;79;614;347;380
+Zihlschlacht-Sitterdorf;4511;Weinfelden;2015;Bischofszell;143;77;66;28;x;55;x;x;x;x;60;42;41

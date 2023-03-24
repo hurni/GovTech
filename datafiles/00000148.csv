@@ -1,0 +1,181 @@
+bezirksnummer_alt;bfs_gemeindenummer_alt;gemeindename_alt;bfs_bezirksnummer_bis_2010;bezirk_bis_2010;bfs_gemeindenummer;gemeindename;gueltig_ab
+2001;4401;Arbon;2001;Arbon;4401;Arbon;1998-01-01
+2001;4402;Frasnacht;2001;Arbon;4401;Arbon;1998-01-01
+2002;4461;Amriswil;2002;Bischofszell;4461;Amriswil;1997-01-01
+2002;4471;Bischofszell;2002;Bischofszell;4471;Bischofszell;1995-12-31
+2002;4471;Bischofszell;2002;Bischofszell;4471;Bischofszell;1996-01-01
+2002;4471;Bischofszell;2002;Bischofszell;4486;Gottshaus;1995-12-31
+2002;4471;Bischofszell;2002;Bischofszell;4501;Kradolf-Schönenberg;1996-01-01
+2002;4476;Buchackern;2002;Bischofszell;4476;Erlen;1995-01-01
+2002;4477;Engishofen;2002;Bischofszell;4476;Erlen;1995-01-01
+2002;4478;Ennetaach;2002;Bischofszell;4476;Erlen;1995-01-01
+2002;4479;Erlen;2002;Bischofszell;4476;Erlen;1995-01-01
+2002;4480;Kümmertshausen;2002;Bischofszell;4476;Erlen;1995-01-01
+2002;4486;Gottshaus;2002;Bischofszell;4471;Bischofszell;1995-12-31
+2002;4486;Gottshaus;2002;Bischofszell;4486;Gottshaus;1995-12-31
+2002;4486;Gottshaus;2002;Bischofszell;4486;Hauptwil-Gottshaus;1996-01-01
+2002;4487;Hauptwil;2002;Bischofszell;4486;Hauptwil-Gottshaus;1996-01-01
+2002;4491;Heldswil;2002;Bischofszell;4495;Hohentannen;1999-01-01
+2002;4492;Hohentannen;2002;Bischofszell;4495;Hohentannen;1999-01-01
+2002;4496;Buhwil;2002;Bischofszell;4501;Kradolf-Schönenberg;1995-12-31
+2002;4497;Halden;2002;Bischofszell;4471;Bischofszell;1995-12-31
+2002;4498;Neukirch an der Thur;2002;Bischofszell;4501;Kradolf-Schönenberg;1995-12-31
+2002;4499;Schönenberg an der Thur;2002;Bischofszell;4501;Kradolf-Schönenberg;1995-12-31
+2002;4500;Schweizersholz;2002;Bischofszell;4471;Bischofszell;1995-12-31
+2002;4501;Kradolf-Schönenberg;2002;Bischofszell;4501;Kradolf-Schönenberg;1996-01-01
+2002;4501;Kradolf-Schönenberg;2002;Bischofszell;4471;Bischofszell;1996-01-01
+2002;4507;Götighofen;2002;Bischofszell;4506;Sulgen;1996-01-01
+2002;4508;Kradolf;2002;Bischofszell;4501;Kradolf-Schönenberg;1995-12-31
+2002;4509;Riedt;2002;Bischofszell;4476;Erlen;1995-01-01
+2002;4510;Sulgen;2002;Bischofszell;4506;Sulgen;1996-01-01
+2002;4510;Sulgen;2008;Weinfelden;4510;Sulgen;1995-01-01
+2008;4511;Donzhausen;2002;Bischofszell;4826;Mammern;1993-01-01
+2008;4512;Hessenreuti;2002;Bischofszell;4841;Pfyn;1998-01-01
+2002;4516;Schocherswil;2002;Bischofszell;4461;Amriswil;1997-01-01
+2002;4517;Sitterdorf;2002;Bischofszell;4510;Sulgen;1995-01-01
+2002;4518;Zihlschlacht;2002;Bischofszell;4506;Sulgen;1996-01-01
+2003;4531;Basadingen;2003;Diessenhofen;4511;Donzhausen;1995-01-01
+2003;4532;Mett-Oberschlatt;2003;Diessenhofen;4536;Basadingen-Schlattingen;1999-01-01
+2003;4533;Schlattingen;2003;Diessenhofen;4511;Zihlschlacht-Sitterdorf;1997-01-01
+2003;4534;Unterschlatt;2003;Diessenhofen;4536;Basadingen-Schlattingen;1999-01-01
+2003;4541;Diessenhofen;2003;Diessenhofen;4512;Hessenreuti;1995-01-01
+2003;4542;Willisdorf;2003;Diessenhofen;4511;Zihlschlacht-Sitterdorf;1997-01-01
+2004;4551;Aadorf;2004;Frauenfeld;4551;Aadorf;1996-01-01
+2004;4552;Aawangen;2004;Frauenfeld;4545;Diessenhofen;2000-01-01
+2004;4553;Ettenhausen;2004;Frauenfeld;4546;Schlatt (TG);1999-01-01
+2004;4554;Guntershausen bei Aadorf;2004;Frauenfeld;4545;Diessenhofen;2000-01-01
+2004;4555;Wittenwil;2004;Frauenfeld;4546;Schlatt (TG);1999-01-01
+2004;4555;Wittenwil;2004;Frauenfeld;4551;Aadorf;1996-01-01
+2004;4555;Wittenwil;2006;Münchwilen;4611;Thundorf;1995-01-01
+2004;4566;Frauenfeld;2004;Frauenfeld;4551;Aadorf;1996-01-01
+2004;4566;Frauenfeld;2004;Frauenfeld;4571;Gachnang;1997-12-31
+2004;4571;Gachnang;2004;Frauenfeld;4555;Wittenwil;1995-12-31
+2004;4571;Gachnang;2004;Frauenfeld;4566;Frauenfeld;1998-01-01
+2004;4571;Gachnang;2004;Frauenfeld;4571;Gachnang;1997-12-31
+2004;4572;Gerlikon;2004;Frauenfeld;4551;Aadorf;1996-01-01
+2004;4573;Islikon;2004;Frauenfeld;4566;Frauenfeld;1998-01-01
+2004;4574;Kefikon;2004;Frauenfeld;4566;Frauenfeld;1997-12-31
+2004;4575;Niederwil (TG);2004;Frauenfeld;4566;Frauenfeld;1997-12-31
+2004;4576;Oberwil (TG);2004;Frauenfeld;4555;Wittenwil;1995-12-31
+2004;4581;Eschikofen;2004;Frauenfeld;4571;Gachnang;1997-12-31
+2004;4582;Harenwilen;2004;Frauenfeld;4571;Gachnang;1997-12-31
+2004;4583;Hüttlingen;2004;Frauenfeld;4571;Gachnang;1998-01-01
+2004;4584;Mettendorf;2004;Frauenfeld;4571;Gachnang;1997-12-31
+2004;4596;Niederneunforn;2004;Frauenfeld;4590;Hüttlingen;1999-01-01
+2004;4597;Oberneunforn;2004;Frauenfeld;4590;Hüttlingen;1999-01-01
+2004;4598;Wilen bei Neunforn;2004;Frauenfeld;4571;Gachnang;1998-01-01
+2004;4611;Lustdorf;2004;Frauenfeld;4590;Hüttlingen;1999-01-01
+2004;4612;Thundorf;2004;Frauenfeld;4590;Hüttlingen;1999-01-01
+2004;4616;Buch bei Frauenfeld;2004;Frauenfeld;4601;Neunforn;1996-01-01
+2004;4617;Uesslingen;2004;Frauenfeld;4601;Neunforn;1996-01-01
+2004;4618;Warth;2004;Frauenfeld;4601;Neunforn;1996-01-01
+2005;4631;Alterswilen;2005;Kreuzlingen;4616;Uesslingen-Buch;1995-01-01
+2005;4632;Altishausen;2005;Kreuzlingen;4611;Thundorf;1995-01-01
+2005;4634;Ellighausen;2005;Kreuzlingen;4616;Uesslingen-Buch;1995-01-01
+2005;4635;Lippoldswilen;2005;Kreuzlingen;4621;Warth-Weiningen;1995-01-01
+2005;4636;Neuwilen;2005;Kreuzlingen;4621;Warth-Weiningen;1995-01-01
+2005;4637;Siegershausen;2005;Kreuzlingen;4643;Bottighofen;1994-01-01
+2005;4661;Illighausen;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4662;Oberhofen bei Kreuzlingen;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4663;Schönenbaumgarten;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4676;Dünnershaus;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4677;Herrenhof;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4678;Langrickenbach;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4679;Zuben;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4683;Lengwil;2005;Kreuzlingen;4666;Kemmental;1996-01-01
+2005;4683;Lengwil;2008;Weinfelden;4683;Lengwil;1997-12-31
+2005;4686;Bottighofen;2005;Kreuzlingen;4611;Thundorf;1995-01-01
+2005;4687;Landschlacht;2005;Kreuzlingen;4681;Langrickenbach;1998-01-01
+2005;4688;Scherzingen;2005;Kreuzlingen;4681;Langrickenbach;1998-01-01
+2005;4701;Engwilen;2005;Kreuzlingen;4681;Langrickenbach;1998-01-01
+2005;4702;Lipperswil;2005;Kreuzlingen;4681;Langrickenbach;1998-01-01
+2005;4703;Sonterswil;2005;Kreuzlingen;4681;Langrickenbach;1998-01-01
+2005;4704;Wäldi;2005;Kreuzlingen;4683;Lengwil;1997-12-31
+2006;4711;Affeltrangen;2006;Münchwilen;4701;Wäldi;1995-01-01
+2006;4712;Buch bei Märwil;2006;Münchwilen;4691;Münsterlingen;1994-01-01
+2006;4713;Märwil;2006;Münchwilen;4701;Wäldi;1995-01-01
+2006;4714;Zezikon;2006;Münchwilen;4691;Münsterlingen;1994-01-01
+2006;4721;Balterswil;2006;Münchwilen;4701;Wäldi;1995-01-01
+2006;4722;Bichelsee;2006;Münchwilen;4711;Affeltrangen;1995-01-01
+2006;4724;Eschlikon;2006;Münchwilen;4741;Lommis;1995-01-01
+2006;4724;Eschlikon;2006;Münchwilen;4716;Bettwiesen;1995-01-01
+2006;4736;Bettwiesen;2006;Münchwilen;4701;Wäldi;1995-01-01
+2006;4737;Kalthäusern;2006;Münchwilen;4723;Braunau;1999-01-01
+2006;4738;Lommis;2006;Münchwilen;4724;Eschlikon;1996-12-31
+2006;4739;Weingarten;2006;Münchwilen;4721;Bichelsee-Balterswil;1996-01-01
+2006;4740;Wetzikon (TG);2004;Frauenfeld;4683;Lengwil;1998-01-01
+2006;4751;Rickenbach bei Wil;2006;Münchwilen;4724;Eschlikon;1996-12-31
+2006;4752;Wilen bei Wil;2006;Münchwilen;4761;Sirnach;1996-12-31
+2006;4761;Sirnach;2006;Münchwilen;4721;Bichelsee-Balterswil;1996-01-01
+2006;4761;Sirnach;2006;Münchwilen;4751;Rickenbach (TG);1998-01-01
+2006;4761;Busswil (TG);2006;Münchwilen;4724;Eschlikon;1997-01-01
+2006;4762;Eschlikon;2006;Münchwilen;4711;Affeltrangen;1995-01-01
+2006;4763;Horben;2006;Münchwilen;4741;Lommis;1995-01-01
+2006;4764;Sirnach;2006;Münchwilen;4741;Lommis;1995-01-01
+2006;4765;Wallenwil;2006;Münchwilen;4711;Affeltrangen;1995-01-01
+2006;4766;Wiezikon;2006;Münchwilen;4724;Eschlikon;1997-01-01
+2006;4771;Braunau;2006;Münchwilen;4711;Affeltrangen;1995-01-01
+2006;4772;Tägerschen;2006;Münchwilen;4761;Sirnach;1996-12-31
+2006;4773;Tobel;2006;Münchwilen;4761;Sirnach;1996-12-31
+2006;4781;Wängi;2006;Münchwilen;4761;Sirnach;1996-12-31
+2006;4781;Wängi;2004;Frauenfeld;4683;Lengwil;1998-01-01
+2007;4811;Herdern;2007;Steckborn;4776;Tobel-Tägerschen;1999-01-01
+2007;4812;Lanzenneunforn;2007;Steckborn;4761;Sirnach;1997-01-01
+2007;4816;Homburg;2007;Steckborn;4781;Wängi;1996-01-01
+2007;4821;Hüttwilen;2007;Steckborn;4811;Herdern;1998-01-01
+2007;4822;Nussbaumen;2007;Steckborn;4811;Herdern;1998-01-01
+2007;4823;Uerschhausen;2007;Steckborn;4786;Wilen (TG);1998-01-01
+2007;4836;Dettighofen;2007;Steckborn;4816;Homburg;1999-01-01
+2007;4837;Pfyn;2007;Steckborn;4816;Homburg;1999-01-01
+2007;4838;Weiningen (TG);2004;Frauenfeld;4761;Sirnach;1997-01-01
+2007;4861;Gündelhart-Hörhausen;2007;Steckborn;4776;Tobel-Tägerschen;1999-01-01
+2007;4862;Mammern;2007;Steckborn;4816;Homburg;1999-01-01
+2007;4863;Salen-Reutenen;2007;Steckborn;4781;Wängi;1996-01-01
+2007;4871;Kaltenbach;2007;Steckborn;4821;Hüttwilen;1997-01-01
+2007;4872;Rheinklingen;2007;Steckborn;4821;Hüttwilen;1997-01-01
+2007;4873;Wagenhausen;2007;Steckborn;4821;Hüttwilen;1997-01-01
+2008;4881;Amlikon;2008;Weinfelden;4881;Amlikon-Bissegg;1995-01-01
+2008;4882;Bissegg;2008;Weinfelden;4891;Berg (TG);1994-12-31
+2008;4883;Griesenberg;2008;Weinfelden;4891;Berg (TG);1994-12-31
+2008;4884;Strohwilen;2008;Weinfelden;4881;Amlikon-Bissegg;1995-01-01
+2008;4891;Berg (TG);2005;Kreuzlingen;4881;Amlikon-Bissegg;1995-01-01
+2008;4891;Berg (TG);2008;Weinfelden;4891;Berg (TG);1998-01-01
+2008;4891;Berg (TG);2008;Weinfelden;4946;Weinfelden;1995-01-01
+2008;4891;Berg (TG);2008;Weinfelden;4892;Berg (TG);1993-01-01
+2008;4891;Andhausen;2008;Weinfelden;4892;Berg (TG);1993-01-01
+2008;4892;Berg (TG);2008;Weinfelden;4891;Berg (TG);1995-01-01
+2008;4892;Berg (TG);2008;Weinfelden;4901;Birwinken;1995-01-01
+2008;4893;Graltshausen;2008;Weinfelden;4891;Berg (TG);1994-12-31
+2008;4894;Mauren;2008;Weinfelden;4891;Berg (TG);1995-01-01
+2008;4895;Weerswilen;2008;Weinfelden;4946;Weinfelden;1994-12-31
+2008;4901;Andwil (TG);2008;Weinfelden;4901;Birwinken;1995-01-01
+2008;4902;Birwinken;2008;Weinfelden;4911;Bürglen (TG);1995-01-01
+2008;4903;Guntershausen bei Birwinken;2008;Weinfelden;4891;Berg (TG);1994-12-31
+2008;4904;Happerswil-Buch;2008;Weinfelden;4901;Birwinken;1995-01-01
+2008;4905;Klarsreuti;2008;Weinfelden;4901;Birwinken;1995-01-01
+2008;4906;Mattwil;2008;Weinfelden;4901;Birwinken;1995-01-01
+2008;4911;Bürglen (TG);2008;Weinfelden;4915;Opfershofen (TG);1994-12-31
+2008;4912;Donzhausen;2008;Weinfelden;4871;Wagenhausen;1995-06-01
+2008;4913;Hessenreuti;2008;Weinfelden;4871;Wagenhausen;1995-06-01
+2008;4914;Leimbach (TG);2008;Weinfelden;4911;Bürglen (TG);1995-01-01
+2008;4915;Opfershofen (TG);2008;Weinfelden;4911;Bürglen (TG);1995-01-01
+2008;4915;Opfershofen (TG);2002;Bischofszell;4841;Pfyn;1998-01-01
+2008;4915;Opfershofen (TG);2008;Weinfelden;4915;Opfershofen (TG);1994-12-31
+2008;4921;Bussnang;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4922;Friltschen;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4923;Istighofen;2008;Weinfelden;4911;Bürglen (TG);1995-01-01
+2008;4924;Lanterswil;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4925;Mettlen;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4926;Oberbussnang;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4927;Oppikon;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4928;Reuti;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4929;Rothenhausen;2008;Weinfelden;4921;Bussnang;1996-01-01
+2008;4936;Dotnacht;2005;Kreuzlingen;4881;Amlikon-Bissegg;1995-01-01
+2008;4937;Hugelshofen;2005;Kreuzlingen;4871;Wagenhausen;1995-06-01
+2008;4946;Weinfelden;2008;Weinfelden;4891;Berg (TG);1998-01-01
+2008;4946;Weinfelden;2008;Weinfelden;4946;Weinfelden;1994-12-31
+2008;4946;Weinfelden;2008;Weinfelden;4946;Weinfelden;1995-01-01
+2008;4951;Bonau;2008;Weinfelden;4951;Wigoltingen;1995-01-01
+2008;4952;Engwang;2008;Weinfelden;4951;Wigoltingen;1995-01-01
+2008;4953;Illhart;2008;Weinfelden;4951;Wigoltingen;1995-01-01
+2008;4954;Wigoltingen;2008;Weinfelden;4951;Wigoltingen;1995-01-01

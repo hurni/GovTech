@@ -1,0 +1,12 @@
+geo_point_2d;geo_shape;id_el;std_name;strasse_nr;plz;ort;kanton;telefon;link_hp
+47.54153611099945, 7.593054148109523;"{""coordinates"": [7.593054148109523, 47.54153611099945], ""type"": ""Point""}";2;Beratungsstelle Familienzentrum FAZ Gundeli;;4053;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.55881255217145, 7.571619746314992;"{""coordinates"": [7.571619746314992, 47.55881255217145], ""type"": ""Point""}";6;Beratungsstelle Kontaktstelle für Eltern und Kinder 4055;;4055;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.56600019582351, 7.592221293677582;"{""coordinates"": [7.592221293677582, 47.56600019582351], ""type"": ""Point""}";8;Eltern Kind Zentrum MaKly;;4057;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.57003533362963, 7.636021400218333;"{""coordinates"": [7.636021400218333, 47.57003533362963], ""type"": ""Point""}";11;Beratungsstelle Freizeitzentrum Landauer;;4125;Riehen;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.56839339987219, 7.5771585019766565;"{""coordinates"": [7.577158501976657, 47.56839339987219], ""type"": ""Point""}";4;Beratungsstelle Kontaktstelle Eltern und Kinder St. Johann, Quartierzentrum St. Johann;;4054;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.56864314245134, 7.6182222300675955;"{""coordinates"": [7.618222230067595, 47.56864314245134], ""type"": ""Point""}";7;Quartierraum Schoren;;4058;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.58468761981805, 7.650472045793518;"{""coordinates"": [7.650472045793518, 47.58468761981805], ""type"": ""Point""}";10;Beratungsstelle Hebammenpraxis Riehen;;4125;Riehen;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.55693803190059, 7.589538013195838;"{""coordinates"": [7.589538013195838, 47.55693803190059], ""type"": ""Point""}";1;Beratungs- und Geschäftsstelle;;4001;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.55592262675759, 7.614552379208413;"{""coordinates"": [7.614552379208413, 47.55592262675759], ""type"": ""Point""}";5;Beratungsstelle Treffpunkt Breite, Breitezentrum;;4052;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.58093094023014, 7.591280638520269;"{""coordinates"": [7.591280638520269, 47.58093094023014], ""type"": ""Point""}";9;KL?ck Quartierarbeit Klybeck-Kleinhüningen;;4057;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info
+47.55019525938036, 7.580352728740027;"{""coordinates"": [7.580352728740027, 47.55019525938036], ""type"": ""Point""}";12;Beratungstelle Stephanus, Gemeindehaus Stephanus;;4054;Basel;BS;+41 (0) 61 690 26 90;www.baslerfamilien.info

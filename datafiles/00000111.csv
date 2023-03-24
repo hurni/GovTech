@@ -1,0 +1,8 @@
+geo_point_2d;geo_shape;id_bk;name;plz;ort;webseite
+47.54731000875038, 7.618722260628727;"{""coordinates"": [7.618722260628727, 47.54731000875038], ""type"": ""Point""}";6;Redingstrasse;4052;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html
+47.54554873107009, 7.571105092694655;"{""coordinates"": [7.571105092694655, 47.54554873107009], ""type"": ""Point""}";3;Wohngenossenschaft Holeestrasse;4054;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html
+47.55757591641929, 7.570238421378412;"{""coordinates"": [7.570238421378412, 47.55757591641929], ""type"": ""Point""}";4;Oekolampadstrasse;4055;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html
+47.55127404801303, 7.574205359987769;"{""coordinates"": [7.574205359987769, 47.55127404801303], ""type"": ""Point""}";2;Bundesplatz;4054;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html
+47.56737560668681, 7.5634697679673355;"{""coordinates"": [7.563469767967335, 47.56737560668681], ""type"": ""Point""}";1;Burgfelderstrasse 206;4055;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html
+47.55540628296548, 7.614382293855589;"{""coordinates"": [7.614382293855589, 47.55540628296548], ""type"": ""Point""}";7;Breite;4052;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html
+47.56151468849969, 7.6030007251124925;"{""coordinates"": [7.603000725112492, 47.56151468849969], ""type"": ""Point""}";8;Landhof;4058;Basel;http://www.aue.bs.ch/abfaelle/haushaltsabfaelle/bio-klappe.html

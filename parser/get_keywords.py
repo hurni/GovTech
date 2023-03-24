@@ -5,13 +5,18 @@ import os
 
 #get the delimiter of the csv-file
 #https://stackoverflow.com/questions/46135839/auto-detect-the-delimiter-in-a-csv-file-using-pd-read-csv
-
+'''
 def get_delimiter(file_path, bytes = 4096):
     sniffer = csv.Sniffer()
     data = open(file_path, "r").read(bytes)
     delimiter = sniffer.sniff(data).delimiter
     return delimiter
+'''
 
+def get_delimiter(file_path: str) -> str:
+    with open(file_path, 'r') as csvfile:
+        delimiter = str(csv.Sniffer().sniff(csvfile.read()).delimiter)
+        return delimiter
 #example
 
 # if not utf-8....

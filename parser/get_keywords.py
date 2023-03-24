@@ -46,7 +46,7 @@ def getCommunityNames(fileName):
     return namesPresent
 
 data_path = os.path.join(os.path.dirname(__file__), '..', 'data/')
-df = pd.read_csv(os.path.join(data_path, 'mapping.csv')).iloc[:100]
+df = pd.read_csv(os.path.join(data_path, 'mapping.csv'))#.iloc[:100]
 datafiles_path = os.path.join(os.path.dirname(__file__), '..', 'datafiles/')
 df['filename'] = datafiles_path + df['filename']
 df['communities_names'] = df.apply(lambda row: getCommunityNames(row['filename']), axis=1)

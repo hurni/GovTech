@@ -1,6 +1,7 @@
 import csv
 import pandas as pd
 import chardet
+import os
 
 #get the delimiter of the csv-file
 #https://stackoverflow.com/questions/46135839/auto-detect-the-delimiter-in-a-csv-file-using-pd-read-csv
@@ -21,8 +22,8 @@ def get_encoding(filename):
         encoding = result['encoding']
     return encoding
 
-
-communityList = pd.read_csv('../data/EtatCommunes_2023_kurz_comma.csv')['GemeindeName'].to_list()
+communityList_path = os.path.join(os.path.dirname(__file__), '..', 'data/EtatCommunes_2023_kurz_comma.csv')
+communityList = pd.read_csv(communityList_path)['GemeindeName'].to_list()
 
 def getCommunityNames(fileName):
     namesPresent = ''

@@ -34,7 +34,7 @@ communityList = pd.read_csv(communityList_path)['GemeindeName'].to_list()
 def getCommunityNames(fileName):
     namesPresent = ''
     
-    df = pd.read_csv(fileName, sep = get_delimiter(fileName))
+    df = pd.read_csv(fileName, sep = get_delimiter(fileName), on_bad_lines='skip')
     
     for community in communityList:
         for col in df.columns:
@@ -45,7 +45,7 @@ def getCommunityNames(fileName):
     return namesPresent
 
 data_path = os.path.join(os.path.dirname(__file__), '..', 'data/')
-df = pd.read_csv(os.path.join(data_path, 'mapping.csv'))
+df = pd.read_csv(os.path.join(data_path, 'mapping.csv')).iloc[:5]
 datafiles_path = os.path.join(os.path.dirname(__file__), '..', 'datafiles/')
 df['filename'] = datafiles_path + df['filename']
 df['communities_names'] = df.apply(lambda row: getCommunityNames(row['filename']), axis=1)

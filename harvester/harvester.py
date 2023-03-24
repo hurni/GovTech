@@ -1,14 +1,22 @@
-# -*- coding: utf-8 -*-
-
 import requests
 import urllib3
 import os
+import socket
+import ipaddress
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-proxies = {
-    "http":'http://proxy-bvcol.admin.ch:8080',
-    "https":'http://proxy-bvcol.admin.ch:8080'
-}
+
+# Add proxy settings for computers on the BV-Netz
+hostname = socket.gethostname()
+
+if ipaddress.ip_address(socket.gethostbyname(hostname)) in ipaddress.ip_network('130.125.70.0/24'):
+    proxies = {
+        "http":'http://proxy-bvcol.admin.ch:8080',
+        "https":'http://proxy-bvcol.admin.ch:8080'
+    }
+else:
+    proxies = None
+    
 s = requests.Session()
 
 base_URL = "https://ckan.opendata.swiss/api/3/action/package_show?id="
@@ -61,7 +69,7 @@ def download_files(domain = 'territory', format = 'CSV', output_dir = 'output', 
         else:
             print(f"Unrecognized format: {format}")
             return
-        print(f"Downloading {urls[i]} to {filename}...")
+        print(f"{urls[i]},{filename}")
         download_file(urls[i], filename)
 
 if __name__ == "__main__":

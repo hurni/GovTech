@@ -37,8 +37,9 @@ def getCommunityNames(fileName):
     
     return namesPresent
 
-df = pd.read_csv('data/test.csv')
-df['communities_names'] = df.apply(lambda row: getCommunityNames(row['fileNames']), axis=1)
+data_path = os.path.join(os.path.dirname(__file__), '..', 'data')
+df = pd.read_csv(os.path.join(data_path, 'mapping.csv'))
+df['communities_names'] = df.apply(lambda row: getCommunityNames(row['filename']), axis=1)
 
 export_path = os.path.join(os.path.dirname(__file__), '..', 'export')
 df.to_csv(os.path.join(export_path,'test_final.csv'), index=False)

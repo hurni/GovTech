@@ -31,10 +31,11 @@ def getCommunityNames(fileName):
     
     df = pd.read_csv(fileName, sep = get_delimiter(fileName))
     
-    for col in df.columns:
-        for community in communityList:
+    for community in communityList:
+        for col in df.columns:
             if (df[col].eq(community)).any():
                 namesPresent = namesPresent ++ community
+                break
     
     return namesPresent
 

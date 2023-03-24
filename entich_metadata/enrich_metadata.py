@@ -16,8 +16,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 s = r.Session()
 
 proxies = None
-private_api_key = '0887bd41-1637-4334-a0ad-633b0f557667'
-base_url = 'https://ckan.ogdch-abnahme.clients.liip.ch/api/3/action/package_patch'
+private_api_key = # your API Key from useraccount on backend
+patch_url = 'https://ckan.ogdch-abnahme.clients.liip.ch/api/3/action/package_patch'
 
 header = {'Authorization': private_api_key}
 
@@ -32,7 +32,6 @@ data = {
         }
 
 
-x = s.post(base_url,data=data,proxies=proxies,headers=header,verify=False)
+x = s.post(patch_url,data=data,proxies=proxies,headers=header,verify=False)
 
-print(x.status_code)
-
+# print(x.status_code)

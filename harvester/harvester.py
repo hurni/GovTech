@@ -18,7 +18,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Add proxy settings for computers on the BV-Netz
 hostname = socket.gethostname()
 
-if ipaddress.ip_address(socket.gethostbyname(hostname)) in ipaddress.ip_network('10.228.0.0/16'):
+if ipaddress.ip_address(socket.gethostbyname(hostname)) in ipaddress.ip_network('10.194.0.0/16'):
     proxies = {
         "http":'http://proxy-bvcol.admin.ch:8080',
         "https":'http://proxy-bvcol.admin.ch:8080'

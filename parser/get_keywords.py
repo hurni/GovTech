@@ -39,7 +39,7 @@ def getCommunityNames(fileName):
     for community in communityList:
         for col in df.columns:
             if (df[col].eq(community)).any():
-                namesPresent = namesPresent ++ community
+                namesPresent = namesPresent + ', ' + community
                 break
     
     return namesPresent

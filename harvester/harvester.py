@@ -103,7 +103,7 @@ def download_files(domain = 'territory',
         
 if __name__ == "__main__":
     format = 'JSON'
-    max_rows = 50
+    max_rows = 80
     # max_rows limits the number of files retrieved, remove it to
     # download everything
     download_files('territory', format = format, max_rows = max_rows)

@@ -38,9 +38,9 @@ for file in glob.glob("*.json"):
             print(f'{urls[i]},ZIP')
             continue
         
-        filename = f'{output_dir}/{domain}/{str(i).zfill(8)}'
+        filename = f'{output_dir}/{domain}/{str(i).zfill(8)}.{extension}'
         try:
             harvester.download_file(urls[i], filename)
-            print(f'{urls[i]},{filename}.{extension}')
+            print(f'{urls[i]},{filename}')
         except:
             print(f'{urls[i]},ERROR')

@@ -35,7 +35,7 @@ def getCommunityNames(fileName):
     namesPresent = ''
     
     df = pd.read_csv(fileName, sep = get_delimiter(fileName), on_bad_lines='skip')
-    
+    print(fileName)
     for community in communityList:
         for col in df.columns:
             if (df[col].eq(community)).any():
@@ -45,9 +45,9 @@ def getCommunityNames(fileName):
         namesPresent=namesPresent[:-2]
     return namesPresent
 
-data_path = os.path.join(os.path.dirname(__file__), '..', 'data/')
-df = pd.read_csv(os.path.join(data_path, 'mapping.csv'))#.iloc[:100]
-datafiles_path = os.path.join(os.path.dirname(__file__), '..', 'datafiles/')
+data_path = os.path.join(os.path.dirname(__file__), '..', 'harvester','output/sources/')
+df = pd.read_csv(os.path.join(data_path, 'mapping.csv')).iloc[:100]
+datafiles_path = os.path.join(os.path.dirname(__file__), '..', 'harvester','output/sources/')
 df['filename'] = datafiles_path + df['filename']
 df['communities_names'] = df.apply(lambda row: getCommunityNames(row['filename']), axis=1)
 df.drop(['ressource_id', 'filename'], axis=1, inplace=True)

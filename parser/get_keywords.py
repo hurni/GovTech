@@ -49,7 +49,7 @@ df = pd.read_csv(os.path.join(data_path, 'mapping.csv')).iloc[:100]
 datafiles_path = os.path.join(os.path.dirname(__file__), '..', 'datafiles/')
 df['filename'] = datafiles_path + df['filename']
 df['communities_names'] = df.apply(lambda row: getCommunityNames(row['filename']), axis=1)
-df.drop('resource_id', inplace=True)
+df.drop('ressource_id', inplace=True)
 df.drop('filename', inplace=True)
 
 export_path = os.path.join(os.path.dirname(__file__), '..', 'export')

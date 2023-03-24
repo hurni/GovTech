@@ -2,13 +2,13 @@
 
 # opendata.swiss: Automatisiertes Anreichern von Metadaten
 
-## Challenge
-challenge ist zu finden: https://hack.opendata.ch/project/947
+## Kontext
+Projekt entstand am govtech-hackathon 2023. Die Challenge ist hier zu finden: https://hack.opendata.ch/project/947
 
-## Goal
+## Ziel
 Die Metadaten auf opendata.swiss sollen automatisiert angereichert werden, damit geographische Untereinheiten (z.B. Gemeinden, Kantone) bei der Suche 
-nach Datasets gefunden werden, obschon sie nicht in den Metadaten aufgeführt sind.
-Gewählter Ansatz: Parse the datasets and add tag, if a Gemeinde is mentioned.
+nach Datasets gefunden werden, obschon sie nicht in den Metadaten von https://www.opendata.swiss aufgeführt sind.
+Gewählter Ansatz: Brute Force. Parse the datasets and add tag, if a Gemeinde is mentioned.
 
 
 ## Scope PoC
@@ -36,6 +36,6 @@ Gewählter Ansatz: Parse the datasets and add tag, if a Gemeinde is mentioned.
 
 ## To do (future):
 
-add kantons
-add for geodata. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/
-implementierung auf PROD ;-)
+- add kantons
+- add for geodata. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/
+- implementierung auf PROD ;-)

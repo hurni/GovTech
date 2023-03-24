@@ -9,7 +9,7 @@ import json
 output_dir = './output'
 extension = 'csv'
 
-def get_urls(jsonfile):
+def get_data(jsonfile):
     """Read the urls from json file and return the json object"""
     f = open(jsonfile)
     data = json.load(f)
@@ -22,7 +22,7 @@ if not os.path.exists(output_dir):
 
 # Iterate over all json files in the current directory (output from fetch_urls.sh)
 for file in glob.glob("*.json"):
-    urls = get_urls(file)
+    data = get_data(file)
 
     # get the domain from the filename
     domain = file.split('.')[0]
@@ -31,16 +31,27 @@ for file in glob.glob("*.json"):
     if not os.path.exists(f"{output_dir}/{domain}"):
         os.makedirs(f"{output_dir}/{domain}")
 
+    mapfile = open(f'{output_dir}/{domain}/mapping.csv', 'w')
+    mapfile.write('package_id,ressource_id,filename\n')
+    
     # Download each url into a file named xxxxxxxx.csv
-    for i in range(len(urls)):
-        if 'zip' in urls[i].lower():
+    #for i in range(len(data)):
+    for i in range(200):
+        url = data[i]["url"]
+        package_id = data[i]["package_id"]
+        ressource_id = data[i]["resource"]
+        if 'zip' in url.lower():
             # exclude zip files based on the name
-            print(f'{urls[i]},ZIP')
+            print(f'{url},ZIP')
             continue
         
-        filename = f'{output_dir}/{domain}/{str(i).zfill(8)}.csv'
+        filename = f'{str(i).zfill(8)}.csv'
         try:
-            harvester.download_file(urls[i], filename)
-            print(f'{urls[i]},{filename}')
+            harvester.download_file(url, f'{output_dir}/{domain}/{filename}')
+            buf = f'{package_id},{ressource_id},{filename}'
+            print(buf)
+            mapfile.write(buf+'\n')
         except:
             print(f'{urls[i]},ERROR')
+
+    mapfile.close()

@@ -22,4 +22,21 @@ def get_encoding(filename):
     return encoding
 
 
-df = pd.read_csv(exampleFile, sep = get_delimiter(exampleFile))
+communityList = pd.read_csv('../EtatCommunes_2023_kurz_comma.csv')
+
+def getCommunityNames(fileName):
+    namesPresent = ''
+    
+    df = pd.read_csv(fileName, sep = get_delimiter(fileName))
+    
+    for col in df.columns:
+        for community in communityList:
+            if (url.str.contains(community)).any():
+                namesPresent = namesPresent ++ community
+    
+    return namesPresent
+
+df = pd.read_csv('data/test.csv')
+df['communities_names'] = df.apply(lambda row: getCommunityNames(row['fileNames']), axis=1)
+
+df.to_csv('data/test_final.csv', index=False)

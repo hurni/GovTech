@@ -1,518 +1,58 @@
 [
   {
-    "url": "https://data.bl.ch/api/v2/catalog/datasets/10650/exports/csv",
-    "resource": "2cef03c6-5c55-4921-a8cb-4ee5c32cc731",
-    "package_id": "e670b1d3-54b6-4c01-927d-140dd47fd461"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100172/exports/csv",
+    "resource": "34dd3fc5-ec9e-43cd-ab2d-e4caeba57a04",
+    "package_id": "c4641eea-0205-4b8f-b262-c09060c573dd"
   },
   {
-    "url": "https://data.stadt-zuerich.ch/dataset/kinostandorte-zwischen-1907-und-2018/download/kinostandorte_1907-2018.csv",
-    "resource": "73ad01eb-65af-485a-917f-d155ab48d7a1",
-    "package_id": "821d3a58-4ce6-430c-bc16-0aa083fc8dfc"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100063/exports/csv",
+    "resource": "88a54917-1c76-4874-ab0a-764b9cc70131",
+    "package_id": "696c8847-0cad-43eb-873e-96521dea9c5e"
   },
   {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Fundbuero?format=10008",
-    "resource": "e7e998bc-01a0-4467-8f52-164db5776864",
-    "package_id": "2c0f7006-814c-4b95-9e05-4afb709bfde7"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100146/exports/csv",
+    "resource": "44aff99c-6523-4c8c-821e-29a7b5e42769",
+    "package_id": "14bea94c-6ea8-48e0-bfee-803a0e5fd82f"
   },
   {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Zueri_wie_neu?format=10008",
-    "resource": "e76a9e26-c9b6-42b6-a4f5-fb93ee1c96f2",
-    "package_id": "03347dc7-1f31-45c3-a27d-3bb8edf30646"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100245/exports/csv",
+    "resource": "cde7d6a8-1394-4c0d-83e5-a17bd9802ad7",
+    "package_id": "4dd6ca53-67d2-4b67-a4b2-f0289334c166"
   },
   {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kommunaler_Richtplan_Verkehr?format=10008",
-    "resource": "d50f3e51-8274-44a5-9457-ea56a7e3d041",
-    "package_id": "ee4f9032-ab5d-452f-9a51-2a72ead7d386"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100003/exports/csv",
+    "resource": "92839561-3735-470f-9244-a7a55acee54b",
+    "package_id": "d5377886-7b76-434e-860c-a9d58045347a"
   },
   {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Widmungstafel?format=10008",
-    "resource": "4ba0ca0d-6743-4d9e-a083-6ba6f7592fab",
-    "package_id": "4306ff8e-979c-4b99-a156-e07739cc14d2"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100240/exports/csv",
+    "resource": "bb602ed7-9364-4f09-9c9d-31bfd064036c",
+    "package_id": "1a2e3f0f-ed16-4fef-adf8-e1bea813e1fd"
   },
   {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Baumkataster?format=10008",
-    "resource": "3d7c5a90-987a-4bd8-a568-b70f908067b5",
-    "package_id": "5b1d787e-b8cc-4a94-bdd9-8d834fb9c087"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kreisschulbehoerde?format=10008",
-    "resource": "81c2e55e-114c-48fd-a17d-9cfb5672803b",
-    "package_id": "5c4c4e70-192a-4583-9bc0-519a608257bf"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Standorte_der_automatischen_Fuss__und_Velozaehlungen?format=10008",
-    "resource": "1fd74cd1-6a8e-48d4-b9ef-5742f39f302f",
-    "package_id": "9ad0d221-e156-47c9-af01-e8d5eae581d2"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Liste_der_Informationstafeln_an_Denkmalschutz_Objekten?format=10008",
-    "resource": "1b05a093-1d07-4f50-ae07-238629dac280",
-    "package_id": "aeb8d63f-9fca-481a-8bca-7d02a41dee35"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Anlauf__und_Beratungsstelle?format=10008",
-    "resource": "f89678a5-a33e-4f3e-a688-263c7bc3731b",
-    "package_id": "81442b3f-485b-49a9-be77-2f16bdcf7c96"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Feuerwehrstellflaechen?format=10008",
-    "resource": "8637d9e6-eb95-4368-8413-14f8ae669771",
-    "package_id": "a6c5cdcb-a04a-4846-9e47-e139a1b927b6"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Purzelbaum?format=10008",
-    "resource": "796fb71b-54c1-4593-95c8-75a2f34bd87e",
-    "package_id": "16c3a79d-675f-43f2-8ec2-5a3bfcd8e5bc"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Brunnen?format=10008",
-    "resource": "895de4c6-79d9-41c7-99e6-6655fea4b50e",
-    "package_id": "5b3f4d5f-6bbc-49b0-8fde-c3ca7286f050"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Spitalnotaufnahme?format=10008",
-    "resource": "1b3ed374-8e05-49e1-b8d0-0910e887e618",
-    "package_id": "e801898a-f1e9-464a-8ae9-32eea3c9dbe4"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Adressen_Stadt_Zuerich?format=10008",
-    "resource": "fe35d503-8cff-4107-88e9-97cac6597754",
-    "package_id": "ccdd1eda-0b21-4579-b999-c212120b308f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Sport?format=10008",
-    "resource": "880da102-8d1d-4e63-abbb-06f94279ba5f",
-    "package_id": "84eb8f23-e1fe-430b-b4a3-ac20cc3abe02"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Alterszentrum?format=10008",
-    "resource": "9a008f78-f3c8-49c8-9473-3f75564ef9e2",
-    "package_id": "008352c2-905b-4c42-aef8-f88c78f6fa50"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Oeffentlich_zugaengliche_Strassenparkplaetze_OGD?format=10008",
-    "resource": "5b85de1a-5acf-472d-9aab-d0125d4cf8d6",
-    "package_id": "d4498d4d-ad2b-45c3-8629-2980bde8b780"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Spital?format=10008",
-    "resource": "b938fae2-79e0-4a24-8164-8cd90e1ef1bd",
-    "package_id": "8502e3ce-ee12-4835-9e91-430d1521a0df"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kindertagesstaette?format=10008",
-    "resource": "b12112a5-642e-4eca-ba1f-a73091a1696f",
-    "package_id": "0844fb1a-9594-44eb-afaa-769fec7b0308"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Luftqualitaet?format=10008",
-    "resource": "65450197-4d2b-45c0-9f0c-ffbc533cce7f",
-    "package_id": "f70d43df-30e4-4213-b2c6-62bda7c40bde"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Park?format=10008",
-    "resource": "ae6d6e47-5d71-4bc2-a3ac-c41008865d9d",
-    "package_id": "4a266560-85c8-43e2-89b0-357bf3b1b6bd"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Denkmalpflege_Inventar?format=10008",
-    "resource": "b73e8ac5-9b82-41a9-983d-df6c318080d6",
-    "package_id": "358550ed-d644-45d2-9757-ba1b86eca0a9"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Behindertenparkplaetze?format=10008",
-    "resource": "9cd52a35-b9ef-48d4-b488-ee29e7f239d5",
-    "package_id": "951504cd-debf-43e7-916a-deb9e0e7184b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Oeffentlich_zugaengliche_Parkhaeuser?format=10008",
-    "resource": "6f809082-eba7-41c1-a487-1db317be7300",
-    "package_id": "8c83d583-11ed-4c74-9a9a-5a55e42591e8"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/ERZ_Kehrichtcontainer_im_oeffentlichen_Raum?format=10008",
-    "resource": "e0f502b6-d1f0-4959-a407-40f02e472e2c",
-    "package_id": "b7262cf9-40c8-4e7d-b760-4269b23f1d44"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Spitex?format=10008",
-    "resource": "2280f814-b4d7-401f-add4-a76fe7fbdf50",
-    "package_id": "a68cd8b4-ba38-4ded-bd85-6aaaf870705f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Betreibungsamt?format=10008",
-    "resource": "5f5e175c-973a-4cdd-bdc3-1296c8622cc0",
-    "package_id": "cfb07573-a2ad-4a87-9f79-c0900beed8e2"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kommunale_Energieplanung___Energieplankarte?format=10008",
-    "resource": "44e3ed92-8888-409f-bb93-c01395b59ecf",
-    "package_id": "24e3679b-24a4-4732-8d44-54043c53264c"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Spielgeraetekataster?format=10008",
-    "resource": "9e694b44-c4db-404c-8d17-ec17c8d4d51f",
-    "package_id": "50a5e890-d4c3-466f-82d3-1467770021b3"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kreisbuero?format=10008",
-    "resource": "453a3dbb-3d97-4a3d-a1fc-d0799edac570",
-    "package_id": "3d556807-c1be-4cab-a0a0-4bf15fecfce2"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Masterplan_Velo?format=10008",
-    "resource": "aba8c7f5-fe72-4f4c-a871-50cb37e86841",
-    "package_id": "eea8d8ca-cafa-4ac3-99ce-d33558091bbc"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Statistische_Quartiere?format=10008",
-    "resource": "8db531e7-3d16-44a9-a80c-5a099f91face",
-    "package_id": "b7581445-6ef2-4c08-9b24-25b402360301"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Statistische_Zonen?format=10008",
-    "resource": "c047af36-2b2f-49b8-bf69-706aec64b317",
-    "package_id": "423ba56b-fb58-4ecd-a208-ecdcfe3e617d"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Stadtkreise?format=10008",
-    "resource": "85324ed5-5000-48c1-a6ed-3c2e2e195410",
-    "package_id": "5bcb49d1-1194-4c0f-adb0-4369e46aef07"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_Gartendenkmalpflege?format=10008",
-    "resource": "48ea0f43-95a5-442a-85a0-924eab976157",
-    "package_id": "90f9e76b-a2fe-48e9-9fd3-61d5e4dbf405"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gastwirtschaftsbetriebe?format=10008",
-    "resource": "8e351c28-4515-4de9-b876-c8d096e52b1e",
-    "package_id": "a3413632-6b57-442d-8c6b-baccbc6ef15b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Suchtbehandlung?format=10008",
-    "resource": "891eeec7-9ce9-4aa0-a9ca-a90cfd312819",
-    "package_id": "dd00cccd-86fe-4e4e-8649-28687abad530"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Veloverleih?format=10008",
-    "resource": "09d35f03-989a-4504-8de9-99d5231ad108",
-    "package_id": "076b8424-690a-4cdf-a682-f30d982bdb5b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gemeindefriedhoefe?format=10008",
-    "resource": "4402c7ab-c770-49a3-82a8-1784a108c736",
-    "package_id": "c06bebde-41d5-4904-ae6e-47eb23e753df"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Stadttunnel?format=10008",
-    "resource": "f44890db-9dbf-4238-81e7-2e682b6b6cb4",
-    "package_id": "503cf13b-6473-414d-9057-c9c631c7ee0f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Denkmalpflegezustaendigkeit?format=10008",
-    "resource": "c7d2e132-625c-40ec-aa26-e106ea07ffe8",
-    "package_id": "fabf804c-a578-4af4-98d5-51af4a165f8f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Sammelstelle?format=10008",
-    "resource": "6a2b3fb7-c9cf-4425-a426-c237b55dc99f",
-    "package_id": "852f82cc-d325-4922-b7a3-3ecf6ca9bcc7"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Sonderabfallsammlung?format=10008",
-    "resource": "1410b89c-006f-415a-803e-eab2faa730ad",
-    "package_id": "4c8b0d69-2567-403b-8970-6e068dca61e8"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Jugendtreff?format=10008",
-    "resource": "a3dd7fd2-8bf3-4b5e-977b-d72170e6e9ab",
-    "package_id": "5879a12f-454f-4270-bf9e-6367dfaac1a3"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kunst_im_Stadtraum?format=10008",
-    "resource": "091a6b6e-39cc-4a23-82d6-08317a30ac51",
-    "package_id": "d73b8352-8798-4a44-b622-6cc32ee8911c"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Dienstleistungen?format=10008",
-    "resource": "2c152e44-b02e-4734-b81e-9b24ef7069ae",
-    "package_id": "be11692f-3b06-44fd-8ab8-5abb57a6dbf6"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Alterswohnung?format=10008",
-    "resource": "158c063f-a297-4957-a284-0b516c1450f3",
-    "package_id": "3096f463-492c-42ec-bd51-246673721d16"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Muetter__und_Vaeterberatung?format=10008",
-    "resource": "97951c63-c7ba-4c36-8686-49f93fa2c25f",
-    "package_id": "ad7e30e3-934b-44b8-b2f8-675866d445e8"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/VBZ_Verkaufsstelle?format=10008",
-    "resource": "89bcf335-cc08-466a-8c94-640440a9dff4",
-    "package_id": "9406e37b-0a4f-4c8d-a3da-162859a76993"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Standorte_ZueriVelo?format=10008",
-    "resource": "6bda6dd6-bb88-43e6-8d16-a68c2235169c",
-    "package_id": "8759ed78-5c79-49ed-b095-0277de56949a"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_der_roemisch_katholischen_Kirchgemeinden?format=10008",
-    "resource": "b88a07e4-1ce5-457d-a2cc-5362b074bce8",
-    "package_id": "de304fbf-cf91-481e-b454-436f52ae06b5"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/AOZ_Standorte?format=10008",
-    "resource": "a6a37bf0-5667-468e-8805-c3200bb62ca7",
-    "package_id": "7dfbe837-6673-4431-bb3a-c9e43caa5c3b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gemeinschaftszentrum?format=10008",
-    "resource": "2419dd57-a208-4d49-84c3-4789944ab458",
-    "package_id": "65a31de0-6644-44cf-819a-79d4f33ef550"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Quartiertreff?format=10008",
-    "resource": "57824683-fab8-4cfd-b41c-75be1ecb101b",
-    "package_id": "051622e4-f99e-4d6f-beca-3cd60116e70b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Zueri_WC?format=10008",
-    "resource": "9caaafc1-36f3-410c-950e-a6ae07d5d2b9",
-    "package_id": "a37945f8-c049-41c9-b80d-ceeb4fc35ea2"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Move_and_Chill?format=10008",
-    "resource": "3c7046c2-238c-42bd-b698-c1804785bef5",
-    "package_id": "ef9b6a48-7c08-48dd-ab9c-81c20e1cf4c6"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Abfallgefaesse?format=10008",
-    "resource": "627d68cb-63cb-4e3a-9dcd-a45e1766266a",
-    "package_id": "b6f0bcbb-09c4-4b4a-8362-06f4f5011e02"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Pflegezentrum?format=10008",
-    "resource": "3aaace53-afe9-44b7-b833-bf8f33a3920f",
-    "package_id": "faf686e9-1fdc-40e5-8233-65e9277bff5e"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Nachbarschaftshilfe?format=10008",
-    "resource": "8c557043-3879-4e38-a7ec-47855f4e9a91",
-    "package_id": "91bf3b7d-bd7f-4d53-81b6-e16db5e207a8"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietsnamen?format=10008",
-    "resource": "1ea3f4b2-c1c8-40fe-ae44-4ffb87bb7b77",
-    "package_id": "5937f9a3-910d-4c6e-a9bf-32a0402f05ad"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Recyclinghof?format=10008",
-    "resource": "100ec73d-aeeb-4bda-81d9-ef744c7556c9",
-    "package_id": "030ff409-a8e0-4f73-8e07-f8401d900899"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Zweiradparkierung?format=10008",
-    "resource": "929b6f31-488b-4f79-b4cc-e746e47856b7",
-    "package_id": "9161520a-31a3-4b0c-851c-9b36ee50caee"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Bauernhofladen?format=10008",
-    "resource": "41fd184a-6bf4-4eb6-8191-9e3eebeafdd5",
-    "package_id": "1b28dab6-0410-47ae-b2c1-171a080554b9"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Abstimmungsgeraete_TAZ?format=10008",
-    "resource": "17a1c34c-b88f-4e30-b316-7ff45b9d35c3",
-    "package_id": "7b197fe5-6e73-483f-8f36-f03f8f603840"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Familienzentrum?format=10008",
-    "resource": "2b0d5d9f-c3fc-4c0d-a968-4bbf9181826a",
-    "package_id": "14e1e80a-7b51-49ce-888a-f4e12649370b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Amtshaus?format=10008",
-    "resource": "b26cd222-6115-4593-8af2-135cebed616c",
-    "package_id": "6732a4b4-9aed-4264-84d3-3ec907982eec"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Schulanlagen?format=10008",
-    "resource": "119d2eed-bcc6-4640-a9c2-2d160558cfd1",
-    "package_id": "6299fbb8-1b05-4841-8c57-66c9cb047391"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Strassenlaermsanierung?format=10008",
-    "resource": "fb36646f-5467-4ff6-ace7-94e096b862db",
-    "package_id": "3c19d164-44f9-4695-8723-6524391220a4"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Departement?format=10008",
-    "resource": "38b713df-f6fd-4890-a9d3-838759ccdbff",
-    "package_id": "696abde2-79cb-4f22-9ca1-8802aff6a89e"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Baumersatz?format=10008",
-    "resource": "78c14ad8-0c5f-49d5-96cf-8760aeb295c1",
-    "package_id": "e611c341-1ce8-4117-b767-0a6598be7e36"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Signalisierte_Geschwindigkeiten?format=10008",
-    "resource": "b91ef070-44a3-4794-90fd-45abf9bf3e63",
-    "package_id": "aa5fe52b-0ff8-4707-831a-63d17dab5074"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Wildschonreviere_OGD?format=10008",
-    "resource": "f668e793-f62d-4801-b33f-f8d9e9cb1e97",
-    "package_id": "d2595aa0-1ce8-4ee9-8245-c49073ee1af3"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Bauminventar?format=10008",
-    "resource": "d2fb21ba-704f-46b4-bfbc-8c35ef78781a",
-    "package_id": "5dd41226-4542-473e-bfc8-2af0375c1131"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Musikschule?format=10008",
-    "resource": "dec88555-05d5-4345-b830-2ea10d41d18f",
-    "package_id": "34885a7e-863a-4835-b89d-ff66192a1673"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Geschuetzte_Einzelbaeume?format=10008",
-    "resource": "6f3745f0-4696-434d-8120-5027a606a85e",
-    "package_id": "f9833dda-52a5-44ad-a959-ed25f2db750d"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Historische_Bilder?format=10008",
-    "resource": "a7668f59-24bc-4c1b-9aca-15dd3a7bd6ce",
-    "package_id": "e99ecdf8-8fdf-4a02-9e89-1eeb81347a1b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Sozialzentrum?format=10008",
-    "resource": "a749d0f5-d1ab-4cc7-9636-c47d25871786",
-    "package_id": "d78af0cc-ad47-4c4c-ac21-0b60d9bf9eb1"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Velopumpstationen?format=10008",
-    "resource": "4291e745-0be8-41a5-a4f1-4dd75925073b",
-    "package_id": "bb58a756-c722-4cfd-9a1f-78443cb3293f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Weiterbildung?format=10008",
-    "resource": "d546dd2c-3bf5-4df8-87ea-735c93ef9449",
-    "package_id": "bda43582-c7c8-403f-ab01-5ef8c4ea7041"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_Freiraumberatung?format=10008",
-    "resource": "a9e2d8d5-c427-4ba7-9e61-59890aef0e5f",
-    "package_id": "00168259-cfc4-4cf9-a809-e1043d478472"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Hydranten?format=10008",
-    "resource": "b0540488-3436-473f-a15d-7e935ba45caf",
-    "package_id": "57f6d485-303e-4368-87a4-3ea000d66ce8"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Standorte_subventionierte_Deutschkurse?format=10008",
-    "resource": "bb5cf3a5-cc3e-499c-839a-33326377a189",
-    "package_id": "33d09fad-3bc6-4f12-bf29-af9f9104def7"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebiets__und_Bezirkseinteilung_der_evangelisch_reformierten_Kirchgemeinden?format=10008",
-    "resource": "5af1bf5c-7eae-4471-bae4-1b7461e0a63d",
-    "package_id": "5687d173-6307-4fe1-953b-d60f26bee79e"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gericht?format=10008",
-    "resource": "7a60071a-e6f0-44fa-aaca-1b6eea8268cd",
-    "package_id": "8c22b03c-ab45-44f5-a40b-6a7c4a58cb19"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gesundheitszentrum?format=10008",
-    "resource": "c075575c-8c02-4a6d-8304-2ede02945d02",
-    "package_id": "01db61e9-182b-475a-9ed2-a00a1548e5fb"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gang_dur_Zueri?format=10008",
-    "resource": "ea174f5c-98bc-4554-b1d0-7ebfb99fb545",
-    "package_id": "995e780f-8ffb-416d-9bb1-1b07f72030f4"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Erlaubte_Fahrtrichtungen?format=10008",
-    "resource": "8cb7fad0-6374-4dc3-a58a-b716bad18fac",
-    "package_id": "9d40f626-271e-49fb-863a-45ac3717f761"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Arealueberbauungen?format=10008",
-    "resource": "e2a919cf-6854-4be8-a3a9-01dcc9c49cbc",
-    "package_id": "f8560762-8c2f-4d1e-afe7-30cddae310f1"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Naturschulen?format=10008",
-    "resource": "48506510-f2e2-4450-a232-d194fbb025c5",
-    "package_id": "541667fd-2987-4123-b442-997e46940ad5"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Cargo__und_E_Tram?format=10008",
-    "resource": "b0311109-2bd4-4c13-b730-8db584e2795b",
-    "package_id": "971e5784-6a51-4624-a3ea-3a4ace8034c3"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Oeffentliche_Beleuchtung_der_Stadt_Zuerich?format=10008",
-    "resource": "7a469d5e-b8e4-4100-828f-e7abeed78b92",
-    "package_id": "0c63ec10-d257-47f9-a236-57530f00e881"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_der_evangelisch_reformierten_Kirchenkreise_der_Stadt_Zuerich?format=10008",
-    "resource": "3f2aa779-b7c6-435b-af5c-820994c21c88",
-    "package_id": "d477be6f-7797-41db-8bab-b5a064f78c73"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Krematorium?format=10008",
-    "resource": "af9aa035-203d-4321-b756-650698dc4ad8",
-    "package_id": "e6e1cec1-4b62-45d4-9f10-656f769a677c"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Liegenschafteninventar_OGD?format=10008",
-    "resource": "463cf47e-676c-45bf-ae0a-3cd8305a0bce",
-    "package_id": "daa6d4f3-7d01-4aed-a45f-6d431899b2dc"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Oeffentliche_Planauflagen_von_Strassenbauprojekten_gemaess___13_StrG_und___16_und___17_StrG?format=10008",
-    "resource": "8047a622-0cf7-4445-ba7b-afb52aa7e359",
-    "package_id": "f4f921cb-3842-4049-9a18-05aea131da47"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Velonetzplanung?format=10008",
-    "resource": "aea41776-57c1-4177-9b71-91c8072a9263",
-    "package_id": "827aef0c-8c0c-4b91-8bc1-a246041521b7"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Stimmlokale?format=10008",
-    "resource": "35ea6720-2bd8-4028-b93f-9f5b46b19fd1",
-    "package_id": "5202d319-8713-4890-af1c-002315cd0c8b"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gruenflaechen?format=10008",
-    "resource": "616af524-c0f8-4fce-9e74-a33c5ceeb6f6",
-    "package_id": "1fdca8d9-4306-43a2-a7d5-d47ff65ef174"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/prd_stez_liste_videokameras_stadtverwaltung/download/liste_videokameras_stadtverwaltung.csv",
-    "resource": "ca2160db-b125-4225-b6bc-8f8c9f4cd030",
-    "package_id": "30488fe3-ca3d-4924-acaa-e68835eb4415"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_wipo_gastwirtschaftsbetriebe/download/historisierte_gastwirtschaftsbetriebe_per_20221231.csv",
-    "resource": "a5318e63-a23e-4481-a803-1f33a867b0c6",
-    "package_id": "d8f4560c-4c00-495a-a9c2-80a585f34b63"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100046/exports/csv",
+    "resource": "1b64d217-c7e3-49b5-9fcd-3ae97ff5be9d",
+    "package_id": "d4576c82-1eee-4431-957c-fee263343c81"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100052/exports/csv",
     "resource": "ee670b1e-0a16-48b7-b079-52a23d1c5e8d",
     "package_id": "57edebcb-f68e-4d11-ae23-a5884fafe799"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100067/exports/csv",
+    "resource": "d9c6dbed-1169-4168-9380-268ea0e1e680",
+    "package_id": "82576046-f54a-4c51-8d5f-04a52339a129"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100125/exports/csv",
+    "resource": "492cf887-f4b0-4e3d-b8d9-b8749d17303f",
+    "package_id": "2f47a73e-2faa-43ac-aa57-53f95daf5229"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100236/exports/csv",
+    "resource": "6ab99641-004e-42b6-ad02-2eef4094790b",
+    "package_id": "c13b23cb-5407-4cd7-abfb-20e553f9b040"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100035/exports/csv",
@@ -525,9 +65,44 @@
     "package_id": "e4b71a17-3eb9-4023-9c9b-4b318bf96473"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100093/exports/csv",
+    "resource": "b1864f13-4c9c-4726-84c2-f32ae560272f",
+    "package_id": "9d7d7afe-392c-459a-b0e9-11570c67f025"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100170/exports/csv",
+    "resource": "65d44fbc-b287-4eee-bb94-bb4bc8b36018",
+    "package_id": "40837e44-b3d4-4b62-b9fc-7133c2167c1c"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100032/exports/csv",
     "resource": "f4e5f06e-fe5f-4f04-82c4-e12d2701d231",
     "package_id": "774d1e0b-6503-415d-9b57-2dad25d60170"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100192/exports/csv",
+    "resource": "0f7dce98-e080-44f5-990c-bf5e0c5a4e1d",
+    "package_id": "95ef54ad-722d-4a84-989b-210c7a800b4f"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100183/exports/csv",
+    "resource": "63310189-2ef0-4515-a0f7-e1b2f2509529",
+    "package_id": "41b161da-899a-4363-82b9-393c557f38ba"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100160/exports/csv",
+    "resource": "9b5a1597-fbe0-4201-8997-050e75658993",
+    "package_id": "4613f17f-349b-4416-801e-06d6353c8c6b"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100008/exports/csv",
+    "resource": "7a6d1a62-71d1-4232-8e18-f225995d14b5",
+    "package_id": "155e895c-03ac-4cd0-ad83-e24b93adec69"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100007/exports/csv",
+    "resource": "ecc7fdd4-0074-4424-8590-b3a837a43271",
+    "package_id": "652c8daa-5787-4ce6-b600-1f85ec44144c"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100042/exports/csv",
@@ -535,9 +110,29 @@
     "package_id": "f24179c0-5f9e-4391-b77a-6ee05e461104"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100178/exports/csv",
+    "resource": "76225a3c-2c44-4b02-be2d-b40bbd44b3dc",
+    "package_id": "ae8e5bb5-8eed-446a-a33f-31a4851bc53c"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100131/exports/csv",
+    "resource": "361e0dbc-7963-43fe-97ff-04afb9e39303",
+    "package_id": "b5fc051e-82fe-4593-b83c-a79b6011c851"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100011/exports/csv",
+    "resource": "0cc59e33-bbad-4db0-9deb-adfedf15f234",
+    "package_id": "6fbff11e-7b5e-4fe9-9d14-269ab37b3158"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100020/exports/csv",
     "resource": "ae71bfbd-53e6-40d6-9662-974ef2511349",
     "package_id": "79798088-c2bd-49b2-b48a-1ccb2fdd8bb4"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100062/exports/csv",
+    "resource": "0fc793c0-c964-43ba-a877-528f409f34b2",
+    "package_id": "2e249c8e-adaf-48c9-ad0b-8f8bf56e8922"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100030/exports/csv",
@@ -545,9 +140,19 @@
     "package_id": "6911abe5-5c8c-46b2-96cb-85997575f468"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100066/exports/csv",
+    "resource": "dd3d536b-162c-45b9-b9da-64dad54c5aaf",
+    "package_id": "5cc6b9fa-2b92-4723-bfa7-e530a1377366"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100038/exports/csv",
     "resource": "a521fd23-3852-4438-b4dd-7db3d5c46615",
     "package_id": "91fbe0d9-97b4-4a22-8330-2233ff05985b"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100175/exports/csv",
+    "resource": "50ec8455-9bde-4720-8385-d72ba1aa6654",
+    "package_id": "07aa25a0-2c92-4167-b257-a66337fb1c01"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100241/exports/csv",
@@ -560,9 +165,34 @@
     "package_id": "7f6964cf-5a05-4cac-a761-ab12ce0e5d9b"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100099/exports/csv",
+    "resource": "ccee4e61-f2f3-4172-a99b-d63f00f47af6",
+    "package_id": "7b7d1210-070b-47ce-b27e-bb805e308d35"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100114/exports/csv",
+    "resource": "1f3e9cf2-06a8-4a77-b008-9f0c149e021e",
+    "package_id": "bb1f3c08-6686-41e5-8f5f-1bfefe7fe9cf"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100177/exports/csv",
+    "resource": "e60a22d9-5e70-4700-b1b5-720e76e8eb70",
+    "package_id": "7f29c42c-5f04-41c8-94dc-261966fa1486"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100279/exports/csv",
+    "resource": "048ba523-f2ac-487c-8cc4-1a9c7cf31349",
+    "package_id": "e317b708-4038-4f1d-b77e-16aaff90545a"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100034/exports/csv",
     "resource": "5328e625-11fd-4d1a-adaa-d5b78eb0b929",
     "package_id": "0e5990b1-4c17-464e-be8c-7853eaca25ef"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100061/exports/csv",
+    "resource": "e9bc89c0-2345-4128-9588-5758d2e9de63",
+    "package_id": "362e68c5-dfc3-454a-b478-4b002966b01e"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100027/exports/csv",
@@ -570,9 +200,39 @@
     "package_id": "3f15624b-73e4-4f5e-8ff1-d5cbb9f766c6"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100199/exports/csv",
+    "resource": "eeaa9ba5-3576-4c79-a9f0-044271660ec0",
+    "package_id": "1171abcd-bb7c-42e7-9360-5e59b969f7a4"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100134/exports/csv",
+    "resource": "cdb6c74e-25ce-48ab-89d1-57a2c66d312c",
+    "package_id": "e6368ce6-4c59-4acd-9ea4-81e19e7d5c31"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100148/exports/csv",
+    "resource": "34ab5a83-b7f8-47e5-a267-65877c200e80",
+    "package_id": "a51b27bd-13e1-42fa-bf7c-ab0b03bf5a12"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100019/exports/csv",
     "resource": "33ede1c3-7643-4d35-9cce-9765a2ce6925",
     "package_id": "ebcc2d7f-de4e-468c-bf7b-d43eb63c49f4"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100079/exports/csv",
+    "resource": "5047b0e4-5bef-4cc0-8a32-90e9231e709e",
+    "package_id": "1f65aea4-1cc1-42a9-bc2f-4ff09e06482d"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100139/exports/csv",
+    "resource": "c6bbf924-e494-4cd6-bd9b-a147189c64a4",
+    "package_id": "60a1adf2-09c9-4ada-9e61-0e69b3d90f26"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100136/exports/csv",
+    "resource": "d36aea3d-8739-48cc-bcc7-55eac71e8e15",
+    "package_id": "14412408-a817-4717-8964-66c73ff7b18a"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100016/exports/csv",
@@ -580,14 +240,59 @@
     "package_id": "27d9fd67-409a-4d13-b8d9-2e5844eefd4d"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100227/exports/csv",
+    "resource": "4c6d99c3-58fc-47ba-85f2-de668c35dd1d",
+    "package_id": "4dcad1dd-e328-4978-a32e-94907b7075bb"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100018/exports/csv",
     "resource": "5c67ffaf-b1f0-491d-b501-8dc34a6a8dd6",
     "package_id": "5cd97df0-fc60-4698-a52b-82cd59103ea2"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100069/exports/csv",
+    "resource": "02c46667-254f-4d5f-b036-28179c2ae640",
+    "package_id": "ddbd872e-1f5a-415b-a6f8-02b030327c93"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100189/exports/csv",
     "resource": "d0400526-3714-4d3c-bfe7-218a7356b66f",
     "package_id": "a86bfb26-e422-4c80-8f62-9da3c52e9f98"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100112/exports/csv",
+    "resource": "288f2181-73d7-43ae-890a-783efbdbb76b",
+    "package_id": "a674be95-79cf-4fe4-be7c-1e77e4423ba4"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100179/exports/csv",
+    "resource": "762de682-54cc-4b0c-b365-49b67ef1797c",
+    "package_id": "ae23252a-54b8-46f3-9841-9c8053bdc5ca"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100121/exports/csv",
+    "resource": "6740af94-a74d-466f-9592-db30f21a897c",
+    "package_id": "598c4c6c-ccfb-4fc8-8b2a-93aa147b7883"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100193/exports/csv",
+    "resource": "a1746cb6-063d-4065-803b-ea9b79d5f3f6",
+    "package_id": "d8f8ffba-801e-415a-87ca-590e5f8bdcd4"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100152/exports/csv",
+    "resource": "edf64aa1-18c6-4e22-8907-c6283280df6f",
+    "package_id": "c6a5c020-b293-4e23-88f2-55c372e19612"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100106/exports/csv",
+    "resource": "f7cbc4c9-5000-4e6a-9103-d39f1b2acfcb",
+    "package_id": "63d1b112-ad5e-47c6-92c3-dba7620179ca"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100065/exports/csv",
+    "resource": "bd54a1d4-f332-4661-9565-b885e7167558",
+    "package_id": "9c9b5eff-d36e-4323-9e9e-9dd1b17812f7"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100026/exports/csv",
@@ -600,9 +305,39 @@
     "package_id": "379ad64d-d357-42cb-9e1a-3a2f12b32abd"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100059/exports/csv",
+    "resource": "74219b47-7a0d-4f03-ad9b-7ceafc55bca5",
+    "package_id": "5d3d55b0-4580-4476-b5ff-6ef027904811"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100092/exports/csv",
+    "resource": "508e7579-7224-4de1-ab02-ce7a97e5945c",
+    "package_id": "b053ae2f-d6c2-4b0c-9010-3d5a286564b1"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100223/exports/csv",
+    "resource": "81ea521a-19fb-4a78-a49e-c39a95155340",
+    "package_id": "5cdbedb9-f916-4c6a-8244-e1c5c76a6bb0"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100107/exports/csv",
+    "resource": "429f2712-c951-4204-8aa7-7c2b75a5ab03",
+    "package_id": "b5e9f722-265f-4b84-8803-eaca07fbacc5"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100153/exports/csv",
+    "resource": "ad5081a9-498b-4392-bcd1-e42b98844f20",
+    "package_id": "03276a31-e846-4207-8ba8-ab2665b564c7"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100037/exports/csv",
     "resource": "b7fde888-0311-4cc6-b0c3-2e118b6799dd",
     "package_id": "8b43a31a-0a38-495f-aa39-a1f32f9767c6"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100202/exports/csv",
+    "resource": "20dea4df-f619-4fe3-95dc-e80f6e3d3a83",
+    "package_id": "af230937-70b0-450f-a510-888c9eed8ba6"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100242/exports/csv",
@@ -610,9 +345,54 @@
     "package_id": "2a719100-99f4-4631-94a1-e5b7feb77b0e"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100145/exports/csv",
+    "resource": "3146902c-bb0c-468f-9adc-eedfa7fd6b5f",
+    "package_id": "090b7a82-d341-4dc0-9ac6-2bed270a6550"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100013/exports/csv",
+    "resource": "706cc887-fa18-41e7-a52e-4ac1eecc1762",
+    "package_id": "6a83e1b7-b387-4bd5-bca3-5e7feb2e3f56"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100196/exports/csv",
+    "resource": "077b6026-8323-4563-b6ec-d3621e55961b",
+    "package_id": "efef1e0c-b55d-4b34-9cd9-4327bf38d85a"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100230/exports/csv",
+    "resource": "55c821c9-38d4-4c97-b9a4-cead75719278",
+    "package_id": "484cacce-db99-47a1-a3ee-33c47620b088"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100053/exports/csv",
+    "resource": "eae3bf81-fbdc-45fe-942c-ca6124b6a8f3",
+    "package_id": "c39fca0c-e8a5-4ec8-8162-b82c35397cc0"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100231/exports/csv",
+    "resource": "2a5b68ac-a563-404c-93a7-dbb001de0a3c",
+    "package_id": "3463fc6b-8044-4a9f-804d-a4fd3dc5fdb2"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100041/exports/csv",
     "resource": "349fcb82-c92d-4893-9d01-95c0df09741e",
     "package_id": "3f5124d3-27cd-487f-a4cf-d1a91d5b4bdf"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100129/exports/csv",
+    "resource": "a4a823e4-f4fc-441d-8d74-8e29101b2393",
+    "package_id": "c22a5bc5-c83e-4c66-9ee6-64c71a176643"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100095/exports/csv",
+    "resource": "eb0e6422-c8e3-4705-ac65-bcbe9b649f38",
+    "package_id": "a3a44806-68d8-40df-a224-35d81aac32f6"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100064/exports/csv",
+    "resource": "624053c2-ae12-41d1-a005-9890bdf2579f",
+    "package_id": "049621cb-f2d6-4426-bf61-ca978999665a"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100023/exports/csv",
@@ -620,9 +400,34 @@
     "package_id": "4c73e962-9ead-47a8-9d94-fa488ec920cf"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100198/exports/csv",
+    "resource": "53f68816-44cd-4fc5-9d5f-c00641a99242",
+    "package_id": "ae3d8530-ac0e-43bd-9cb6-6da45d3a34f6"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100182/exports/csv",
     "resource": "1710cba2-860c-4535-bb10-6cf12f518c4a",
     "package_id": "f811ce3e-2996-4353-afea-70c957f86ad6"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100126/exports/csv",
+    "resource": "5069d2e0-a0ef-4e53-ac2a-401492a2208e",
+    "package_id": "36140e5b-1333-4b47-a5cf-7b0c220b12ec"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100097/exports/csv",
+    "resource": "617bca19-0d6b-44b3-8feb-54bc9cb6c1a7",
+    "package_id": "9be710fa-5432-4322-b099-a62d86143629"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100162/exports/csv",
+    "resource": "756d25f3-3d85-4c35-a0c4-8d5381592b13",
+    "package_id": "bf3b3946-7cd0-448f-a1ec-94e705f0bad4"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100200/exports/csv",
+    "resource": "d1814e0a-ac61-4c5f-b778-7d1c1f56508f",
+    "package_id": "3f2f30fb-22cb-42a9-9e1c-75826c8c886b"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100043/exports/csv",
@@ -645,9 +450,19 @@
     "package_id": "8ae794bb-d909-4324-87c0-cd04b7ae9422"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100206/exports/csv",
+    "resource": "634cb68d-77f5-4366-aab4-4e3505b2b4ea",
+    "package_id": "43a921a9-434f-4667-af8b-e0c88739b5f1"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100201/exports/csv",
     "resource": "b6b1ac28-efbe-4801-b0ef-c91850aaa8bb",
     "package_id": "ed33632c-7da7-4995-ad13-aeb4f7d97f99"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100156/exports/csv",
+    "resource": "daa5254e-57d4-42c5-9710-354fdef944d6",
+    "package_id": "5cd778fb-f4a2-40b2-a795-dc8c1834b709"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100215/exports/csv",
@@ -655,9 +470,34 @@
     "package_id": "227fb793-50e3-4640-94cb-20ee9b7dbe1a"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100060/exports/csv",
+    "resource": "0e701798-f22e-4405-8057-bbc61a9efb47",
+    "package_id": "b82cdea1-97d6-4b26-9463-f9c4906fb587"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100111/exports/csv",
+    "resource": "05555e87-2203-4124-9601-239323bd70b0",
+    "package_id": "9a2ab4f5-d805-40c7-bcee-d928b46281c5"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100108/exports/csv",
+    "resource": "e8f2c7d0-1318-4de3-af9c-f41a3a740b83",
+    "package_id": "d71d9e40-6672-4363-bad1-79e13de87231"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100250/exports/csv",
     "resource": "eb49f717-084d-4da6-aa27-371dcbf3c228",
     "package_id": "fb8e37f5-cdaa-48a8-8e3a-08f9a71469cf"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100171/exports/csv",
+    "resource": "27ba80ec-014c-47d3-b741-5090f6b4e68c",
+    "package_id": "dfd17d3a-bdd5-4712-a02c-a22f8dd30234"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100229/exports/csv",
+    "resource": "462c8f4a-05e6-4de1-a45e-c255d8706e4d",
+    "package_id": "de4c0593-b62a-42af-b2bf-a6e488ccc827"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100151/exports/csv",
@@ -665,9 +505,19 @@
     "package_id": "a97ff738-7cc3-4cd4-9741-8be8eafd0c2a"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100047/exports/csv",
+    "resource": "6a43b473-01e8-4838-94cf-59381713ad49",
+    "package_id": "3f0a6cf4-56d3-4f9f-bfad-ba8928485d01"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100252/exports/csv",
     "resource": "75e5ce9d-03ad-41c8-aea8-eeefe2273c99",
     "package_id": "ebf1ef0c-842e-4aff-ac0c-54b373619e21"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100127/exports/csv",
+    "resource": "da4ec2fd-d32b-4cbc-9ee6-a7d905d67389",
+    "package_id": "6e9a4bef-c09c-41bb-8e64-8688e65adfcd"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100256/exports/csv",
@@ -675,9 +525,24 @@
     "package_id": "796691f7-6aab-43f8-85b3-88fd110bf7f0"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100056/exports/csv",
+    "resource": "56e1025b-e8e0-4621-9db4-234b620ed7e8",
+    "package_id": "f7b48a23-b45e-4349-a7ed-fe506c928947"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100022/exports/csv",
     "resource": "b658ca2a-02d8-4122-9fde-c370dd038703",
     "package_id": "b94115a8-1f10-4aaa-b8ab-49168847126c"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100138/exports/csv",
+    "resource": "bc1a6cd7-e3f9-4d07-85d9-c9f2a0276dd4",
+    "package_id": "1927619c-6943-4598-9d13-b189fd8f4962"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100006/exports/csv",
+    "resource": "3da6d7b9-b6bd-406b-9299-0ccf2d22de1e",
+    "package_id": "2fbfeab1-bb33-4cb7-a2cc-b04d5780439a"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100251/exports/csv",
@@ -690,6 +555,11 @@
     "package_id": "6cc6dc94-82f8-4850-b8d6-c1d78af35827"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100086/exports/csv",
+    "resource": "1a73f34a-0ca6-4e0a-bb8d-86da31d6645b",
+    "package_id": "c9e78c4e-0789-4a44-9fda-5089dd949399"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100036/exports/csv",
     "resource": "84f7af21-5a0d-4046-a51b-af3068605496",
     "package_id": "684e2604-ca5d-4fd3-8ef1-9930613d5673"
@@ -698,2116 +568,6 @@
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100025/exports/csv",
     "resource": "614a2bd7-6d85-44ce-b02a-ffc8493d5468",
     "package_id": "e4e16e35-87d0-4371-a113-cddd8898f7c1"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100249/exports/csv",
-    "resource": "3f6c0a74-bf3d-4899-aeac-9443ef1a4b1f",
-    "package_id": "a9c5cfb5-ee2a-4620-a1aa-1bc9baeb92f1"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100031/exports/csv",
-    "resource": "2bd31bbd-382b-43d9-ad59-e455bd0636a4",
-    "package_id": "de39dcb1-6490-4b7f-b353-9c32a95da2fd"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100017/exports/csv",
-    "resource": "b3eec9f3-25f9-4779-9efd-06c93a314bcf",
-    "package_id": "db0d3cef-1d28-4b14-afdc-9c596f71c8c2"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100033/exports/csv",
-    "resource": "749e6337-b1a2-4943-925d-a5c03c68a99b",
-    "package_id": "094c890c-635e-45f8-8c88-a23780dba898"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100213/exports/csv",
-    "resource": "3923f2f9-451f-4131-8e70-e67e34180ad7",
-    "package_id": "b21b03d3-29e4-430f-96c0-54d32538800a"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100039/exports/csv",
-    "resource": "390bc793-4f12-4701-8f63-6249e8c2e5b3",
-    "package_id": "462f6794-0927-448d-a661-8508edf8146b"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100054/exports/csv",
-    "resource": "b84df9ba-dd9b-4471-a617-d2119fbbc085",
-    "package_id": "347eb89c-ee56-45bd-9e59-30fe663ce78a"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100029/exports/csv",
-    "resource": "86c4a60b-1829-43f3-86fd-2c4417b197cd",
-    "package_id": "d2bbe3ed-b8db-4859-a4c5-da0c3ebeb1f0"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/sk-stat-78/exports/csv",
-    "resource": "90bf85c7-67ce-405e-9235-ba7db0311bc1",
-    "package_id": "d6c51cda-1861-4aab-b72b-103311cc2bb9"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/sk-stat-53/exports/csv",
-    "resource": "ff1c4fc3-484f-41c4-89d4-35226e6b4dee",
-    "package_id": "7e0779be-72bb-4e62-97bc-0e65629373e4"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/sk-stat-111/exports/csv",
-    "resource": "fe193739-41ac-41b8-afd3-2520a9c8d58b",
-    "package_id": "76e068e5-b4cc-4032-81ca-553f72c7ebe7"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/sk-stat-47/exports/csv",
-    "resource": "d4228f88-b740-4a6c-aca9-cdd6f542762b",
-    "package_id": "50c7c307-5f8c-4250-8a9d-5d29756ecd29"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/sk-stat-79/exports/csv",
-    "resource": "e8a8eeac-c0c2-4d1c-8cce-84cccfca2336",
-    "package_id": "6bb05375-5392-442d-972c-d98a0bef8bed"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/sk-stat-112/exports/csv",
-    "resource": "d9c52718-1496-4037-8e83-571de85733b5",
-    "package_id": "15a5ab3e-e6f4-4576-a8b5-6027b7f5df4c"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.energieforschung/csv/2056/ch.bfe.energieforschung.zip",
-    "resource": "7be545a5-f1e1-493b-9b88-b6cd814e54af",
-    "package_id": "75f69e21-7d5d-471f-ae90-e77009891bea"
-  },
-  {
-    "url": "http://data.geo.admin.ch/ch.bfe.komo-projekte/csv/2056/ch.bfe.komo-projekte.zip",
-    "resource": "9d80de78-9e24-4249-9aa1-eb383d2a11d9",
-    "package_id": "6901ee3b-6111-4c4d-8d27-60d4e6d1090b"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.thermische-netze/csv/2056/ch.bfe.thermische-netze.zip",
-    "resource": "a8bc6284-4153-4744-b149-e642b7077663",
-    "package_id": "ad8df3fc-72f6-4d5e-9a88-110314489949"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.energiestaedte-2000watt-areale/csv/2056/ch.bfe.energiestaedte-2000watt-areale.zip",
-    "resource": "9bd490b3-99af-4a75-b743-5d54c5409b3f",
-    "package_id": "f25c213e-27c9-438f-b684-7fea8cbd312f"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.erneuerbarheizen/csv/2056/ch.bfe.erneuerbarheizen.zip",
-    "resource": "bcf455f3-c66f-4b95-b07e-bfceec3834ce",
-    "package_id": "3bd55d93-aab8-48f8-82c2-e8f95b7a8a92"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.statistik-wasserkraftanlagen/statistik-wasserkraftanlagen/statistik-wasserkraftanlagen_2056.csv.zip",
-    "resource": "d74a02a7-8875-4495-8d82-57f18bc22e71",
-    "package_id": "58ad922f-9add-4661-8937-bb11294b808a"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.windenergieanlagen/windenergieanlagen/windenergieanlagen_2056.csv.zip",
-    "resource": "48fa6341-1557-4f1a-9adb-17f0c430e427",
-    "package_id": "59228127-2a5f-48c0-b5de-a315f7f75225"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.elektrizitaetsproduktionsanlagen/csv/2056/ch.bfe.elektrizitaetsproduktionsanlagen.zip",
-    "resource": "5fbfb8a8-9b64-4417-bcba-9e345686814b",
-    "package_id": "ae4cf5de-27c9-49df-a777-6531949e2d74"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/52/Solarenergiepotenziale_Gemeinden_Daecher_und_Fassaden.csv",
-    "resource": "079a8be9-3c45-41fc-9ffc-80cff94cc64f",
-    "package_id": "8c6a10fb-72f9-4f3c-bff5-e87d120bbd01"
-  },
-  {
-    "url": "http://data.geo.admin.ch/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser/csv/2056/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip",
-    "resource": "e3774f7d-7155-432c-a042-5801fd5b1275",
-    "package_id": "d28bdc64-9790-495c-a490-f3baf182460e"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.kernkraftwerke/kernkraftwerke/kernkraftwerke_2056.csv.zip",
-    "resource": "8ccb2ab9-df28-4b84-948f-c7a3be4a262b",
-    "package_id": "679cb0b5-3555-4451-aad5-3adf93fff5de"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.fernwaerme-angebot/fernwaerme-angebot/fernwaerme-angebot_2056.csv.zip",
-    "resource": "96d42595-d257-4f20-90a6-4af6cb4d1899",
-    "package_id": "3f801767-1251-4d7d-945c-eb83d18405c6"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.stauanlagen-bundesaufsicht/stauanlagen-bundesaufsicht/stauanlagen-bundesaufsicht_2056.csv.zip",
-    "resource": "8c419acc-7fd5-4417-80e5-0ef6849f0175",
-    "package_id": "cbc776cb-5e73-4143-91a5-a7506a78d65e"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.kehrichtverbrennungsanlagen/kehrichtverbrennungsanlagen/kehrichtverbrennungsanlagen_2056.csv.zip",
-    "resource": "95bdae08-ba95-4b6a-a8ac-c6b60eecaae1",
-    "package_id": "b4fa710a-136e-476c-aa71-58bb7f89bea9"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.biogasanlagen/biogasanlagen/biogasanlagen_2056.csv.zip",
-    "resource": "6a31d549-be3e-4727-a4f8-05d7d2ab5c54",
-    "package_id": "2e0dabd7-ed2b-41e3-ad23-6b1721a36fea"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/plz_verzeichnis_v2/exports/csv",
-    "resource": "1d2a14e5-5bf2-48c1-93fa-3a0b07589169",
-    "package_id": "50557c6b-5c82-4d69-934b-75d2c3fab7ca"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/zugangspunkte-post/exports/csv",
-    "resource": "d4b015da-0399-430b-b6cf-e0a7bc2c7b23",
-    "package_id": "38424438-5b06-42d4-9ace-c034b5cd17bb"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/strassenbezeichnungen_v2/exports/csv",
-    "resource": "f5710229-a037-4b17-9a00-183506d834c8",
-    "package_id": "07b4d224-385f-473e-8c5c-247f6e5eae12"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/boteninformationen_v2/exports/csv",
-    "resource": "a3a5f054-31cd-4777-ad45-f7eba256972d",
-    "package_id": "590549b8-6fc2-48b8-91f6-bb46205299ed"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/politische-gemeinden_v2/exports/csv",
-    "resource": "ed2d2caf-a621-4e66-b767-8e42940c599f",
-    "package_id": "01b97ac9-9fbe-4cb7-854d-3e25fee0c245"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/alternative-ortsbezeichnungen-und-gebietsbezeichnungen_v2/exports/csv",
-    "resource": "e39834d4-d47d-4e6e-aaff-d0ba04876ba6",
-    "package_id": "dc522804-1014-4038-a255-562949d67828"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/alternative-strassenbezeichnung_v2/exports/csv",
-    "resource": "fcab3f88-149d-451c-84da-f4b0c3388a9c",
-    "package_id": "2e40bac6-70fc-4eae-bdeb-f93764269d43"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/alternative-hausbezeichnung_v2/exports/csv",
-    "resource": "0fddd62d-faf7-4799-b461-2c34ec2a91ee",
-    "package_id": "91c4c1aa-cf78-45e0-bce3-6939d25a2ed3"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/hausnummer-und-hauskey_v2/exports/csv",
-    "resource": "a87a2b76-9f40-4414-b3c6-f57d3cb483e7",
-    "package_id": "e59198d9-6ca5-48ac-aac9-1969e196f0de"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario5_FA.zip",
-    "resource": "1cd9a14a-3da3-4572-a86d-ff99fb2b958e",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario1_ZWB.zip",
-    "resource": "0f4353a5-bbf0-42bb-b8f3-37524436b5b8",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario4_GP.zip",
-    "resource": "5997074a-5150-4054-8c85-b63e008c81b0",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario4_GP_2.zip",
-    "resource": "87eb02c5-afe2-434c-af83-5fd3c625a73c",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario1_ZWB_1.zip",
-    "resource": "b2e1f1ab-e6e0-4655-ba2b-92788f1c644d",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario3_AWS_1.zip",
-    "resource": "23eca611-a778-4931-aeac-8bb6cbe8e269",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario1_ZWB_2.zip",
-    "resource": "ddf48635-098d-4c44-a662-6781e4d92285",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario3_AWS_2.zip",
-    "resource": "cbc64eec-67e2-4b25-83c6-74ba85daf5b6",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario3_AWS.zip",
-    "resource": "293e39a9-e474-4f0e-9201-5670a6fbe55e",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario2_MWP.zip",
-    "resource": "e450d135-6342-4883-aaa0-11045e1ceb55",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario4_GP_1.zip",
-    "resource": "583c2641-0ea2-4ae9-913e-8bfc11717a13",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Output_Gemeinde.zip",
-    "resource": "8d4a7f2a-7a43-47d8-a724-1829db6fc5bc",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "",
-    "resource": "2da68af7-57c2-45f7-884d-1814740c5d10",
-    "package_id": "fd687e47-699b-4c47-864a-9d37a0d4598d"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/17/ogd17_fuellungsgrad_speicherseen.csv",
-    "resource": "0418060b-adef-483d-afc7-bff668cc2759",
-    "package_id": "5ad2f1c1-12ec-440c-8ab2-b51f44ba3883"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202005.csv",
-    "resource": "73f3b0ac-0ca3-45fe-beed-099d9ada80aa",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202203.csv",
-    "resource": "19251cef-bcc0-4fee-9e52-effd9a902502",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202209.csv",
-    "resource": "18103a61-b9e1-4c36-bf64-0c9e5bfcce13",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202301.csv",
-    "resource": "c1c21964-cb68-4652-8b58-5178c52ad8e4",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201912.csv",
-    "resource": "588d7c9b-d6b6-4a68-b35f-6b4cd50b853a",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202012.csv",
-    "resource": "b9fcca67-75ef-4a40-838c-eabecb0eaef9",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202008.csv",
-    "resource": "0aeeca97-80ed-47fa-a4fa-e540352972d5",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201909.csv",
-    "resource": "90b08f5b-e95e-4240-ba6a-98578998975a",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202107.csv",
-    "resource": "ccd639da-46fa-4da1-8aef-0e3d14ed0f01",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202110.csv",
-    "resource": "2302368a-3de5-413a-bf84-c86f3f6649b9",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202212.csv",
-    "resource": "373f429e-e0f6-4d8f-938b-3b5efbd496b8",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201911.csv",
-    "resource": "3391e2ea-e681-4312-967c-170534b2439b",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202302.csv",
-    "resource": "1aee4c4f-b7f9-49fc-af16-d69e47106081",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202206.csv",
-    "resource": "8a34a34a-3c05-4ec5-aafa-32afe70ae876",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201907.csv",
-    "resource": "6bf6d207-cc4a-4b3e-bb24-8c28771e1914",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201904.csv",
-    "resource": "a8d3db57-aca3-4ed7-a343-3c136b4a2b08",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201906.csv",
-    "resource": "69b07ae5-dacd-46e8-b0b7-26810c02cbc8",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202111.csv",
-    "resource": "475fbef7-0b78-49ef-a963-63c914905d63",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202102.csv",
-    "resource": "5e1ad77b-62b6-4b3b-a11e-1c20950c4fd6",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202109.csv",
-    "resource": "01b2c047-1ed6-4e1d-9e32-831f66f2a6d7",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202103.csv",
-    "resource": "339ab350-78b0-4757-ad50-f542010acf52",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202002.csv",
-    "resource": "e4601aef-481a-42d8-87f8-802f18b88706",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202112.csv",
-    "resource": "5b99c127-c9ad-42f8-be87-a78fce40e051",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202011.csv",
-    "resource": "cc0fa1ec-fab8-4422-af5c-2d4ed60025e3",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202303.csv",
-    "resource": "3df0364c-099a-4e47-ba0c-998a9b42f451",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201905.csv",
-    "resource": "e647c485-d551-4c2f-83e5-38eef3970002",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202207.csv",
-    "resource": "29edd5f4-5acf-43cc-9992-9dc1cce6692e",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202201.csv",
-    "resource": "a13ffd87-3d47-45c3-aabf-d0540c23ca06",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201910.csv",
-    "resource": "86cc1e24-5415-42cf-bb5d-44a6f625423b",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202009.csv",
-    "resource": "92d6fae1-ee86-4b9e-85e7-e322354fc9f4",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202007.csv",
-    "resource": "cdd3f32b-ce9e-4bbc-b2fe-8a577b619954",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202101.csv",
-    "resource": "f6052b5d-f91c-4e7d-91a6-9c200319f772",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202006.csv",
-    "resource": "89a4e76a-b8f3-4f93-b65a-4db1c17303fd",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202104.csv",
-    "resource": "f180d071-30c9-420a-b121-d77734646d76",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202204.csv",
-    "resource": "a595422d-d274-441a-82ad-242b88847759",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202001.csv",
-    "resource": "5a4cf293-2cb5-4602-99f1-4bfc352ffb4d",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202208.csv",
-    "resource": "2c34b00c-6848-4522-bc63-6fc75d5f9429",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202003.csv",
-    "resource": "f01bcc4c-e38a-4266-8550-029bfa0f2e68",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202205.csv",
-    "resource": "0df18611-4f1c-40f4-808f-2d2baf845345",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202108.csv",
-    "resource": "4f2111af-9fba-4899-8452-76b346febef5",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202010.csv",
-    "resource": "f13bbe95-9257-409f-9fe1-5d2cb88a5263",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202210.csv",
-    "resource": "f79996c7-9c7d-4fd9-af26-74fd15024329",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202202.csv",
-    "resource": "8c3a20ca-25c2-4452-93fa-cb6663576210",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202105.csv",
-    "resource": "2ff0fca3-3fa3-4cf1-8228-5801f3c744be",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202106.csv",
-    "resource": "690aa1dd-378a-4fa2-a6c5-7e0d0dcdd523",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202211.csv",
-    "resource": "9e63160a-1aa6-4b56-8062-697183b1436c",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_201908.csv",
-    "resource": "4612412e-caeb-4a44-81dd-3827b10fd3a5",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/LoRa/data/AWEL_Sensors_LoRa_202004.csv",
-    "resource": "3e23f264-0b9f-4e42-80b5-13354ad5a1e2",
-    "package_id": "3e93a2d2-e5b3-4664-8945-a30c62e60fba"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001802_00003321.csv",
-    "resource": "7c6378dc-db8f-4a67-9fd3-fc6cda4ae811",
-    "package_id": "de973b62-8f96-4323-b3a1-3cf67e5e2804"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001802_00003323.csv",
-    "resource": "33c23ec8-3dda-4b10-8004-d8301900a6cc",
-    "package_id": "de973b62-8f96-4323-b3a1-3cf67e5e2804"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001802_00003325.csv",
-    "resource": "13591521-0648-4c91-bc21-8069b2b1d0f9",
-    "package_id": "de973b62-8f96-4323-b3a1-3cf67e5e2804"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001120_00002162.csv",
-    "resource": "6781ecdc-2e7a-456e-9d0d-d2f5f059c1f6",
-    "package_id": "b0f45dc8-c548-492b-9b3e-09352110b9e1"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001120_00002165.csv",
-    "resource": "b537c6d3-1ea2-40e2-b909-4c3aa9fe5376",
-    "package_id": "b0f45dc8-c548-492b-9b3e-09352110b9e1"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001120_00002166.csv",
-    "resource": "d5d13949-9286-4482-ad11-3131504be7da",
-    "package_id": "b0f45dc8-c548-492b-9b3e-09352110b9e1"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001120_00002163.csv",
-    "resource": "a90ca547-fbc6-439b-9b59-ad02be7bb700",
-    "package_id": "b0f45dc8-c548-492b-9b3e-09352110b9e1"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000736_00001881.csv",
-    "resource": "395619f7-8dee-4223-bd8d-f1a3fc9c5eb7",
-    "package_id": "b48d3a98-aaa5-420b-8ad4-53720c5a154e"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/awel/ostluft_emissionsbilanzen/emissionen_gemeinden_ostluft.csv",
-    "resource": "addc3d93-9eec-4b43-b0bb-a1626499e296",
-    "package_id": "cfdb115e-2dd9-4813-a834-0fda47a3186b"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001661_00003118.csv",
-    "resource": "e7ae2dd2-31b0-4655-8b64-c6beb9f12bd5",
-    "package_id": "1550ad6d-e5e3-496a-b57b-29f2203d038e"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001803_00003460.csv",
-    "resource": "2f2cd364-6f42-4611-be73-98d3f0bb6acc",
-    "package_id": "5525f073-81eb-4afa-b57a-0b0f1d05754b"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00001803_00003461.csv",
-    "resource": "2ddc012f-3a16-47a6-ac7f-0cd08b972307",
-    "package_id": "5525f073-81eb-4afa-b57a-0b0f1d05754b"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00000729_00003341.csv",
-    "resource": "97117a44-f609-4568-aace-79420c720ca4",
-    "package_id": "9fe148fb-458a-4c1e-ab77-ef9ff9338065"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_185.csv",
-    "resource": "3fef26af-f69d-4c4e-b19c-e83976bf501d",
-    "package_id": "6ecd2147-f16f-4b87-a8cd-bb1fe4e1dec4"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_134.csv",
-    "resource": "0346caaa-4868-42ca-9245-64917e15233b",
-    "package_id": "aadf9b12-b710-4b0d-b8ef-42768dcac8e0"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/statistikZH/covid19monitoring/master/covid19socialmonitoring.csv",
-    "resource": "d03db299-6c63-4dec-928e-c5f7c34fa350",
-    "package_id": "eeedc079-9491-4e6c-bda1-303d23743bcd"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/statistikZH/covid19monitoring/master/Metadata.csv",
-    "resource": "2db6753b-57b1-49c9-837a-fcd5d00f153d",
-    "package_id": "eeedc079-9491-4e6c-bda1-303d23743bcd"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_184.csv",
-    "resource": "db7cc3a4-2b30-4c40-adbc-8f1a54644b2e",
-    "package_id": "4ac851ba-f718-4605-b1fa-34d9b43dbd0a"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_135.csv",
-    "resource": "d2878986-3ea4-46ea-a858-738d960bb1dd",
-    "package_id": "d5140999-7f59-4c79-a2a7-e40709b02946"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_459.csv",
-    "resource": "ba8244b7-22fb-448d-a697-2a69b3eee1bf",
-    "package_id": "01f2421d-c3fa-497a-951d-534298889700"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_187.csv",
-    "resource": "6593175d-5ef3-4070-bd1d-7047e04ccdd7",
-    "package_id": "41ef1b21-86ee-45c8-b2b4-925af19c3cb2"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_469.csv",
-    "resource": "e405521e-d9eb-415b-aa42-f9f4c3510c3e",
-    "package_id": "2318859d-2fce-4286-b866-2c2e90872ba3"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_43.csv",
-    "resource": "76eaea51-f6f5-4eb4-bed5-0ddb4ef46fe3",
-    "package_id": "f01abeff-f599-4f26-93e8-ac081399d548"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_44.csv",
-    "resource": "fc9d2565-047c-4418-b1ec-aca01f3ea1c9",
-    "package_id": "72f24147-883b-4385-b12b-e17677c1078d"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_186.csv",
-    "resource": "68c56bc5-a278-4fee-b5fe-b4530e60d2da",
-    "package_id": "1f2e5292-25d2-495d-8725-ca51018157c0"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_183.csv",
-    "resource": "241ba44c-aa61-48ea-a553-9428e6040123",
-    "package_id": "39be0c17-203c-453c-8279-77921c66e217"
-  },
-  {
-    "url": "https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_138.csv",
-    "resource": "7d7606e7-9e97-4345-8739-6f68d9027962",
-    "package_id": "57b00e1d-e72c-489f-bef5-9b521f6cdf2a"
-  },
-  {
-    "url": "https://data.bl.ch/api/v2/catalog/datasets/10090/exports/csv",
-    "resource": "da80a2ef-2d55-44aa-b6c3-f0ab8b110feb",
-    "package_id": "e5715a8a-3650-4e3a-90eb-3f0e59cf7603"
-  },
-  {
-    "url": "http://ogd.zueriluft.ch/api/v1/h1.csv",
-    "resource": "48dc17ad-d40f-4d00-9a1e-5da6ca4a42e2",
-    "package_id": "aa583359-7730-4a05-9564-0bb849bede9a"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sozialarchiv-wandervogel/download/Metadaten_Wandervogel_F5000.csv",
-    "resource": "68b3c09b-32b7-4ec5-9b52-dcbe513b126f",
-    "package_id": "7beb3919-a792-4a2f-b45b-6f82a9b142fa"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/behindertengaengigkeit-badeanstalten/download/Behindertenzugang Bäder.csv",
-    "resource": "912600a7-3959-4fae-947f-e43d8b94222b",
-    "package_id": "6822be95-abdf-4090-99f1-fc6bb782b48d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/historische-fotografien-des-forstbetriebes-sihlwald-1878-1962/download/Metadaten_Fotosammlung_Sihlwald.csv",
-    "resource": "17b9f449-d16c-4984-995d-6a3c6bfac4fb",
-    "package_id": "56fbbe04-8422-468a-9218-f0bec4747feb"
-  },
-  {
-    "url": "http://ogd.zueriluft.ch/api/v1/d1.csv",
-    "resource": "6573f846-6313-45fd-ba26-d14524f10f95",
-    "package_id": "b5e643fe-b4f2-4785-9477-3acae1326b46"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/kinostandorte-zwischen-1907-und-2018/download/kinostandorte_1907-2018.csv",
-    "resource": "73ad01eb-65af-485a-917f-d155ab48d7a1",
-    "package_id": "821d3a58-4ce6-430c-bc16-0aa083fc8dfc"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Zueri_wie_neu?format=10008",
-    "resource": "e76a9e26-c9b6-42b6-a4f5-fb93ee1c96f2",
-    "package_id": "03347dc7-1f31-45c3-a27d-3bb8edf30646"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Kommunaler_Richtplan_Verkehr?format=10008",
-    "resource": "d50f3e51-8274-44a5-9457-ea56a7e3d041",
-    "package_id": "ee4f9032-ab5d-452f-9a51-2a72ead7d386"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Baumkataster?format=10008",
-    "resource": "3d7c5a90-987a-4bd8-a568-b70f908067b5",
-    "package_id": "5b1d787e-b8cc-4a94-bdd9-8d834fb9c087"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Adressen_Stadt_Zuerich?format=10008",
-    "resource": "fe35d503-8cff-4107-88e9-97cac6597754",
-    "package_id": "ccdd1eda-0b21-4579-b999-c212120b308f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Luftqualitaet?format=10008",
-    "resource": "65450197-4d2b-45c0-9f0c-ffbc533cce7f",
-    "package_id": "f70d43df-30e4-4213-b2c6-62bda7c40bde"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Statistische_Quartiere?format=10008",
-    "resource": "8db531e7-3d16-44a9-a80c-5a099f91face",
-    "package_id": "b7581445-6ef2-4c08-9b24-25b402360301"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Statistische_Zonen?format=10008",
-    "resource": "c047af36-2b2f-49b8-bf69-706aec64b317",
-    "package_id": "423ba56b-fb58-4ecd-a208-ecdcfe3e617d"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Stadtkreise?format=10008",
-    "resource": "85324ed5-5000-48c1-a6ed-3c2e2e195410",
-    "package_id": "5bcb49d1-1194-4c0f-adb0-4369e46aef07"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_Gartendenkmalpflege?format=10008",
-    "resource": "48ea0f43-95a5-442a-85a0-924eab976157",
-    "package_id": "90f9e76b-a2fe-48e9-9fd3-61d5e4dbf405"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Denkmalpflegezustaendigkeit?format=10008",
-    "resource": "c7d2e132-625c-40ec-aa26-e106ea07ffe8",
-    "package_id": "fabf804c-a578-4af4-98d5-51af4a165f8f"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Dienstleistungen?format=10008",
-    "resource": "2c152e44-b02e-4734-b81e-9b24ef7069ae",
-    "package_id": "be11692f-3b06-44fd-8ab8-5abb57a6dbf6"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_der_roemisch_katholischen_Kirchgemeinden?format=10008",
-    "resource": "b88a07e4-1ce5-457d-a2cc-5362b074bce8",
-    "package_id": "de304fbf-cf91-481e-b454-436f52ae06b5"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Move_and_Chill?format=10008",
-    "resource": "3c7046c2-238c-42bd-b698-c1804785bef5",
-    "package_id": "ef9b6a48-7c08-48dd-ab9c-81c20e1cf4c6"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietsnamen?format=10008",
-    "resource": "1ea3f4b2-c1c8-40fe-ae44-4ffb87bb7b77",
-    "package_id": "5937f9a3-910d-4c6e-a9bf-32a0402f05ad"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Bauernhofladen?format=10008",
-    "resource": "41fd184a-6bf4-4eb6-8191-9e3eebeafdd5",
-    "package_id": "1b28dab6-0410-47ae-b2c1-171a080554b9"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Strassenlaermsanierung?format=10008",
-    "resource": "fb36646f-5467-4ff6-ace7-94e096b862db",
-    "package_id": "3c19d164-44f9-4695-8723-6524391220a4"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Baumersatz?format=10008",
-    "resource": "78c14ad8-0c5f-49d5-96cf-8760aeb295c1",
-    "package_id": "e611c341-1ce8-4117-b767-0a6598be7e36"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Wildschonreviere_OGD?format=10008",
-    "resource": "f668e793-f62d-4801-b33f-f8d9e9cb1e97",
-    "package_id": "d2595aa0-1ce8-4ee9-8245-c49073ee1af3"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Bauminventar?format=10008",
-    "resource": "d2fb21ba-704f-46b4-bfbc-8c35ef78781a",
-    "package_id": "5dd41226-4542-473e-bfc8-2af0375c1131"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Geschuetzte_Einzelbaeume?format=10008",
-    "resource": "6f3745f0-4696-434d-8120-5027a606a85e",
-    "package_id": "f9833dda-52a5-44ad-a959-ed25f2db750d"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_Freiraumberatung?format=10008",
-    "resource": "a9e2d8d5-c427-4ba7-9e61-59890aef0e5f",
-    "package_id": "00168259-cfc4-4cf9-a809-e1043d478472"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/luftqualitaet-historisierte-messungen/download/ugz_luftqualitaetsmessung_seit-2012.csv",
-    "resource": "f863ff5c-31f3-4a17-ac8d-2eb3d1a6fae9",
-    "package_id": "486c986a-04e5-4cc2-8089-0b543446eb6e"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/luftqualitaet-historisierte-messungen/download/ugz_luftqualitaetsmessungen_1983-2011.csv",
-    "resource": "d28564f1-3b38-41e3-9fa8-308318630a1d",
-    "package_id": "486c986a-04e5-4cc2-8089-0b543446eb6e"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_karton/download/entsorgungskalender_karton_2023.csv",
-    "resource": "10bf590a-7311-4933-8279-9763c24b27e9",
-    "package_id": "a4736044-18fa-4c65-af67-ada464587e64"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_karton/download/entsorgungskalender_karton_2022.csv",
-    "resource": "20c8a285-fef4-4ba8-aedf-5a7512635ef4",
-    "package_id": "a4736044-18fa-4c65-af67-ada464587e64"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebiets__und_Bezirkseinteilung_der_evangelisch_reformierten_Kirchgemeinden?format=10008",
-    "resource": "5af1bf5c-7eae-4471-bae4-1b7461e0a63d",
-    "package_id": "5687d173-6307-4fe1-953b-d60f26bee79e"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_bioabfall/download/entsorgungskalender_bioabfall_2023.csv",
-    "resource": "f9adf3b3-00ea-4ea3-817f-9002a7117c2d",
-    "package_id": "04e4afe1-43a9-4b3f-8277-2416facc7f03"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_bioabfall/download/entsorgungskalender_bioabfall_2022.csv",
-    "resource": "467a3d59-3e77-4a96-9707-44fea7152c1b",
-    "package_id": "04e4afe1-43a9-4b3f-8277-2416facc7f03"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_sr_wischgut_siedlungsabfall/download/sr_wischgut_siedlungsabfall.csv",
-    "resource": "552a628a-2c17-486b-b5ed-f03ee2e860d3",
-    "package_id": "e014261c-a166-425c-93a7-3a71ef501367"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_etram/download/entsorgungskalender_eTram_2023.csv",
-    "resource": "8cdc7df1-37ce-4098-9e45-792b06d10f80",
-    "package_id": "6cae2a1d-261c-4291-9157-97e728bfd7a8"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_etram/download/entsorgungskalender_eTram_2022.csv",
-    "resource": "9eb747bf-3a62-48b5-a317-d5d316b0b6ec",
-    "package_id": "6cae2a1d-261c-4291-9157-97e728bfd7a8"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Arealueberbauungen?format=10008",
-    "resource": "e2a919cf-6854-4be8-a3a9-01dcc9c49cbc",
-    "package_id": "f8560762-8c2f-4d1e-afe7-30cddae310f1"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_abwassermenge_klaerwerk_werdhoelzli/download/erz_abwassermenge_klaerwerk_werdhoelzli_2022.csv",
-    "resource": "89cb5d26-b062-4122-b8e1-327f6183ff2e",
-    "package_id": "23a703a3-3321-4dc3-beb9-5bedc534a7ef"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_abwassermenge_klaerwerk_werdhoelzli/download/erz_abwassermenge_klaerwerk_werdhoelzli_2021.csv",
-    "resource": "12fd25af-f50f-4843-9f77-c1fbfac4ecf9",
-    "package_id": "23a703a3-3321-4dc3-beb9-5bedc534a7ef"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_abwassermenge_klaerwerk_werdhoelzli/download/erz_abwassermenge_klaerwerk_werdhoelzli_2020.csv",
-    "resource": "3fc6ee63-38a0-4616-af32-4e861026a47e",
-    "package_id": "23a703a3-3321-4dc3-beb9-5bedc534a7ef"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ssd_mkz_gruppenunterrichte/download/mkz_gruppenunterrichte.csv",
-    "resource": "221a4f39-9a74-4f1b-8de7-ade388507c51",
-    "package_id": "d798449d-8ee1-4eec-9c6c-e15a136896bb"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gebietseinteilung_der_evangelisch_reformierten_Kirchenkreise_der_Stadt_Zuerich?format=10008",
-    "resource": "3f2aa779-b7c6-435b-af5c-820994c21c88",
-    "package_id": "d477be6f-7797-41db-8bab-b5a064f78c73"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Liegenschafteninventar_OGD?format=10008",
-    "resource": "463cf47e-676c-45bf-ae0a-3cd8305a0bce",
-    "package_id": "daa6d4f3-7d01-4aed-a45f-6d431899b2dc"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_kehricht/download/entsorgungskalender_kehricht_2023.csv",
-    "resource": "50f28fbd-ebf2-4804-af58-02c9f4033fa9",
-    "package_id": "ce07c933-bc95-4b36-91ea-b597149ff0f3"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_kehricht/download/entsorgungskalender_kehricht_2022.csv",
-    "resource": "98e9d653-1637-4f4a-be69-e380a0f88d25",
-    "package_id": "ce07c933-bc95-4b36-91ea-b597149ff0f3"
-  },
-  {
-    "url": "https://www.stadt-zuerich.ch/geodaten/download/Gruenflaechen?format=10008",
-    "resource": "616af524-c0f8-4fce-9e74-a33c5ceeb6f6",
-    "package_id": "1fdca8d9-4306-43a2-a7d5-d47ff65ef174"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_cargotram/download/entsorgungskalender_cargoTram_2023.csv",
-    "resource": "ca8026d6-c833-4be9-81aa-fad48a937b59",
-    "package_id": "43c97f18-e1df-48c5-887c-24084e7b03f0"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_cargotram/download/entsorgungskalender_cargoTram_2022.csv",
-    "resource": "2e3b2bd5-95c8-43a4-974a-393d74c2c651",
-    "package_id": "43c97f18-e1df-48c5-887c-24084e7b03f0"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_abfallmenge_energie_khkw/download/abfallmenge_energie_khkw.csv",
-    "resource": "dbd0ac28-2c36-4c88-8e0f-9ad1c0e0ffed",
-    "package_id": "6353aa59-73ac-413d-8c48-e2ff98fcf3d4"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_sammelstellen/download/entsorgungskalender_sammelstellen_2022.csv",
-    "resource": "35cbbc87-d71f-4b6a-b65a-faa63bfaadf9",
-    "package_id": "a80af0d0-fe05-4270-9a37-8c46f832e596"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_sammelstellen/download/entsorgungskalender_sammelstellen_2023.csv",
-    "resource": "9a460b82-dcde-4417-906a-3408dee4a393",
-    "package_id": "a80af0d0-fe05-4270-9a37-8c46f832e596"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_papier/download/entsorgungskalender_papier_2023.csv",
-    "resource": "da939481-7f25-4ea3-8ef0-1b31f6491463",
-    "package_id": "9baf7969-630f-4d09-92da-128326e93b4c"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_papier/download/entsorgungskalender_papier_2022.csv",
-    "resource": "a3670b0a-7fe2-49c6-bc10-85dac862648d",
-    "package_id": "9baf7969-630f-4d09-92da-128326e93b4c"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_sonderabfall/download/entsorgungskalender_sonderabfall_2023.csv",
-    "resource": "ef1a466f-6064-4773-98f4-72f2f199bc02",
-    "package_id": "cef44c69-840d-4335-9955-a36ad149f9f1"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/erz_entsorgungskalender_sonderabfall/download/entsorgungskalender_sonderabfall_2022.csv",
-    "resource": "ea5f66aa-6723-406a-8d5c-ab074987b5e4",
-    "package_id": "cef44c69-840d-4335-9955-a36ad149f9f1"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/prd_ssz_statistische_nachrichten/download/prd_ssz_statistische_nachrichten.csv",
-    "resource": "6ea98bc8-65b2-4907-953d-9e12d88b7a2a",
-    "package_id": "4ddf059a-8fd2-482e-a859-028a660f88eb"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_endenergiebilanz/download/ugz_endenergiebilanz.csv",
-    "resource": "493686c4-7227-4d5c-8b07-b48fefb0a197",
-    "package_id": "5b385f80-d79b-4a2c-8f9b-37c395b2ef25"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_primaerenergiebilanz/download/ugz_primaerenergiebilanz.csv",
-    "resource": "158af98b-e8d4-435d-b0bd-a12743ed3c82",
-    "package_id": "5b66315c-47cf-49bd-8f19-aaa04356f149"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_stapo_hundebestand_od1001/download/KUL100OD1001.csv",
-    "resource": "5f8eafd2-367f-489c-a075-42426d14c586",
-    "package_id": "15ce3e24-30db-4774-9b32-4a0cf130a419"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_stapo_hundenamen_od1002/download/KUL100OD1002.csv",
-    "resource": "7ca75eef-462a-4278-a561-cc8cf180f108",
-    "package_id": "0201d1a8-974a-4b5d-ad67-544f27ce0154"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2023.csv",
-    "resource": "9430220a-2254-42fa-89c3-563980073482",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2019.csv",
-    "resource": "293f1990-8e72-4120-8f8e-72392faa3b29",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2014.csv",
-    "resource": "2a3f857a-8e51-45ac-b485-c7b24a43cb30",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2017.csv",
-    "resource": "c4d5e61e-7df1-433a-9277-abd4e0c9c924",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1984.csv",
-    "resource": "4c798a5c-6aee-4a45-ad24-1870fa712f16",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1988.csv",
-    "resource": "f0ece7c3-a4df-47e4-a969-ea0dc8ca8972",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1996.csv",
-    "resource": "d93cf4fc-5c3a-402d-afdb-29b9a4522d97",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2021.csv",
-    "resource": "a0150d87-e79b-4196-9860-d80f685577cb",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1983.csv",
-    "resource": "10f9451d-9144-45bd-a0b1-67903064016a",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1997.csv",
-    "resource": "bc42b5bd-43c6-4816-a292-44c365a7f91c",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1995.csv",
-    "resource": "fd2c645d-808e-4ad7-ae34-7308127b08f4",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2002.csv",
-    "resource": "879748f5-ef95-46cf-99a0-f48db9c97023",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1986.csv",
-    "resource": "6712ff8f-f27b-4889-b15c-a5795bac42cc",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2008.csv",
-    "resource": "0a34b5ab-ab17-4369-8de6-bd4e17471c5e",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1991.csv",
-    "resource": "23b0a67a-6d6b-43db-b833-288d466bea83",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2022.csv",
-    "resource": "fc31da9c-4c1f-4a70-a496-dc8007e48c97",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2015.csv",
-    "resource": "3a79b1dc-d19e-4123-a7d3-51b00f98c179",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2000.csv",
-    "resource": "264f51c8-4dc3-4163-8a0c-e8cd88e17880",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1989.csv",
-    "resource": "27a23829-76ad-45ec-a1f9-5652250556ec",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1990.csv",
-    "resource": "a3471061-545d-4003-a09e-20f3a5b56af0",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2020.csv",
-    "resource": "5ea34e92-6300-4844-ae7b-64b0d1ae62ce",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2001.csv",
-    "resource": "7d1e844d-5b4e-4fc2-aff3-e3542b804e07",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1985.csv",
-    "resource": "0cb00e2b-a201-4f9e-b915-620b4a86dadd",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2018.csv",
-    "resource": "7bc16dc9-8778-4065-9f0a-54e37bc8d3b8",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2004.csv",
-    "resource": "2f1e24cb-8557-486d-9174-dabaeb60d38d",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1992.csv",
-    "resource": "142d945a-cb3c-4655-b460-1d7570551b41",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2003.csv",
-    "resource": "bb07c4e9-fc49-4e46-98b7-bb32bcecdcfe",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2006.csv",
-    "resource": "58262644-b01c-412f-a788-ec8e37d9e076",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2010.csv",
-    "resource": "531b54d6-fcc8-4282-983e-af865575dfe2",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2013.csv",
-    "resource": "34a5fe1b-24f1-44b6-a992-2a9815dafbf3",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1987.csv",
-    "resource": "6c24c657-f8cd-445f-9661-ec42ea2e51d0",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1998.csv",
-    "resource": "18788f63-f9ab-4a5e-9024-34fcb8c9778e",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2005.csv",
-    "resource": "bfd95385-eae9-48a5-9f1d-fe0354525a75",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2007.csv",
-    "resource": "ed76e50b-ba0c-41be-a641-8a741c43763c",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2011.csv",
-    "resource": "f1fee800-d1d3-4acb-a5f8-31e8f1aeb14e",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1993.csv",
-    "resource": "f8d07dd2-274d-4cdb-8105-9afd229514fa",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2016.csv",
-    "resource": "9c2adb15-8a06-48d8-9ede-bba1092d0748",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1994.csv",
-    "resource": "0bcdb8e3-cbe9-4214-94a0-b6f152f23bc7",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2012.csv",
-    "resource": "09da74e0-bd93-49a2-989c-6fff698b6074",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_2009.csv",
-    "resource": "cd4fe969-5a6c-4dc1-ab2f-b57ff47eb7ea",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_stundenwerte/download/ugz_ogd_air_h1_1999.csv",
-    "resource": "57128977-1b5b-4bc5-a7a9-5093df68ccc9",
-    "package_id": "8711c197-f53d-4ff9-8010-f96b63e593d7"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1992.csv",
-    "resource": "8c4cd1d1-c532-4474-b756-0a954c682521",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2015.csv",
-    "resource": "5fd1fcce-50cf-43c1-a0a1-23330b7b0861",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1990.csv",
-    "resource": "686366f8-ccf3-41cb-99da-715f9c7faa3a",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2010.csv",
-    "resource": "07519fc1-8ea6-47d6-b943-ccd4f3b56931",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2016.csv",
-    "resource": "664b600a-d5fb-4ff6-86bf-4222ac6a3ba8",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2022.csv",
-    "resource": "442cb53c-9646-48d6-87a4-5f1971cc4d58",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1987.csv",
-    "resource": "781abff5-f280-4d58-8fe3-9d712ff925da",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2012.csv",
-    "resource": "32c8b18f-0d31-4132-9e04-a56267f4b730",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2002.csv",
-    "resource": "7771a393-452d-406d-8289-5d3411907961",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1985.csv",
-    "resource": "cb6bcf6f-3c91-4972-89f9-f2c54d5ccedc",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1998.csv",
-    "resource": "c6e2003b-9958-4ccf-8e1c-f65ab266692f",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2003.csv",
-    "resource": "05515bdc-cab4-4739-a6e2-62c262bbd150",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2011.csv",
-    "resource": "bb7bc9a5-c29e-4362-90bd-54e42bc41ca0",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1984.csv",
-    "resource": "54dc664e-e179-4ca4-b665-84b743aa398d",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2014.csv",
-    "resource": "b46f0a65-aec8-4275-b8f6-8b53e3e9509c",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1994.csv",
-    "resource": "b0ec6b2d-370a-473d-9d19-2bdd933ca0d6",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2005.csv",
-    "resource": "b0691c08-fe6c-4041-b6e9-971d850d24cb",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2019.csv",
-    "resource": "29bc4063-b8bc-4a8e-94e7-f871ec3d972e",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2013.csv",
-    "resource": "a8a8e79f-6247-4ca8-b585-87a3374de5d9",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1993.csv",
-    "resource": "0df94d08-f161-4cda-8fac-0dc7c77e1f20",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2023.csv",
-    "resource": "0b03b83e-6ea1-4afe-86da-1b52a89ef187",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2001.csv",
-    "resource": "5a2d0964-ffe2-4042-a918-5f09df7eb3fe",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1996.csv",
-    "resource": "b9013534-113a-4d6b-8d91-31f8a3a9d864",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1995.csv",
-    "resource": "f4e8bc0b-5009-48a1-b535-01e951b5e7a1",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2021.csv",
-    "resource": "3694d0b6-cf63-4ed0-8405-8c51e91409c0",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2000.csv",
-    "resource": "2da739d8-faf1-4f9d-8f85-da17f1210d26",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1991.csv",
-    "resource": "7902ad8a-76b3-4e37-8ec4-9273d081764c",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2009.csv",
-    "resource": "418401b8-2a51-47b9-a20c-835024aa5769",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1999.csv",
-    "resource": "c6ea1828-c84a-4849-a423-aa8d5458c694",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2018.csv",
-    "resource": "cd43683b-115b-4167-b75e-eb5621a0ed33",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2008.csv",
-    "resource": "eb1747c4-c67e-4fe7-98fc-6bd4343ad62f",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1988.csv",
-    "resource": "07af20f8-7520-4c67-b605-a73ffee515d2",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2004.csv",
-    "resource": "a933a0ba-e8b6-43b4-85e6-4baf33665044",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2007.csv",
-    "resource": "c599a751-de9b-4be3-9d81-2f0127015558",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2020.csv",
-    "resource": "41c8a2b4-f31d-4765-a490-f364d5eab84f",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1997.csv",
-    "resource": "ff97b7e9-a865-414d-a614-69b07c2eaf3d",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1983.csv",
-    "resource": "d4ddd7d2-8f1d-4158-b810-2b5aa29658f5",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1989.csv",
-    "resource": "bae092ff-45c5-4872-8d46-2db97a4c0109",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2006.csv",
-    "resource": "05534399-56a7-4709-9e8b-74dd40c68f78",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_2017.csv",
-    "resource": "51ec025e-ea08-42aa-b934-22e2e42d3c67",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_luftschadstoffmessung_tageswerte/download/ugz_ogd_air_d1_1986.csv",
-    "resource": "ac7af9cd-5e44-45b2-bfef-0cba55ce1439",
-    "package_id": "727afd9c-e293-4753-b1a0-decb58ae7e2d"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2009.csv",
-    "resource": "62a4d359-0be4-45a5-b2de-409d04e61165",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1999.csv",
-    "resource": "a40457a8-529f-47d1-a5bd-913c1222e8ee",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1997.csv",
-    "resource": "e196e3ed-6370-457d-8f57-7fa1e6434a11",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2019.csv",
-    "resource": "627da7f9-7f3c-409c-915d-39c1af528c95",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2007.csv",
-    "resource": "a08fd4d7-783c-4fba-a4b1-2b1e3c8c5a83",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2020.csv",
-    "resource": "3ba96925-24e0-40f4-bbfa-107370f1b2be",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2002.csv",
-    "resource": "de35e874-dacb-422b-9dd9-263c214e8b16",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2021.csv",
-    "resource": "7fc27e7e-bfdb-46d3-8e9e-812e87f8c172",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1998.csv",
-    "resource": "c8e9d676-0e67-401e-b2b2-b6856d0755d6",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2006.csv",
-    "resource": "f988cabc-be41-4961-a54e-056f0909570a",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1995.csv",
-    "resource": "8abd5ca8-dc3d-4fdc-b6cd-80bbdfe47bdf",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2022.csv",
-    "resource": "d63d9c04-5143-49a6-aeec-f44be2aac966",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2013.csv",
-    "resource": "411c212d-08dc-4054-bf21-de7d6197e9ba",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2005.csv",
-    "resource": "3f2174d2-439c-44d9-8ea9-33251f99bdbf",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2016.csv",
-    "resource": "1906a3c3-c31a-439b-a889-7a77f6bca361",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2015.csv",
-    "resource": "4d9f2491-88de-4138-ad35-3396d3d661d5",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2012.csv",
-    "resource": "170b51fd-cc41-4a0d-a064-c9418584ad75",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1993.csv",
-    "resource": "e94e6f2e-f294-4ad2-8b69-a9792b509690",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1996.csv",
-    "resource": "74a337e7-4e3d-4393-be6f-cd1c84895863",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2000.csv",
-    "resource": "a0399971-25bd-4802-8a86-643af6a0b397",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2001.csv",
-    "resource": "1d4cfcab-d647-49f8-9f3c-038911dc8a0f",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2017.csv",
-    "resource": "fd6a6606-7757-4c00-9024-c8f20b052399",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2008.csv",
-    "resource": "6d38af32-5ba7-4d48-bb1f-50d3f0d5751b",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2023.csv",
-    "resource": "8f9c83d7-2665-4fe5-ae29-7059aac5d5a8",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1992.csv",
-    "resource": "54631e03-a239-4b1f-9fab-918c247d46f8",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2010.csv",
-    "resource": "7418e0c6-331c-44a8-9b0f-2d6b161ecbc6",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2003.csv",
-    "resource": "b59714d1-eadd-4688-af83-587da86dae9f",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2018.csv",
-    "resource": "ab40ab60-1dc7-46ce-a5e8-3814ef6d204f",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2004.csv",
-    "resource": "b71d446c-8c64-4c3e-933f-2e81e39e11f0",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_1994.csv",
-    "resource": "b4e3023d-e61d-4235-8944-6bb719864e62",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2011.csv",
-    "resource": "e3f0feb9-63ac-4769-a695-369e092ec38a",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_stundenmittelwerte/download/ugz_ogd_meteo_h1_2014.csv",
-    "resource": "7642b129-03a0-4821-98de-5d5717cdabca",
-    "package_id": "65cc40fb-935b-45f9-a75b-fa647a8fed59"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_strassenverkehrsunfallorte/download/RoadTrafficAccidentLocations.csv",
-    "resource": "3bf3f12a-bf09-4e69-8cde-0df9e268d54b",
-    "package_id": "1ef58626-827b-42c5-addb-36f39d49ff98"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_wipo_gastwirtschaftsbetriebe/download/historisierte_gastwirtschaftsbetriebe_per_20221231.csv",
-    "resource": "a5318e63-a23e-4481-a803-1f33a867b0c6",
-    "package_id": "d8f4560c-4c00-495a-a9c2-80a585f34b63"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2010.csv",
-    "resource": "e9c98cd8-be89-47d7-8282-ab1f3f181f34",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2012.csv",
-    "resource": "64f3da2a-bf1f-4345-bb7b-9d5556dfa605",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2018.csv",
-    "resource": "6dd3a5aa-ee39-407e-8a59-88aedaa46ede",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2022.csv",
-    "resource": "aa096967-ebe6-4c26-abf8-bbd72dff9725",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2020.csv",
-    "resource": "b8a5e7e6-02d1-46af-af0e-8a5d2d5ba4ef",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2009.csv",
-    "resource": "9d62cecf-208b-402f-8b4c-29a7b741ffe2",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2017.csv",
-    "resource": "ea380cb4-7658-453c-8c02-98e2e3d6d479",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2015.csv",
-    "resource": "32c2b082-14b4-4953-b636-f0f8f48a73b7",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2016.csv",
-    "resource": "7f1f04c7-9b87-46c3-96d9-8334f8d11d5d",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2019.csv",
-    "resource": "f66d170a-d7f6-4a22-a0ae-c111b33ea1a0",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2021.csv",
-    "resource": "8a6e2d89-4054-4065-b2f9-e2e34f0fd76f",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2007.csv",
-    "resource": "bd22e682-ee6c-4a84-b204-582308659bf4",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2011.csv",
-    "resource": "7b039b0d-68a9-4deb-8927-05c989b2badf",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2013.csv",
-    "resource": "db81740b-20e0-4b8f-b9d8-07370453e609",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2008.csv",
-    "resource": "49c8d8f3-8bbe-4a41-86a4-5f241e5efdb8",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2014.csv",
-    "resource": "99045c23-b17c-4d3d-be07-3a1729c299d7",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_stampfenbachstrasse/download/ugz_ogd_traffic_h1_2023.csv",
-    "resource": "54534d6f-5616-4c59-8332-2de0e988f496",
-    "package_id": "b6ea2562-3e1f-40cd-afb0-3a7ca4ca613f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2014_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "29ba5681-4c78-43c0-88e6-0f0d5022163a",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2023_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "d23b4934-3a20-44f7-98d7-692324aab692",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2009_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "4a5b03ee-457b-4956-9b17-ffc2048ebc06",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2021_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "2b909c5d-2e93-4f01-84ed-51885f7cac86",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2010_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "68612aa0-bc9f-4592-950f-46e1a4463a7f",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2011_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "52f7b125-7056-4664-b6a4-181139b7e377",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2022_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "b564d81f-24c6-4d36-98bd-4462100645d7",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2018_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "f8d54528-6d9e-411a-9314-e8e5cfb8a690",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2015_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "3cc8a542-0dea-4dff-8614-60b8f2d37ae5",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2017_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "84df7153-7cc1-42d3-b6cb-e1329ab24255",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2020_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "78bfa350-9da6-48a0-81fe-2df4802c7fc0",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2013_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "73a2927e-efb7-477f-a4e5-04ab2343e205",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2016_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "e416388b-bb1a-40a2-a9dc-32dfc93e7abe",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2012_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "983bc65d-ef2f-4b72-bd37-db3f473080f6",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_verkehrszaehlungen_werte_fussgaenger_velo/download/2019_verkehrszaehlungen_werte_fussgaenger_velo.csv",
-    "resource": "b69cca18-9e25-4ee1-8d8f-af07651d7799",
-    "package_id": "b5ae1507-d930-4448-a6d0-e08cde338d2b"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_mappingtabelle.csv",
-    "resource": "aaf040c2-010c-4725-ada2-f5151e202266",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2014.csv",
-    "resource": "73dfe554-886c-45d6-8476-517fb7121c63",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_ausfallprotokoll.csv",
-    "resource": "f3bc8e16-b748-4e13-9e62-eac490201511",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2013.csv",
-    "resource": "c275e10f-f9b1-4c41-aeb6-041f7a0f8903",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2011.csv",
-    "resource": "3e966b7f-98b4-4872-b0e0-f286cb025c01",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2010.csv",
-    "resource": "a8fad1a8-e435-4420-8ac8-56fdf88d9daa",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2010-2015_Q3.csv",
-    "resource": "667f4fa9-8647-43b6-b2cc-ef5f9ef0311e",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2012.csv",
-    "resource": "44d29af4-2584-4b94-b5cc-ad921bdfaeb1",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ted_taz_velozaehlstellen_stundenwerte/download/velozaehlung_stundenwerte_2015_Q1-Q3.csv",
-    "resource": "639140f5-e520-4a44-9b1e-94cb76639b7a",
-    "package_id": "1a550f00-53fe-4e61-a82c-7a86a1d1cbdd"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2013.csv",
-    "resource": "5d2a9c35-491d-4b23-bbe5-b0b801f7810c",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2014.csv",
-    "resource": "4b198414-2528-4d6f-a037-dca6c2c7ed37",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2007.csv",
-    "resource": "7a3b21b4-a9a6-4026-b294-3e9a21b98947",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2002.csv",
-    "resource": "2fb35e64-ca1b-4721-b042-62f1ec622088",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2022.csv",
-    "resource": "8b972b45-f2a5-4d34-b42f-ef7573a8fee3",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2016.csv",
-    "resource": "d55c0e1a-f382-426a-8372-8cec0fb8a764",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2000.csv",
-    "resource": "2e54ae7d-74ac-4958-9805-3b27fa78f3d5",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1999.csv",
-    "resource": "4aad3788-13f2-4466-9dd0-9dd1e991b3be",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1995.csv",
-    "resource": "dd3b8b8d-d98d-4082-a9ec-92069f4a667e",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1996.csv",
-    "resource": "414f09ab-8520-454f-9cf7-fb52005a17f7",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2011.csv",
-    "resource": "97e69c0f-3b47-4a05-a32e-5bf65d5f935a",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2004.csv",
-    "resource": "23bdb22f-f020-4549-a9d0-25bb3eff2282",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2008.csv",
-    "resource": "5809b69d-ba74-4e56-b139-a1bfaabaf2f0",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2023.csv",
-    "resource": "8d583524-f4d9-413b-9340-3733e247d51f",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1993.csv",
-    "resource": "257580ca-4a3d-449e-955d-eb44462be791",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1994.csv",
-    "resource": "7abb451c-0639-4008-a42d-42695a456530",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2001.csv",
-    "resource": "60a9c386-3c9e-4328-abae-3399e22c94a7",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2019.csv",
-    "resource": "b2f7ae2f-1b13-44f6-b88b-a7bdb85d6341",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2005.csv",
-    "resource": "38daa94b-5d9f-4440-a4dc-7f46428f0e8d",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2015.csv",
-    "resource": "4d49e26c-89b3-4ba7-bf4d-f4da1512430a",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2006.csv",
-    "resource": "8445fbae-3d9b-43e4-8942-76c53ae387e3",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2003.csv",
-    "resource": "beca3cf1-8162-49e6-b883-45fe005e40b5",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2018.csv",
-    "resource": "965619df-401f-406f-afd3-50e15f1d2dff",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2017.csv",
-    "resource": "5024f5cf-5b1e-4f12-9e0c-ead0c565087c",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2012.csv",
-    "resource": "8a139ed0-9231-4cb3-a85f-0697eb029e3a",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2021.csv",
-    "resource": "7b228fe0-c9cd-4f00-8de1-e721d5d1a790",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1992.csv",
-    "resource": "d1668a0b-3716-4ea9-825a-288bca9dd3e7",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1997.csv",
-    "resource": "9df03889-d2ac-4958-8d7f-658cc8f6f420",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2009.csv",
-    "resource": "8302d92c-fe0a-41f2-8243-0f0b129e3f7c",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_1998.csv",
-    "resource": "1262e6a9-c27b-4374-a19f-b666e69e57f4",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2010.csv",
-    "resource": "19e965d2-f1a9-487e-8e6f-59a79b1a94b2",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_meteodaten_tagesmittelwerte/download/ugz_ogd_meteo_d1_2020.csv",
-    "resource": "c431549b-6494-4977-a032-43c116af8a03",
-    "package_id": "81f2dff9-fad7-414d-8abf-81b71a694e7f"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2018.csv",
-    "resource": "5dc3a92b-e2ad-4adf-b197-7a9b021c9ddf",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2015.csv",
-    "resource": "990c26ce-5448-43cb-acf2-f3d9ca8753d5",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2017.csv",
-    "resource": "68808ba0-0461-4564-89e7-4fdab440959d",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2020.csv",
-    "resource": "e55f4885-79f1-4bbb-88ae-860c377a7f9a",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2023.csv",
-    "resource": "38092f83-7dc8-4edb-9aed-8c9bda23ea28",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2021.csv",
-    "resource": "f8ce8081-c4b4-4a79-a2d1-884cdc45189a",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2022.csv",
-    "resource": "87e16a77-1f55-4e83-a4a0-acbc5640efa2",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2014.csv",
-    "resource": "ed6082b4-e2ee-4f1e-9167-d353db99eb1e",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2016.csv",
-    "resource": "00ff8058-1d02-4eb5-9e8f-f5df0431f81e",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2012.csv",
-    "resource": "17fa7851-0f21-43b6-a3ec-87db4c962699",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2013.csv",
-    "resource": "eca5e6d4-6c54-4ee6-9f18-e7b44159a545",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/sid_dav_verkehrszaehlung_miv_od2031/download/sid_dav_verkehrszaehlung_miv_OD2031_2019.csv",
-    "resource": "c1b2e4d3-fb7c-4746-8f5c-b094c1868618",
-    "package_id": "f80fd59a-e52a-4caa-8b39-287662c0c517"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_treibhausgasbilanz/download/ugz_treibhausgasbilanz.csv",
-    "resource": "0c342b77-ad97-46cf-b138-cb83decf96f3",
-    "package_id": "57b7022f-3e16-4838-85bb-72df91d74b79"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_rosengartenbruecke/download/ugz_ogd_traffic_rosengartenbruecke_h1_2022.csv",
-    "resource": "8429849e-222f-48c0-a105-b8e07c107f5b",
-    "package_id": "2af24614-9ebd-421b-91f0-208f885514d6"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_rosengartenbruecke/download/ugz_ogd_traffic_rosengartenbruecke_h1_2021.csv",
-    "resource": "846a40d8-f46f-4ecf-9e17-97e2f240b6dd",
-    "package_id": "2af24614-9ebd-421b-91f0-208f885514d6"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_rosengartenbruecke/download/ugz_ogd_traffic_rosengartenbruecke_h1_2023.csv",
-    "resource": "44278e98-a417-47c8-926c-ad18782ffed4",
-    "package_id": "2af24614-9ebd-421b-91f0-208f885514d6"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ugz_verkehrsdaten_stundenwerte_rosengartenbruecke/download/ugz_ogd_traffic_rosengartenbruecke_h1_2020.csv",
-    "resource": "e94913b7-d5ea-4905-ae0d-83c95263e3c6",
-    "package_id": "2af24614-9ebd-421b-91f0-208f885514d6"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/bau_stadtgebiet_bodennutzung_grundeigentum_quartier_seit2009_od6120/download/BAU612OD6120.csv",
-    "resource": "14737df5-1aef-481b-be88-721204221192",
-    "package_id": "c31d94ea-145c-433f-b4a5-f12aa93a20bf"
-  },
-  {
-    "url": "https://data.stadt-zuerich.ch/dataset/ssd_mkz_standorte/download/mkz_standorte.csv",
-    "resource": "790f96fa-5efe-45f8-b4aa-78bd97a2efe6",
-    "package_id": "99d825be-5629-4e69-9bc3-8c4f299aeb5d"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100063/exports/csv",
-    "resource": "88a54917-1c76-4874-ab0a-764b9cc70131",
-    "package_id": "696c8847-0cad-43eb-873e-96521dea9c5e"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100046/exports/csv",
-    "resource": "1b64d217-c7e3-49b5-9fcd-3ae97ff5be9d",
-    "package_id": "d4576c82-1eee-4431-957c-fee263343c81"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100052/exports/csv",
-    "resource": "ee670b1e-0a16-48b7-b079-52a23d1c5e8d",
-    "package_id": "57edebcb-f68e-4d11-ae23-a5884fafe799"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100067/exports/csv",
-    "resource": "d9c6dbed-1169-4168-9380-268ea0e1e680",
-    "package_id": "82576046-f54a-4c51-8d5f-04a52339a129"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100236/exports/csv",
-    "resource": "6ab99641-004e-42b6-ad02-2eef4094790b",
-    "package_id": "c13b23cb-5407-4cd7-abfb-20e553f9b040"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100093/exports/csv",
-    "resource": "b1864f13-4c9c-4726-84c2-f32ae560272f",
-    "package_id": "9d7d7afe-392c-459a-b0e9-11570c67f025"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100007/exports/csv",
-    "resource": "ecc7fdd4-0074-4424-8590-b3a837a43271",
-    "package_id": "652c8daa-5787-4ce6-b600-1f85ec44144c"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100178/exports/csv",
-    "resource": "76225a3c-2c44-4b02-be2d-b40bbd44b3dc",
-    "package_id": "ae8e5bb5-8eed-446a-a33f-31a4851bc53c"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100011/exports/csv",
-    "resource": "0cc59e33-bbad-4db0-9deb-adfedf15f234",
-    "package_id": "6fbff11e-7b5e-4fe9-9d14-269ab37b3158"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100066/exports/csv",
-    "resource": "dd3d536b-162c-45b9-b9da-64dad54c5aaf",
-    "package_id": "5cc6b9fa-2b92-4723-bfa7-e530a1377366"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100114/exports/csv",
-    "resource": "1f3e9cf2-06a8-4a77-b008-9f0c149e021e",
-    "package_id": "bb1f3c08-6686-41e5-8f5f-1bfefe7fe9cf"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100227/exports/csv",
-    "resource": "4c6d99c3-58fc-47ba-85f2-de668c35dd1d",
-    "package_id": "4dcad1dd-e328-4978-a32e-94907b7075bb"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100069/exports/csv",
-    "resource": "02c46667-254f-4d5f-b036-28179c2ae640",
-    "package_id": "ddbd872e-1f5a-415b-a6f8-02b030327c93"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100189/exports/csv",
-    "resource": "d0400526-3714-4d3c-bfe7-218a7356b66f",
-    "package_id": "a86bfb26-e422-4c80-8f62-9da3c52e9f98"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100179/exports/csv",
-    "resource": "762de682-54cc-4b0c-b365-49b67ef1797c",
-    "package_id": "ae23252a-54b8-46f3-9841-9c8053bdc5ca"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100193/exports/csv",
-    "resource": "a1746cb6-063d-4065-803b-ea9b79d5f3f6",
-    "package_id": "d8f8ffba-801e-415a-87ca-590e5f8bdcd4"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100065/exports/csv",
-    "resource": "bd54a1d4-f332-4661-9565-b885e7167558",
-    "package_id": "9c9b5eff-d36e-4323-9e9e-9dd1b17812f7"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100234/exports/csv",
-    "resource": "f1acd40b-364f-4a98-ba25-90a957620139",
-    "package_id": "379ad64d-d357-42cb-9e1a-3a2f12b32abd"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100095/exports/csv",
-    "resource": "eb0e6422-c8e3-4705-ac65-bcbe9b649f38",
-    "package_id": "a3a44806-68d8-40df-a224-35d81aac32f6"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100064/exports/csv",
-    "resource": "624053c2-ae12-41d1-a005-9890bdf2579f",
-    "package_id": "049621cb-f2d6-4426-bf61-ca978999665a"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100182/exports/csv",
-    "resource": "1710cba2-860c-4535-bb10-6cf12f518c4a",
-    "package_id": "f811ce3e-2996-4353-afea-70c957f86ad6"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100043/exports/csv",
-    "resource": "f3191f85-390f-4012-8672-6ea2685c2764",
-    "package_id": "12d6649e-60a5-43c2-b991-d260d08acd5c"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100201/exports/csv",
-    "resource": "b6b1ac28-efbe-4801-b0ef-c91850aaa8bb",
-    "package_id": "ed33632c-7da7-4995-ad13-aeb4f7d97f99"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100256/exports/csv",
-    "resource": "2f91a460-b70b-4f7b-80aa-c6cbc6582022",
-    "package_id": "796691f7-6aab-43f8-85b3-88fd110bf7f0"
-  },
-  {
-    "url": "https://data.bs.ch/api/v2/catalog/datasets/100257/exports/csv",
-    "resource": "83bba423-f1e0-4ba6-b44c-569455214fe7",
-    "package_id": "6cc6dc94-82f8-4850-b8d6-c1d78af35827"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100174/exports/csv",
@@ -2825,9 +585,74 @@
     "package_id": "a602acbb-16f8-44a6-859c-78e0af6ee6ce"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100249/exports/csv",
+    "resource": "3f6c0a74-bf3d-4899-aeac-9443ef1a4b1f",
+    "package_id": "a9c5cfb5-ee2a-4620-a1aa-1bc9baeb92f1"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100113/exports/csv",
     "resource": "722f86bf-d579-4681-959e-c82848985053",
     "package_id": "0fda65ec-89a1-4914-80fb-4cbffe785952"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100031/exports/csv",
+    "resource": "2bd31bbd-382b-43d9-ad59-e455bd0636a4",
+    "package_id": "de39dcb1-6490-4b7f-b353-9c32a95da2fd"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100017/exports/csv",
+    "resource": "b3eec9f3-25f9-4779-9efd-06c93a314bcf",
+    "package_id": "db0d3cef-1d28-4b14-afdc-9c596f71c8c2"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100232/exports/csv",
+    "resource": "2e85a270-526e-48a1-9cfd-a1af6c767928",
+    "package_id": "579419bb-e496-4ffa-9847-907fab94aa13"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100239/exports/csv",
+    "resource": "97cc1baa-1b1c-4106-8cbd-923b7d96fb11",
+    "package_id": "2d92c7df-9d59-4d87-ad3a-3da65645f054"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100173/exports/csv",
+    "resource": "b08cf325-4082-404c-87b4-63f17dc7216a",
+    "package_id": "d8bc4992-13a2-4a38-958d-6c3db1a5f8bc"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100088/exports/csv",
+    "resource": "11b8d7f6-e8a6-4a70-aa15-f18f134b4685",
+    "package_id": "b6826bf9-604f-4303-8ce1-00b988b3187e"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100176/exports/csv",
+    "resource": "2fce14b7-9eaa-4f03-961f-60c7af23817f",
+    "package_id": "3805c249-644f-4ad7-8eb1-f794cd06b8c7"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100133/exports/csv",
+    "resource": "28273a46-2453-49f1-a26c-ea68dfea6779",
+    "package_id": "4229a75e-18af-4686-aa08-dab07ddf4058"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100101/exports/csv",
+    "resource": "e58f623c-fd41-4759-908d-d25a275f736a",
+    "package_id": "3c668121-6b2a-4d43-9ce8-4c7bdb09904e"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100033/exports/csv",
+    "resource": "749e6337-b1a2-4943-925d-a5c03c68a99b",
+    "package_id": "094c890c-635e-45f8-8c88-a23780dba898"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100225/exports/csv",
+    "resource": "81423f10-5533-46c0-97af-f04c85850b3b",
+    "package_id": "bba94095-85f9-4cfd-bf21-eb1491b0f819"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100122/exports/csv",
+    "resource": "2877b863-f20d-415a-bc7d-77a4f8f6a0ba",
+    "package_id": "076f7312-3687-41e4-a8a0-0e388ec57983"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100181/exports/csv",
@@ -2835,9 +660,44 @@
     "package_id": "94ce45a1-ae43-4ab1-aa15-117fabd87c8d"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100188/exports/csv",
+    "resource": "48f18df0-3362-4f49-a8f7-912e14bfec7a",
+    "package_id": "e2d81f91-0db4-4b61-b09e-2c422bda0fc1"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100075/exports/csv",
+    "resource": "ca9a159e-ba8e-49ec-9fb1-97df659f9afc",
+    "package_id": "6859112d-d13f-4bd3-b34e-f3bdcbd03e0a"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100180/exports/csv",
     "resource": "7135ce89-804a-4cbf-ba90-9910b7b327c6",
     "package_id": "49eb25c2-f5e1-445a-bfdc-6ee4a136e7d9"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100010/exports/csv",
+    "resource": "c6206d9e-9902-44a9-91b4-b2586598eae8",
+    "package_id": "97e31517-f5b8-4cf9-9ed0-e3a8537f63f0"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100213/exports/csv",
+    "resource": "3923f2f9-451f-4131-8e70-e67e34180ad7",
+    "package_id": "b21b03d3-29e4-430f-96c0-54d32538800a"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100207/exports/csv",
+    "resource": "5b60314f-688e-4a98-9525-c1865f168b3f",
+    "package_id": "c1839788-17ea-4483-9430-2f41ebeff1c2"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100039/exports/csv",
+    "resource": "390bc793-4f12-4701-8f63-6249e8c2e5b3",
+    "package_id": "462f6794-0927-448d-a661-8508edf8146b"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100238/exports/csv",
+    "resource": "449ebf49-5338-4562-bdd7-8ddcc70c9417",
+    "package_id": "fcce36c8-9532-4c39-8b25-f14114508f5c"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100054/exports/csv",
@@ -2845,9 +705,29 @@
     "package_id": "347eb89c-ee56-45bd-9e59-30fe663ce78a"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100233/exports/csv",
+    "resource": "0270ff6b-c53a-453f-bc49-222cf1c1a793",
+    "package_id": "794c86c6-56f9-44c4-80bf-79c5eadd4c74"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100124/exports/csv",
+    "resource": "765db9a1-0d7f-4382-ab48-e09c81b7aad6",
+    "package_id": "db538474-abb6-42ab-a2e6-19ef6390501e"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100029/exports/csv",
+    "resource": "86c4a60b-1829-43f3-86fd-2c4417b197cd",
+    "package_id": "d2bbe3ed-b8db-4859-a4c5-da0c3ebeb1f0"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100068/exports/csv",
     "resource": "6cdb49ef-f16d-4fbb-a929-ddf14798ddb4",
     "package_id": "b6ed0c95-9840-4808-8bde-80e141669989"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100105/exports/csv",
+    "resource": "eee48117-3013-4c19-95b8-d7c95fad2a16",
+    "package_id": "0e3a969c-e33e-4b50-b154-15bd998b6c47"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100164/exports/csv",
@@ -2860,29 +740,29 @@
     "package_id": "f197b394-3ce0-4315-bad5-65d4e7f03396"
   },
   {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100280/exports/csv",
+    "resource": "aadaaf24-fdfa-4875-b877-88349971b8c7",
+    "package_id": "53729bcb-9aef-4d21-91ec-8000999506fc"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100191/exports/csv",
+    "resource": "9f4d21c1-f1e2-47ed-9ade-caad682acee9",
+    "package_id": "c6789242-4d6d-4176-bfba-f9b04919a058"
+  },
+  {
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100128/exports/csv",
+    "resource": "8639f450-0d08-4b22-8fb5-a16b6af6f1b0",
+    "package_id": "10e55041-4161-4d0a-8f41-a034919937ab"
+  },
+  {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100226/exports/csv",
     "resource": "52f3d471-0b72-454e-a9c1-a2ea19296a2f",
     "package_id": "03cfea26-ef9a-4445-ab2f-67c9fa98299e"
   },
   {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/dfs-klf-1/exports/csv",
-    "resource": "3620ef22-c2a4-4846-ba6a-9a50a5de30db",
-    "package_id": "a3ad2208-1e27-43ee-9fa7-0073828780d2"
-  },
-  {
-    "url": "https://data.tg.ch/api/v2/catalog/datasets/dbu-afu-1/exports/csv",
-    "resource": "47ce80a0-3d20-4b69-a497-5fbd2a7188c2",
-    "package_id": "f8b84e99-95df-4b13-b19f-1d159244c9da"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/93/data-models-bev_LNF.csv",
-    "resource": "b386efa1-5d84-4cc7-9a76-e9eb2c5a1e06",
-    "package_id": "e6d14689-a884-4f2e-9933-37f0468197ac"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/93/data-cantons_LNF.csv",
-    "resource": "8b0f88d9-012f-4a54-adb7-98002f055f3e",
-    "package_id": "e6d14689-a884-4f2e-9933-37f0468197ac"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100186/exports/csv",
+    "resource": "e98e93b9-3357-4d59-83cd-6e79cd6a1865",
+    "package_id": "06034a34-8700-42a6-bd7d-8d1eb0c49c3e"
   },
   {
     "url": "https://data.bs.ch/api/v2/catalog/datasets/100158/exports/csv",
@@ -2890,774 +770,19 @@
     "package_id": "22ef6290-4c0f-437e-9edc-8a0cd0430ecb"
   },
   {
-    "url": "https://data.geo.admin.ch/ch.bfe.energieforschung/csv/2056/ch.bfe.energieforschung.zip",
-    "resource": "7be545a5-f1e1-493b-9b88-b6cd814e54af",
-    "package_id": "75f69e21-7d5d-471f-ae90-e77009891bea"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100132/exports/csv",
+    "resource": "5b737a59-76dc-476f-9af0-5a41e39a603c",
+    "package_id": "961e60d8-b2bd-4b13-9d7b-15ccd9b40a59"
   },
   {
-    "url": "http://data.geo.admin.ch/ch.bfe.komo-projekte/csv/2056/ch.bfe.komo-projekte.zip",
-    "resource": "9d80de78-9e24-4249-9aa1-eb383d2a11d9",
-    "package_id": "6901ee3b-6111-4c4d-8d27-60d4e6d1090b"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100001/exports/csv",
+    "resource": "8800b2a9-7378-43e1-aa5b-99683f24346d",
+    "package_id": "071192e3-305f-48a4-9823-6ed9c9deff08"
   },
   {
-    "url": "https://data.geo.admin.ch/ch.bfe.thermische-netze/csv/2056/ch.bfe.thermische-netze.zip",
-    "resource": "a8bc6284-4153-4744-b149-e642b7077663",
-    "package_id": "ad8df3fc-72f6-4d5e-9a88-110314489949"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.energiestaedte-2000watt-areale/csv/2056/ch.bfe.energiestaedte-2000watt-areale.zip",
-    "resource": "9bd490b3-99af-4a75-b743-5d54c5409b3f",
-    "package_id": "f25c213e-27c9-438f-b684-7fea8cbd312f"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.minergiegebaeude/ogd/ogd91_minergiegebaeude_pro_gemeinde.csv",
-    "resource": "3ae6d523-748c-466b-8368-04569473338e",
-    "package_id": "b1405e11-135b-47fb-becd-2aa88553ef02"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/92/data-models-phev.csv",
-    "resource": "d3acfa3c-d65d-4db7-8a27-9879eac93a2e",
-    "package_id": "0d505c89-3e6e-4761-a261-2dc9418f6453"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/92/data-cantons.csv",
-    "resource": "12ff02b0-4644-4b86-8943-33984fb32f09",
-    "package_id": "0d505c89-3e6e-4761-a261-2dc9418f6453"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/92/data-models-bev.csv",
-    "resource": "4b6024a2-2ffc-4b64-ae0f-71e16c4569dd",
-    "package_id": "0d505c89-3e6e-4761-a261-2dc9418f6453"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/57/ich_tanke_strom_Kennzahlen_monatlich.csv",
-    "resource": "d772c474-e890-4de6-b1bb-416d90e860a3",
-    "package_id": "9b2bec09-2486-443d-96a2-03eadf4cad0b"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.erneuerbarheizen/csv/2056/ch.bfe.erneuerbarheizen.zip",
-    "resource": "bcf455f3-c66f-4b95-b07e-bfceec3834ce",
-    "package_id": "3bd55d93-aab8-48f8-82c2-e8f95b7a8a92"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.statistik-wasserkraftanlagen/statistik-wasserkraftanlagen/statistik-wasserkraftanlagen_2056.csv.zip",
-    "resource": "d74a02a7-8875-4495-8d82-57f18bc22e71",
-    "package_id": "58ad922f-9add-4661-8937-bb11294b808a"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.windenergieanlagen/windenergieanlagen/windenergieanlagen_2056.csv.zip",
-    "resource": "48fa6341-1557-4f1a-9adb-17f0c430e427",
-    "package_id": "59228127-2a5f-48c0-b5de-a315f7f75225"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/105/ogd105_heizgradtage.csv",
-    "resource": "fc492ffc-1eb6-4919-af54-16998eaf7eaa",
-    "package_id": "428c3287-0403-4922-af39-852e90e07c19"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.elektrizitaetsproduktionsanlagen/csv/2056/ch.bfe.elektrizitaetsproduktionsanlagen.zip",
-    "resource": "5fbfb8a8-9b64-4417-bcba-9e345686814b",
-    "package_id": "ae4cf5de-27c9-49df-a777-6531949e2d74"
-  },
-  {
-    "url": "http://data.geo.admin.ch/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser/csv/2056/ch.bfe.erneuerbarheizen-mehrfamilienhaeuser.zip",
-    "resource": "e3774f7d-7155-432c-a042-5801fd5b1275",
-    "package_id": "d28bdc64-9790-495c-a490-f3baf182460e"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/85/ogd85_stromlandschaft.csv",
-    "resource": "271200a9-7b6c-409b-b0a7-a11af0a5e0a5",
-    "package_id": "e5e5cc97-4241-417c-86bc-20e87c912448"
-  },
-  {
-    "url": "https://www.uvek-gis.admin.ch/BFE/ogd/84/ogd84_einmalverguetung_fuer_photovoltaikanlagen.csv",
-    "resource": "fa6d4858-79d2-41d6-95d6-853906986244",
-    "package_id": "2628a6a6-1ec8-42b2-afd5-17327f569fb5"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.kernkraftwerke/kernkraftwerke/kernkraftwerke_2056.csv.zip",
-    "resource": "8ccb2ab9-df28-4b84-948f-c7a3be4a262b",
-    "package_id": "679cb0b5-3555-4451-aad5-3adf93fff5de"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.fernwaerme-angebot/fernwaerme-angebot/fernwaerme-angebot_2056.csv.zip",
-    "resource": "96d42595-d257-4f20-90a6-4af6cb4d1899",
-    "package_id": "3f801767-1251-4d7d-945c-eb83d18405c6"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.stauanlagen-bundesaufsicht/stauanlagen-bundesaufsicht/stauanlagen-bundesaufsicht_2056.csv.zip",
-    "resource": "8c419acc-7fd5-4417-80e5-0ef6849f0175",
-    "package_id": "cbc776cb-5e73-4143-91a5-a7506a78d65e"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.kehrichtverbrennungsanlagen/kehrichtverbrennungsanlagen/kehrichtverbrennungsanlagen_2056.csv.zip",
-    "resource": "95bdae08-ba95-4b6a-a8ac-c6b60eecaae1",
-    "package_id": "b4fa710a-136e-476c-aa71-58bb7f89bea9"
-  },
-  {
-    "url": "https://data.geo.admin.ch/ch.bfe.biogasanlagen/biogasanlagen/biogasanlagen_2056.csv.zip",
-    "resource": "6a31d549-be3e-4727-a4f8-05d7d2ab5c54",
-    "package_id": "2e0dabd7-ed2b-41e3-ad23-6b1721a36fea"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647726/appendix",
-    "resource": "d4e73c0c-bea5-46c5-aa01-f3b2eac37c0b",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647718/appendix",
-    "resource": "ce97e2dc-d6dc-4285-99ef-370101156f52",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647724/appendix",
-    "resource": "cb18b53a-3677-4169-a682-3f4b50e76f60",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647722/appendix",
-    "resource": "3ac09b2a-ab0e-48b0-ae89-9fd71dd0a81c",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647721/appendix",
-    "resource": "da620e3b-9734-4c7d-802d-1b716b3157ed",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647725/appendix",
-    "resource": "84580aa3-0076-44df-84b1-0d10f980d364",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647632/appendix",
-    "resource": "debd744a-1c82-4c85-8aa9-f0be987fdd71",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647642/appendix",
-    "resource": "9074ae8f-1c1f-41a9-a82f-abb4bb5101c0",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647640/appendix",
-    "resource": "ecff7fa6-6230-4f53-9939-d2f979b13ab2",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647653/appendix",
-    "resource": "2972c920-4eb3-48e7-894b-ae73e2abbf65",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647651/appendix",
-    "resource": "0ace0ea1-e217-4c16-9421-e8ae07c783ba",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647639/appendix",
-    "resource": "1af0d352-bdd5-4d53-9852-2dcfcc9f1d1c",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647654/appendix",
-    "resource": "a9f661d3-dfb5-4c67-a0c6-f51aa5177c6d",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647669/appendix",
-    "resource": "10566d2b-2d00-47c8-b495-87340771b201",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647676/appendix",
-    "resource": "c4c10fb1-664c-40c0-a8c9-9c09fae0d2e7",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647641/appendix",
-    "resource": "a8c0bc28-50b5-4c3c-9744-f422d935c374",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647636/appendix",
-    "resource": "15a5b081-ff23-47ab-8579-ba9f5a593640",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647652/appendix",
-    "resource": "00c0ac2f-9aca-42cf-9629-12982495d53a",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647657/appendix",
-    "resource": "13e980b0-22df-4dcc-aca5-9403182207fd",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/12647666/appendix",
-    "resource": "6bd4ec23-3e01-4bf9-a33c-0db6aded2da7",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647658/appendix",
-    "resource": "e8d8762d-bc61-48ae-b26b-ca3ac644be6f",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647656/appendix",
-    "resource": "b308461b-5667-4511-9efa-46f980ab2adb",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647682/appendix",
-    "resource": "24ea84a4-5b7c-4c3e-96aa-5eab9ea25b77",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647655/appendix",
-    "resource": "b03c48c3-32e1-402a-bd9b-e1cb49cda1e7",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647665/appendix",
-    "resource": "1ba28d8d-fd87-4cf3-8c63-96333923bdac",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647686/appendix",
-    "resource": "b206aa59-3d1f-4823-9788-2d073d602d75",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647685/appendix",
-    "resource": "277cf20f-3380-4513-b427-b2fde4b10ce5",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647677/appendix",
-    "resource": "861e5d5f-1db8-446f-b008-fdf29b3a3046",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647670/appendix",
-    "resource": "f9b2540b-69bf-4b9f-9fe1-9a6beb8cae98",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647663/appendix",
-    "resource": "bf7c7659-b66c-44c6-99e0-102674dd007b",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647684/appendix",
-    "resource": "9dd7ade1-eb83-4ce7-ab12-ddb11d37befb",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647680/appendix",
-    "resource": "35b90c72-be90-458c-9e29-24901ac0a539",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647664/appendix",
-    "resource": "e6ba9cd7-b56f-4229-9cb1-5070ff353644",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647693/appendix",
-    "resource": "361d66bf-e6e4-4962-ac68-747844e8d3e9",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647691/appendix",
-    "resource": "7bea6075-244e-4797-b1b9-c07141114c84",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647692/appendix",
-    "resource": "c643f4ac-960f-4fa8-973b-4700a0355192",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647704/appendix",
-    "resource": "0d8415df-3a8a-4eb6-87c6-3f7755aa9b6e",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647705/appendix",
-    "resource": "d0114e3e-4ca3-4c17-adef-982993713496",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647678/appendix",
-    "resource": "2bb9bd7f-08a8-4d22-a3b8-04a707096ff5",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647708/appendix",
-    "resource": "efa5a92e-9d71-4834-80ee-95ba7d5da30e",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647701/appendix",
-    "resource": "e4f0efcd-0663-4280-8849-5d77545bbed3",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647707/appendix",
-    "resource": "b66554e5-afaa-4be6-a3d7-c8030b4ef4d6",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647694/appendix",
-    "resource": "bd1a3b9a-9bb1-49be-b5c2-8475c614ebd5",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647703/appendix",
-    "resource": "d8d6c99d-0083-4db5-ab4d-1ef6d4f2dac2",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/12647706/appendix",
-    "resource": "8cb5b68f-0f86-41dd-b92c-5921bc67d8dc",
-    "package_id": "712677f2-da83-4cb4-a17a-ed4ec20f2bbb"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/plz_verzeichnis_v2/exports/csv",
-    "resource": "1d2a14e5-5bf2-48c1-93fa-3a0b07589169",
-    "package_id": "50557c6b-5c82-4d69-934b-75d2c3fab7ca"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/zugangspunkte-post/exports/csv",
-    "resource": "d4b015da-0399-430b-b6cf-e0a7bc2c7b23",
-    "package_id": "38424438-5b06-42d4-9ace-c034b5cd17bb"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/strassenbezeichnungen_v2/exports/csv",
-    "resource": "f5710229-a037-4b17-9a00-183506d834c8",
-    "package_id": "07b4d224-385f-473e-8c5c-247f6e5eae12"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/boteninformationen_v2/exports/csv",
-    "resource": "a3a5f054-31cd-4777-ad45-f7eba256972d",
-    "package_id": "590549b8-6fc2-48b8-91f6-bb46205299ed"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/politische-gemeinden_v2/exports/csv",
-    "resource": "ed2d2caf-a621-4e66-b767-8e42940c599f",
-    "package_id": "01b97ac9-9fbe-4cb7-854d-3e25fee0c245"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/alternative-ortsbezeichnungen-und-gebietsbezeichnungen_v2/exports/csv",
-    "resource": "e39834d4-d47d-4e6e-aaff-d0ba04876ba6",
-    "package_id": "dc522804-1014-4038-a255-562949d67828"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/alternative-strassenbezeichnung_v2/exports/csv",
-    "resource": "fcab3f88-149d-451c-84da-f4b0c3388a9c",
-    "package_id": "2e40bac6-70fc-4eae-bdeb-f93764269d43"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/alternative-hausbezeichnung_v2/exports/csv",
-    "resource": "0fddd62d-faf7-4799-b461-2c34ec2a91ee",
-    "package_id": "91c4c1aa-cf78-45e0-bce3-6939d25a2ed3"
-  },
-  {
-    "url": "https://swisspost.opendatasoft.com/api/v2/catalog/datasets/hausnummer-und-hauskey_v2/exports/csv",
-    "resource": "a87a2b76-9f40-4414-b3c6-f57d3cb483e7",
-    "package_id": "e59198d9-6ca5-48ac-aac9-1969e196f0de"
-  },
-  {
-    "url": "www.bern.ch/open-government-data-ogd/ogd-nach-themen/immobilien-ogd/download-nachhaltigkeitsrosetten-ogd/2015-nachhaltigkeitsrosette-wohnen.txt/download",
-    "resource": "fa5f7da7-6e78-4cea-a8f4-c6b902b07b5d",
-    "package_id": "96dfa38d-91f6-45c1-933e-a101f60d13a0"
-  },
-  {
-    "url": "www.bern.ch/open-government-data-ogd/ogd-nach-themen/immobilien-ogd/download-monitoring-ogd/2016-monitoring-wohnen.txt/download",
-    "resource": "baa03cb9-0908-4daf-a820-0d34c10119d7",
-    "package_id": "b0adc1dc-58af-466c-9113-dbccce1782aa"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564247/master",
-    "resource": "0f3c01ff-2aac-49e3-aece-dc8fe41769ac",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564261/master",
-    "resource": "7976c917-e28f-4acd-8b33-6adb61715aee",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564371/master",
-    "resource": "715b697b-0c63-4da0-b790-96a23a2d4b8c",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564351/master",
-    "resource": "db53ce8c-2ff9-4a53-93ad-d2ae4e3c8072",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564242/master",
-    "resource": "4347daff-9186-4855-92e0-189b17fd2726",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564190/master",
-    "resource": "32be9275-cb4c-4fe6-9174-4b10119d2adf",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564300/master",
-    "resource": "ef66f4d4-6752-4c21-9af3-1d3029c22525",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564304/master",
-    "resource": "933e510a-66f8-4ab1-aa9c-b005305cd088",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564309/master",
-    "resource": "77646eb0-df97-4666-9160-6705d893e2c6",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564305/master",
-    "resource": "171ce7b9-e0fe-4012-a2d3-359cd4215c4b",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564314/master",
-    "resource": "e69f69dc-117c-469a-aeb8-ff9607f89dd9",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564203/master",
-    "resource": "db2a0df4-88bb-49b9-926f-74bed2649d98",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564222/master",
-    "resource": "5b1f209e-ba9a-4baa-a3bf-bb5c726b00d8",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564189/master",
-    "resource": "b8eb4c7c-3263-4517-9238-9fdc7d84c959",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564204/master",
-    "resource": "4504105d-3275-4dc7-9346-f80b3a3e4b3d",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564311/master",
-    "resource": "868aab24-a761-47a3-acd3-9e7bf8297c7f",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564341/master",
-    "resource": "9d778e40-9490-4726-bfda-32cf73af494d",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564333/master",
-    "resource": "2a125371-41ee-41f1-b40f-f437fd84aeac",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564340/master",
-    "resource": "a364114d-bca0-4400-a203-1d881baeb252",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564186/master",
-    "resource": "b67b3365-83a0-4ca2-a8ca-2ee6d7bc4c9f",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564217/master",
-    "resource": "c76cfb7b-fe46-4186-9ae4-4edb17f32895",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564260/master",
-    "resource": "84014f8f-4716-48e4-b6be-342d565c8233",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564249/master",
-    "resource": "120f349d-381d-4591-bedc-124e7a4fa78c",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564343/master",
-    "resource": "1c7bcfa4-fe6a-4056-a8cc-d32a44dc46d8",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564248/master",
-    "resource": "1ccb6266-57c2-4616-9f67-4de7224bf5af",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564191/master",
-    "resource": "eef87a4a-f36f-4e5f-b986-b3782b898b48",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564245/master",
-    "resource": "84388211-580f-45df-8426-1b73292ac8e2",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564299/master",
-    "resource": "82149917-dd9a-446c-a038-713349c64a64",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564374/master",
-    "resource": "c313130d-ea3e-4968-80ac-6e16756f749b",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564278/master",
-    "resource": "b32d8d9f-52b9-4474-b2fc-193f61154b7b",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564372/master",
-    "resource": "93522cff-3abf-4736-8c87-00eeefb42414",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564230/master",
-    "resource": "38ccba6a-2bea-4ac5-9b0b-2dc6ef423f94",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564281/master",
-    "resource": "1acd59da-2678-4412-b81e-248a863e664c",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564212/master",
-    "resource": "e098f8ec-7bfc-4258-ae10-2b1ffe10e081",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564282/master",
-    "resource": "860a3ea3-fbc5-4536-9878-11c6f3ee43e1",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564357/master",
-    "resource": "aa8767f7-0fea-4683-85e6-649e74f4721d",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564368/master",
-    "resource": "34e05d50-41e8-4a64-aa46-17208387e1e3",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564338/master",
-    "resource": "072d9acf-c555-4e25-9747-be63d510b3b1",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564223/master",
-    "resource": "4e9dbe15-c667-41da-b9c6-f43635a12623",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564229/master",
-    "resource": "96700347-8ad5-42f8-950f-3c2246a32d91",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564369/master",
-    "resource": "da35210d-7d9d-413e-8b73-abde8a356976",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564187/master",
-    "resource": "bf00caed-0145-4665-b035-c773c622996b",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564185/master",
-    "resource": "7729132a-0fab-4fb2-a4ed-df507aa059c2",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564295/master",
-    "resource": "24be82c0-c391-4679-b6a3-3fcb366849e6",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564320/master",
-    "resource": "23b0e4ce-1009-4fb4-b832-8c8ea0d109d8",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564267/master",
-    "resource": "9959d85a-c01b-40f6-8f1d-352856738ba6",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564188/master",
-    "resource": "3811caca-1c9b-4c86-84ff-c800b3c4b68c",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564213/master",
-    "resource": "53a2d8b3-1b05-4ccf-95d8-b3c6696143b4",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564270/master",
-    "resource": "2ace6e53-bbc1-4e61-ae2e-0ba030a2161a",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564339/master",
-    "resource": "c1956475-6639-466a-8b11-fd3f4fd6b8cf",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564265/master",
-    "resource": "f3eed661-db99-44b8-9262-92facc3f862f",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/16564342/master",
-    "resource": "58140042-8d26-41e7-bcd1-dfa258e8e2eb",
-    "package_id": "f98e3f6e-1128-4383-b1a3-6ccc1a87b0b6"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario5_FA.zip",
-    "resource": "1cd9a14a-3da3-4572-a86d-ff99fb2b958e",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario1_ZWB.zip",
-    "resource": "0f4353a5-bbf0-42bb-b8f3-37524436b5b8",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario4_GP.zip",
-    "resource": "5997074a-5150-4054-8c85-b63e008c81b0",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario4_GP_2.zip",
-    "resource": "87eb02c5-afe2-434c-af83-5fd3c625a73c",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario1_ZWB_1.zip",
-    "resource": "b2e1f1ab-e6e0-4655-ba2b-92788f1c644d",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario3_AWS_1.zip",
-    "resource": "23eca611-a778-4931-aeac-8bb6cbe8e269",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario1_ZWB_2.zip",
-    "resource": "ddf48635-098d-4c44-a662-6781e4d92285",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario3_AWS_2.zip",
-    "resource": "cbc64eec-67e2-4b25-83c6-74ba85daf5b6",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario3_AWS.zip",
-    "resource": "293e39a9-e474-4f0e-9201-5670a6fbe55e",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario2_MWP.zip",
-    "resource": "e450d135-6342-4883-aaa0-11045e1ceb55",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Szenario4_GP_1.zip",
-    "resource": "583c2641-0ea2-4ae9-913e-8bfc11717a13",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://s3-eu-west-1.amazonaws.com/data.geo.admin.ch/ch.bfe.solarenergie-eignung-daecher/StudieWinterstromSzenarien/csv/Output_Gemeinde.zip",
-    "resource": "8d4a7f2a-7a43-47d8-a724-1829db6fc5bc",
-    "package_id": "3462352e-cbf3-441d-a3a0-2931b9b03e88"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20844688/master",
-    "resource": "9d2668f7-0756-495d-a221-6a8704d6d24d",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764979/master",
-    "resource": "cf15f05b-d3f0-479c-a7e1-4d923760054b",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/21785368/master",
-    "resource": "27f7bf75-1e5a-42f0-b448-6268fa28324a",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764976/master",
-    "resource": "141bcf39-ecd6-476d-a1be-e55a5a1ca219",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764974/master",
-    "resource": "e3f4fad3-56ca-49e5-a9ec-19d91f74e94b",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764978/master",
-    "resource": "65ec8e6e-019d-48be-93cf-a358f90680bd",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764975/master",
-    "resource": "3dd1de6f-94e6-4178-937c-f86ccf5fa546",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764980/master",
-    "resource": "9e3370bb-1f94-4f27-b899-48256dc3055b",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764973/master",
-    "resource": "62c1f342-87b5-45d3-b01d-cb7c9587c7f4",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20784001/master",
-    "resource": "fd1c056e-f860-43e5-ae7c-69a03f84d146",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20784002/master",
-    "resource": "9014cc94-81d9-45a5-845d-8bce23098cdc",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
-  },
-  {
-    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20764977/master",
-    "resource": "6072effd-df7b-4d81-8192-5576dbeb36aa",
-    "package_id": "780b7c9e-f9a0-49e4-9647-c503bfad4c91"
+    "url": "https://data.bs.ch/api/v2/catalog/datasets/100002/exports/csv",
+    "resource": "fe200027-5005-41d2-b6b0-3fcd05d436a0",
+    "package_id": "ab3561a3-ce8e-4b0a-a56d-f3eb4f3200c9"
   },
   {
     "url": "",
@@ -3668,6 +793,11 @@
     "url": "",
     "resource": "051995dd-69dd-4bc0-ac68-85d125275858",
     "package_id": "5177b22a-e0b1-4398-a943-3c17ab52f365"
+  },
+  {
+    "url": "",
+    "resource": "76c5c078-2d6d-4035-bf58-e391fbaea479",
+    "package_id": "501589ac-4d43-417b-84b6-76996d18eb37"
   },
   {
     "url": "",

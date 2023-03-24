@@ -36,6 +36,6 @@ Gewählter Ansatz: Brute Force. Parse the datasets and add tag, if a Gemeinde is
 
 ## To do (future):
 
-add kantons
-add for geodata. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/
-implementierung auf PROD ;-)
+- add kantons
+- add for geodata. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/
+- implementierung auf PROD ;-)

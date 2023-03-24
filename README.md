@@ -19,8 +19,9 @@ Gewählter Ansatz: Parse the datasets and add tag, if a Gemeinde is mentioned.
 
 ## todo
 
-- get the download links from opendata.swiss & harvest files from download links. 
-- create list of all Gemeinden
+- Liste der download-Links mit den entsprechenden Package- und Ressourcen-IDs. > 
+- Harvesten der Datasets. 
+- Liste aller Gemeindenamen.
 - parse the files to find all Gemeinden (i.e. "Zollikofen")
 - POST found Gemeindanamen to apropriate datasets
 - documentation!

@@ -22,7 +22,7 @@ def get_encoding(filename):
     return encoding
 
 
-communityList = pd.read_csv('../EtatCommunes_2023_kurz_comma.csv')['GemeindeName'].to_list()
+communityList = pd.read_csv('../data/EtatCommunes_2023_kurz_comma.csv')['GemeindeName'].to_list()
 
 def getCommunityNames(fileName):
     namesPresent = ''

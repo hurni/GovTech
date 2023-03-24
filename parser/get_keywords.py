@@ -31,7 +31,7 @@ def getCommunityNames(fileName):
     
     for col in df.columns:
         for community in communityList:
-            if (url.str.contains(community)).any():
+            if (df[col].eq(community)).any():
                 namesPresent = namesPresent ++ community
     
     return namesPresent

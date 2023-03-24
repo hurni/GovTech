@@ -35,5 +35,8 @@ for file in glob.glob("*.json"):
     # TODO: exclude the non-cvs files here, e.g. zip archives
     for i in range(len(urls)):
         filename = f'{output_dir}/{domain}/{str(i).zfill(8)}'
-        harvester.download_file(urls[i], filename)
-        print(f'{urls[i]},{filename}.{extension}')
+        try:
+            harvester.download_file(urls[i], filename)
+            print(f'{urls[i]},{filename}.{extension}')
+        except:
+            print(f'{urls[i]},ERROR')

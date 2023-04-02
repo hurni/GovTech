@@ -43,6 +43,6 @@ Gewählter Ansatz: Brute Force. D.h.
 - Ausweiten auf weitere Parameter
 - Für die Einbindung von Geodaten. -> cp. https://davidoesch.github.io/geoservice_harvester_poc/
 - Produktivsetzung: 
-  - Automatisierung nach dem Harvesting (vorausgesetzt: Einwilligung der Datapublisher)
-  - Service für Datapublisher, damti sie selber die Metadaten ergänzen.  
+  - Automatisierung nach dem Harvesting (vorausgesetzt: Einwilligung der Datapublisher): cron-job einrichten.
+  - Service für Datapublisher, damit sie selber die Metadaten ergänzen: Python? Oder .exe?
   - ???

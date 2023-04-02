@@ -6,13 +6,12 @@
 Das Projekt entstand am GovTech-Hackathon 2023. Die Challenge ist hier zu finden: https://hack.opendata.ch/project/947.
 
 ## Ziel
-Metadaten auf opendata.swiss sollen automatisiert angereichert werden, damit geographische Untereinheiten (z.B. Gemeinden, Kantone) bei der Suche 
-nach Datasets gefunden werden, obschon die Datenlieferanten die entsprechenden Angaben nicht in den Metadaten aufgeführt haben.
+Metadaten auf opendata.swiss sollen automatisiert angereichert werden, damit geographische Einheiten (z.B. Gemeinden, Kantone), die in den verknüpften Datasets (i.e. accessURL, donwloadURL) erwähnt sind, bei der Suche auf opendata.swiss gefunden werden. Hintergrund ist, dass die geographischen Einheiten in den Metadaten auf opendata.swiss nicht erwähnt sind.
 
 Gewählter Ansatz: Brute Force. D.h. 
-1. Download dataset 
-2. Parse dataset.
-3. Tag <gemeindename> in den Metadaten hinzufügen, wenn <gemeindename> im dataset erwähnt wurde.
+1. Download einer Ressource von einem Dataset (> File)
+2. Parse File.
+3. Tag der Gemeinde in den Metadaten hinzufügen, wenn sie in der Ressource erwähnt wurde.
 4. Ergänzte Metadaten auf opendata.swiss hinzufügen.
 
 

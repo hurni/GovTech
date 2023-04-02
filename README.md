@@ -23,12 +23,12 @@ Gewählter Ansatz: Brute Force. D.h.
 
 ## todo
 
-- Liste der download-Links mit den entsprechenden Package- und Ressourcen-IDs. > ./harvester
-- Harvesten der Datasets > onedrive.com/...
-- Liste aller Gemeindenamen > ./data
-- Parsen der Downloadfile nach den Gemeindenamen > ./parser
-- POST der gefundenen Gemeindanamen auf das entsprechende Dataset
-- Dokumentieren!
+- Liste der download-Links mit den entsprechenden Package- und Ressourcen-IDs. > harvester/
+- Harvesten der Datasets (locally)
+- Liste aller Gemeindenamen > data/
+- Parsen der Downloadfile nach den Gemeindenamen > parser/
+- POST der gefundenen Gemeindanamen auf das entsprechende Dataset > enrich_metadata/
+- Dokumentieren! > README
 
 
 ## zusätzliche Infos: 
